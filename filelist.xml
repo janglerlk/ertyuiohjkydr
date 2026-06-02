@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
   <file path="xdata.enc" hash="9A51C315A17017E0E37E1AB180282BE4" size="27566" />
-  <file path="Bin/x64/CabalMain.exe" hash="D6B8BE640FEFC9D2A811F1E090A0C8B8" size="13969920" />
-  <file path="Bin/x64/libogg.dll" hash="D245549B32C09F6B40D314C15BC2EECE" size="8304144" />
+  <file path="Bin/x64/CabalMain.exe" hash="1EABBFC9D26BEF739A56F7735E4F6443" size="13966848" />
+  <file path="Bin/x64/libogg.dll" hash="EF8A5641FA65FA2ED589AC171653624B" size="8397328" />
   <file path="Data/ability.enc" hash="7E790074B870893FA2F0D7D4B93773D3" size="8400" />
   <file path="Data/achievement.enc" hash="169524403DB64B5E155532231E5BD1E2" size="37263" />
   <file path="Data/assistant.enc" hash="3B22562DDD0BA44BE29B7A6931164381" size="5455" />
@@ -90,6 +90,97 @@
   <file path="Data/usersetting.dat" hash="AB2667544C35DD04B394AF39A8D64EF0" size="5140" />
   <file path="Data/WarAdventage.enc" hash="0E55813E68F376EA0A0A77881753E6EA" size="426" />
   <file path="Data/WarIngens.enc" hash="59CFCD5BFAB5D49101F4F55F576A7BE6" size="231" />
+  <file path="Data/FX/efx/UI/Absolute_Enforce_Failure.efx" hash="2AD0E82CC08BE171DFD0FE3C5A74E53B" size="1131" />
+  <file path="Data/FX/efx/UI/Absolute_Enforce_Success.efx" hash="860C32A7A7C9286434D21B05C1BFB562" size="2884" />
+  <file path="Data/FX/efx/UI/Absolute_Skill_Open.efx" hash="925030A10EB13E6955FBDE015E18A1BE" size="3939" />
+  <file path="Data/FX/efx/UI/Alarmmsg_Effect.efx" hash="5AC61779F2890F235384E82EC2B6AB1B" size="2540" />
+  <file path="Data/FX/efx/UI/B3combo_setting_N.efx" hash="8427F537632020DD3857E945295D1A88" size="420" />
+  <file path="Data/FX/efx/UI/B3combo_setting_N_on.efx" hash="EDA18476D2FBCEF0144D81A87AA67BCE" size="2890" />
+  <file path="Data/FX/efx/UI/B3combo_setting_S.efx" hash="FC824BBA172A0BAEBD9FB9F632243F4A" size="2881" />
+  <file path="Data/FX/efx/UI/B3combo_setting_spatk.efx" hash="98BCA2C67C85A6DF36FB5821E79F4F5F" size="4647" />
+  <file path="Data/FX/efx/UI/B3combo_setting_spatk_on.efx" hash="1DAFB84D75674B5E1CB2625151FA530F" size="3606" />
+  <file path="Data/FX/efx/UI/B3combo_setting_S_on.efx" hash="D5C1E976CB4A89129CD37434EF52436E" size="1477" />
+  <file path="Data/FX/efx/UI/Burning_Event.efx" hash="B4C57792874D4B0CB641C718914497C1" size="4626" />
+  <file path="Data/FX/efx/UI/LegacyTicket_btn.efx" hash="87C00CD19CD8ECB70FEEF13F2BE80874" size="1473" />
+  <file path="Data/FX/efx/UI/LegacyTicket_ReceiptBG.efx" hash="F660876B8594F89C71B878EC8D35BA91" size="1114" />
+  <file path="Data/FX/efx/UI/MagicTechGear.EBM" hash="8DC7032D9E3FA036C14C1992EA3525ED" size="292355" />
+  <file path="Data/FX/efx/UI/NewbieSupport_btn.efx" hash="668BAD392990F577B38B44EEE6DDA976" size="2159" />
+  <file path="Data/FX/efx/UI/PuzzleCombine_Blue.efx" hash="284720C1070C51C5191FBB66CBDF18B7" size="3575" />
+  <file path="Data/FX/efx/UI/PuzzleCombine_Fail.efx" hash="3D95036A35B1CE0D3ABA002512C19F85" size="1476" />
+  <file path="Data/FX/efx/UI/PuzzleCombine_Green.efx" hash="BFF200CD6E5E056AD2C2958347DE5785" size="3576" />
+  <file path="Data/FX/efx/UI/PuzzleCombine_Orange.efx" hash="23D5F3BDDA4F9FE373EE149C5D5A482F" size="3573" />
+  <file path="Data/FX/efx/UI/PuzzleCombine_Purple.efx" hash="7CC9D09F123DE6C18841256E5DFFD1B4" size="3573" />
+  <file path="Data/FX/efx/UI/PuzzleCombine_Red.efx" hash="AFB591F101F3682A78E922126E2F9863" size="3573" />
+  <file path="Data/FX/efx/UI/PuzzleCombine_Succes.efx" hash="2CECBB2ABD07C54D56666D68340A5FDB" size="1475" />
+  <file path="Data/FX/efx/UI/PuzzleCombine_White.efx" hash="F07ACF427245EA1CEDC2BE30640F000F" size="3573" />
+  <file path="Data/FX/efx/UI/PuzzleCombine_Yellow.efx" hash="7746E44C725F915997BDD61BA34B6DBB" size="3573" />
+  <file path="Data/FX/efx/UI/Puzzle_Select.efx" hash="46CB224AD61261F09E8E82DA274B631D" size="1470" />
+  <file path="Data/FX/efx/UI/quickslot_ready.efx" hash="036018A33D63AB3B995E0318BDA93B01" size="2166" />
+  <file path="Data/FX/efx/UI/Select_mode.efx" hash="584987D865F0DC6CB951359D73164F0E" size="1128" />
+  <file path="Data/FX/efx/UI/Skill_Use_Remaining.efx" hash="E3AA2CE384C5BBCEC97E853E5CAAEF06" size="2182" />
+  <file path="Data/FX/efx/UI/statue_bonus.efx" hash="809FDD2B0AC1B8CD09C0D8E4106921C3" size="3545" />
+  <file path="Data/FX/efx/UI/statue_change.efx" hash="1BCB112970D0981BA712465E4128D270" size="1809" />
+  <file path="Data/FX/efx/UI/statue_exp.efx" hash="99E812BD60BBCC8073BFEB574FAF1C0B" size="1832" />
+  <file path="Data/FX/efx/UI/statue_lock.efx" hash="36EE6AB3BD5B602723EB452E0CFBE84C" size="2181" />
+  <file path="Data/FX/efx/UI/Statue_Unlock.efx" hash="42B738AA8009E6D16AB14E17E9607E57" size="1135" />
+  <file path="Data/FX/efx/UI/statue_up.efx" hash="EA723FD04A7D8E9DE2264C74DADC4B58" size="3189" />
+  <file path="Data/FX/efx/UI/StellarForce_Open.efx" hash="66DD42B1F3418B68ED2F48F1FF081B59" size="423" />
+  <file path="Data/FX/efx/UI/StellarForce_SkillOff.efx" hash="C49606A3A4718AE3C16D90BB62E50899" size="2499" />
+  <file path="Data/FX/efx/UI/StellarForce_SkillOn.efx" hash="6A08D0B2FDC118F64EC3C6257892BD18" size="789" />
+  <file path="Data/FX/efx/UI/TodayDungeon_btn.efx" hash="B9FE3170672AE83596D16B3BA2C6680A" size="1469" />
+  <file path="Data/FX/efx/UI/TotalEnchant_Grant.efx" hash="B78665A591722DC61FBF55A59AD5DDF6" size="1830" />
+  <file path="Data/FX/efx/UI/TotalEnchant_H_Fail.efx" hash="81F259789E50FCE0A0FA03D133C1D2FE" size="6055" />
+  <file path="Data/FX/efx/UI/TotalEnchant_H_Success.efx" hash="E1FE9B911EBB9AE83D4A8B6345F328CE" size="4983" />
+  <file path="Data/FX/efx/UI/TotalEnchant_V_Fail.efx" hash="C6114BDBA76EF4154D02E7E3E760CC13" size="4285" />
+  <file path="Data/FX/efx/UI/TotalEnchant_V_short_Fail.efx" hash="E6D87C970D1EF008F2E01438E9888068" size="2540" />
+  <file path="Data/FX/efx/UI/TotalEnchant_V_short_Success.efx" hash="F27CC17AF3DA3CF1F0CFD602B3D32913" size="2881" />
+  <file path="Data/FX/efx/UI/TotalEnchant_V_Success.efx" hash="821C166EC19FFB7FC86EFE9FA2C1C2AC" size="4626" />
+  <file path="Data/FX/efx/UI/TrophyAppraisal_Auto.efx" hash="9D5EA2EFB0324AF08E66E03FFD90A438" size="2211" />
+  <file path="Data/FX/efx/UI/TrophyAppraisal_Change.efx" hash="CFC7E228DEE0AB0D7EF254847C114D9D" size="1470" />
+  <file path="Data/FX/efx/UI/TrophyAppraisal_Gold.efx" hash="E8BA08B8D5AA116232EA36DC976F838A" size="2156" />
+  <file path="Data/FX/efx/UI/TrophyAppraisal_Green.efx" hash="D513AF3CD057A9F5D9E4658EDE325A99" size="1477" />
+  <file path="Data/FX/efx/UI/TrophyAppraisal_Pink.efx" hash="5F4A3F4B50D8C2E3427DD0DA53CF7092" size="1474" />
+  <file path="Data/FX/efx/UI/TrophyAppraisal_ReviveG.efx" hash="41738CB4BCB01A1D11915BC554BA69CA" size="1808" />
+  <file path="Data/FX/efx/UI/TrophyAppraisal_ReviveR.efx" hash="0021ED2C09F62254345A6E5749CF79BD" size="1805" />
+  <file path="Data/FX/efx/UI/TrophyAppraisal_White.efx" hash="FB712635354B15D2C7ADD71FFD1A47B3" size="769" />
+  <file path="Data/FX/efx/UI/TrophyBriefing_Briefing.efx" hash="FC57468833E752613EFB9E936D355A5D" size="4253" />
+  <file path="Data/FX/efx/UI/TrophyBriefing_Reward.efx" hash="BB0B02179CC2073A1FB3855300F417A2" size="2187" />
+  <file path="Data/FX/efx/UI/TrophyDelEval_DelResult.efx" hash="2323D3C133090DCA3E7D0B4931994AB6" size="6745" />
+  <file path="Data/FX/efx/UI/TrophyDelEval_ItemSlot.efx" hash="5C328F0658FA8513B4EE0954E4DB4520" size="3585" />
+  <file path="Data/FX/efx/UI/TrophyDelEval_LineHeight.efx" hash="EA32191D67A1D951149612A43B77F458" size="3576" />
+  <file path="Data/FX/efx/UI/TrophyDelEval_LineHeightL.efx" hash="E432219A45C0002DE1B6F400E6150D21" size="3576" />
+  <file path="Data/FX/efx/UI/TrophyDelEval_LineWidth.efx" hash="E85B27A81EDDE6FC6D44C2E439EED27A" size="3576" />
+  <file path="Data/FX/efx/UI/TrophyDelEval_Result.efx" hash="7B09866DBF82BA03776B1CB8DFA72F05" size="6745" />
+  <file path="Data/FX/src/ebm/aur12_bl1r.ebm" hash="BBFFC88FDF7D4A90F9B08BC1CAD925E6" size="82437" />
+  <file path="Data/FX/src/ebm/aur12_og1r.ebm" hash="4970EED7F21F8FE35D837A4112FE16D9" size="82437" />
+  <file path="Data/FX/src/ebm/aur2_og2r.ebm" hash="63EAFEB3C4B33240DBAEC4C126858CDC" size="185230" />
+  <file path="Data/FX/src/ebm/plane_3_rd1r.ebm" hash="12D8B027EC9972F11CFF851BB32B5022" size="280771" />
+  <file path="Data/FX/src/ebm/plane_h_og1r.ebm" hash="443BE6000B389E5E294B44881F6388B5" size="42854" />
+  <file path="Data/FX/src/ebm/plane_h_og2r.ebm" hash="D5E2B55EC1D01563317FEF904BB423E9" size="36717" />
+  <file path="Data/FX/src/ebm/ui_circle2_rd1r.ebm" hash="0E1243A95395C434BBE2AF6FE827FF14" size="87914" />
+  <file path="Data/FX/src/ebm/ui_icon(red)_enhancement.ebm" hash="0A673345A362E5F8691DD7F4097A212D" size="67083" />
+  <file path="Data/FX/src/ebm/ui_slot03_rd2r_1x4.ebm" hash="7EE4090E0C2A835A2D519CE9CC964916" size="11312" />
+  <file path="Data/FX/src/ebm/ui_slot03_yl1r_1x4.ebm" hash="04FADA0F69DE9D2A417AFB5A40B9D9AD" size="5168" />
+  <file path="Data/FX/src/ebs/c_star_in_rd.ebs" hash="3E01BA2F49BFD8FF988A1A594C80A3B5" size="16681" />
+  <file path="Data/FX/src/ebs/swirl1_rd1r_n.ebs" hash="70135F80048AFA6B4D9FDB13851A4CFB" size="262448" />
+  <file path="Data/FX/src/ebs/ui_icon_circle2_gr1r.ebs" hash="F149451E945FA24DC50762680A3B6F91" size="65834" />
+  <file path="Data/FX/src/ebs/ui_icon_circle2_yl1r.ebs" hash="178E564EAD6F9DBDB7EFB4CD00986157" size="65833" />
+  <file path="Data/FX/src/ebs/ui_icon_line11_og.ebs" hash="F98489846712EC74FCCD37F8033673AA" size="65834" />
+  <file path="Data/FX/src/ebs/ui_icon_line11_rd.ebs" hash="4242752A998067E43D032D6CA03FFB0D" size="16683" />
+  <file path="Data/FX/src/ebs/ui_icon_line2_og1r.ebs" hash="2FB1CFB71461330D2B1D5D4BD3870B86" size="16682" />
+  <file path="Data/FX/src/ebs/ui_icon_line4_og3r.ebs" hash="92D06BCBAB34CBA6FFB434B024CA9C7B" size="65833" />
+  <file path="Data/FX/src/efx/line_lit_rd1.efx" hash="3A86AC4D69F2850331A045B9D93915B8" size="2525" />
+  <file path="Data/FX/src/efx/soulstone_heptacle_slot_idle.efx" hash="F9499408566078A802648E22A12037B4" size="1117" />
+  <file path="Data/FX/src/efx/ui_explo2_rd1al.efx" hash="4ED1BDED8764741B5625719F32926748" size="3576" />
+  <file path="Data/FX/src/efx/ui_explo3_bl1.efx" hash="51680142FF4A5C476D9B8B892D4B82BD" size="4635" />
+  <file path="Data/FX/src/efx/ui_explo3_rd1al.efx" hash="E7B5DD976605DD34E2AFACB8202DF2F3" size="1815" />
+  <file path="Data/FX/src/efx/ui_explo3_yl1r.efx" hash="EC2A9311466161F3E5F5BFB2E6910758" size="4275" />
+  <file path="Data/FX/src/elt/lighting4_1(rd).elt" hash="AB611CBCE268DFFEDC72C0C900484722" size="87652" />
+  <file path="Data/FX/src/elt/lighting4_2(rd).elt" hash="8FF42A4605F3064E37FB7CD53C0A6384" size="87652" />
+  <file path="Data/FX/src/eps/firedust(orange3).eps" hash="3A117CE88C53E1B1AC950AFD61B99C11" size="87749" />
+  <file path="Data/FX/src/eps/firedust(red).eps" hash="791128868C6D6361E1C7C6F3D1786C7A" size="87749" />
+  <file path="Data/FX/src/eps/shine3_yl1r_1i1.eps" hash="F5C19958E5E922D1D3183F3290A9BA8E" size="87777" />
+  <file path="Data/FX/src/eps/shine3_yl1r_2j.eps" hash="F8F71DA2446CBF906CC37D461BA3435C" size="87777" />
   <file path="Data/language/Portuguese/achievement_msg.enc" hash="011211356237B3C76AD89E13147EB695" size="29657" />
   <file path="Data/language/Portuguese/Awaken_auramode_msg.enc" hash="E48C71DCD0F23096EC7C7A9D01B5F598" size="675" />
   <file path="Data/language/Portuguese/balloon_msg.enc" hash="78552DEDA3C008732995A1B008C91317" size="5020" />
@@ -129,11 +220,23 @@
   <file path="Data/language/Portuguese/Skill_Enhanced_msg.enc" hash="E5EA10E205DFE308AD2A20F603EFE6FD" size="1448" />
   <file path="Data/language/Portuguese/stellar_msg.enc" hash="EB229E6D7B70D381AB2B53475FC06CDB" size="372" />
   <file path="Data/language/Portuguese/tab_msg.enc" hash="B198E89806511D80BAF86570CF0777FC" size="177" />
-  <file path="Data/language/Portuguese/tip.cbl" hash="59EDE366AB711B27D5682186C7555BE3" size="34716" />
+  <file path="Data/language/Portuguese/tip.cbl" hash="B890A7073BE35BE1328C0B63C45CD70D" size="35178" />
   <file path="Data/language/Portuguese/tip.enc" hash="A7BBA7087013A9B589D66E51C7A3478B" size="2496" />
   <file path="Data/map/world_24.mcl" hash="E14189B54AA47076C7DA2B53091DBDC2" size="6757714" />
+  <file path="Data/Sound/B3combo_setting_N_on.ogg" hash="7F1DB968B856AD6E4B9E26B845D3217F" size="61332" />
+  <file path="Data/Sound/B3combo_setting_spatk_on.ogg" hash="11411326997DD7D5AB3C6286D471300D" size="92838" />
+  <file path="Data/Sound/B3combo_setting_S_on.ogg" hash="3168B1C482CF18A6F77E6249D4D58979" size="83245" />
   <file path="Data/ui/est_ci.dds" hash="A0FC4728502E8DE8BC4939AF3305B65F" size="27328" />
   <file path="Data/ui/Logo.dds" hash="618D8F123FE2657AF913357AF8BEBA35" size="524416" />
   <file path="Data/ui/logo_company.dds" hash="1B55095EA8332ABE037A006943E4ED55" size="534704" />
   <file path="Data/ui/Logo_EST.dds" hash="1CD92991D3D64F0879D196171C4911EE" size="629620" />
+  <file path="Data/ui/icon/skill726.dds" hash="2DA9D84534177993F663B02F5A5E7ADE" size="21972" />
+  <file path="Data/ui/icon/skill727.dds" hash="164896ED8F9C5179D48F2ACAD3ADA0FA" size="21972" />
+  <file path="Data/ui/icon/skill728.dds" hash="024CDAD3546199E585B11ECFE93799F4" size="21972" />
+  <file path="Data/ui/icon/skill729.dds" hash="4E9FDC0E6D1C5FA91B474B16E3002C79" size="21972" />
+  <file path="Data/ui/icon/skill730.dds" hash="296A65ED3B2E5D285EDA5B84C9D207FE" size="21972" />
+  <file path="Data/ui/icon/skill731.dds" hash="24DCBD21B82A5028A7329809991FAE1E" size="21972" />
+  <file path="Data/ui/icon/skill732.dds" hash="F0F46AE65D697146897977C9A61D91CA" size="21972" />
+  <file path="Data/ui/icon/skill733.dds" hash="A0A3692769C27AF5B2B6AA9A0BC02AF3" size="21972" />
+  <file path="Data/ui/icon/skill734.dds" hash="455A20786E3BA9304FECA84078B0B3AD" size="21972" />
 </files>
