@@ -51,7 +51,7 @@
   <file path="Data/honor_medal.enc" hash="FA5325A9A64F56A1EE76305C321A30EA" size="2245" />
   <file path="Data/InventorySlot.enc" hash="85A2E6B4CD33E10698FE27CB8531236C" size="4519" />
   <file path="Data/item.enc" hash="830FA2D06E0BE76C51081F2115D37A3C" size="120317" />
-  <file path="Data/item2.enc" hash="C05AB7FEFE6D72E2AC773521A3308A52" size="121760" />
+  <file path="Data/item2.enc" hash="8B9E6AEA0076B9447B2C5BEF480A2AF2" size="121780" />
   <file path="Data/item3.enc" hash="B51AC75EBBF5F4C8F2C95ECF2DF57A67" size="98" />
   <file path="Data/item4.enc" hash="F869C0A662B38FC8D28E2580777FE131" size="98" />
   <file path="Data/ItemConvert.enc" hash="DE7DC98A27E04CA367D020B590416696" size="473" />
@@ -90,6 +90,8 @@
   <file path="Data/usersetting.dat" hash="AB2667544C35DD04B394AF39A8D64EF0" size="5140" />
   <file path="Data/WarAdventage.enc" hash="0E55813E68F376EA0A0A77881753E6EA" size="426" />
   <file path="Data/WarIngens.enc" hash="59CFCD5BFAB5D49101F4F55F576A7BE6" size="231" />
+  <file path="Data/FX/efx/item/pitem/GiftCard_Cacador01.efx" hash="093E59DF3E8E1050B55A65BD853A49F0" size="772" />
+  <file path="Data/FX/efx/item/pitem/GiftCard_Synergy01.efx" hash="FF3E1AA01ABF0768BB77994F50B58287" size="772" />
   <file path="Data/FX/efx/UI/Absolute_Enforce_Failure.efx" hash="2AD0E82CC08BE171DFD0FE3C5A74E53B" size="1131" />
   <file path="Data/FX/efx/UI/Absolute_Enforce_Success.efx" hash="860C32A7A7C9286434D21B05C1BFB562" size="2884" />
   <file path="Data/FX/efx/UI/Absolute_Skill_Open.efx" hash="925030A10EB13E6955FBDE015E18A1BE" size="3939" />
@@ -181,6 +183,8 @@
   <file path="Data/FX/src/eps/firedust(red).eps" hash="791128868C6D6361E1C7C6F3D1786C7A" size="87749" />
   <file path="Data/FX/src/eps/shine3_yl1r_1i1.eps" hash="F5C19958E5E922D1D3183F3290A9BA8E" size="87777" />
   <file path="Data/FX/src/eps/shine3_yl1r_2j.eps" hash="F8F71DA2446CBF906CC37D461BA3435C" size="87777" />
+  <file path="Data/item/pitem/ticketcacador.ebm" hash="49B914553E9265F523FC8D355C791089" size="5207375" />
+  <file path="Data/item/pitem/ticketsynergy.ebm" hash="9058ADED3B6785468C233C9B37FAF7D3" size="5217205" />
   <file path="Data/language/Portuguese/achievement_msg.enc" hash="011211356237B3C76AD89E13147EB695" size="29657" />
   <file path="Data/language/Portuguese/Awaken_auramode_msg.enc" hash="E48C71DCD0F23096EC7C7A9D01B5F598" size="675" />
   <file path="Data/language/Portuguese/balloon_msg.enc" hash="78552DEDA3C008732995A1B008C91317" size="5020" />
