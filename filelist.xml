@@ -18,7 +18,7 @@
   <file path="Data/chaos_upgrade.enc" hash="BD10FF704AF3215E8CF2907861C1F78D" size="6096" />
   <file path="Data/chat_balloon.enc" hash="8AB7AD1E5366BAA0CCA2D1DC12D3AEF1" size="4919" />
   <file path="Data/checkAB.enc" hash="68B24AAB04974E4101CE58DA116513AB" size="1019" />
-  <file path="Data/Collection.enc" hash="A95594ABB426F8DDDBCDB5DD19628A32" size="33968" />
+  <file path="Data/Collection.enc" hash="A39217E8DA9D88C07D6D0274E87F89EA" size="33988" />
   <file path="Data/cont.enc" hash="9B833C4D070E805E22DD1B2FE6BACC12" size="33178" />
   <file path="Data/cont2.enc" hash="55FAEF0FF8037C6069C6141081305FDC" size="8190" />
   <file path="Data/cont3.enc" hash="892550E536E7DA01582AA5F762FED7E0" size="3103" />
@@ -192,7 +192,7 @@
   <file path="Data/language/Portuguese/cabal_msg.enc" hash="7CEAA6A311FE362E883E01ACE087691E" size="643742" />
   <file path="Data/language/Portuguese/caz_msg.enc" hash="EE6DC0D1551FC9D2AC2BC65ABBB7FCE9" size="2302" />
   <file path="Data/language/Portuguese/ChallengeMissionMsg.enc" hash="F8FA11DD4C2BA0BA2BF2CFA9D70BDAFD" size="240" />
-  <file path="Data/language/Portuguese/Collection_msg.enc" hash="035FC5D88B46F039CAE3B19EA9BC8C64" size="22441" />
+  <file path="Data/language/Portuguese/Collection_msg.enc" hash="C096C1E6F850ED8435D2A8CCB9E4E1E6" size="22332" />
   <file path="Data/language/Portuguese/cont2_msg.enc" hash="7C324C32F897F34EA4FBD380F459179C" size="14024" />
   <file path="Data/language/Portuguese/cont3_msg.enc" hash="6DB2A9ECB09F96E0A4CDDB0DDBBB8AF2" size="3548" />
   <file path="Data/language/Portuguese/cont_msg.enc" hash="BFF7C8A5C02FA5B958B889EC797C04E5" size="16771" />
