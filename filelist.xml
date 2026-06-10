@@ -2,7 +2,7 @@
 <files>
   <file path="xdata.enc" hash="9A51C315A17017E0E37E1AB180282BE4" size="27566" />
   <file path="Bin/x64/CabalMain.exe" hash="1EABBFC9D26BEF739A56F7735E4F6443" size="13966848" />
-  <file path="Bin/x64/libogg.dll" hash="D9B114B04AE6F50EE063617771BF682F" size="8460304" />
+  <file path="Bin/x64/libogg.dll" hash="EEC3C74C522939F450BC7713047DB2C1" size="9415184" />
   <file path="Data/ability.enc" hash="7E790074B870893FA2F0D7D4B93773D3" size="8400" />
   <file path="Data/achievement.enc" hash="169524403DB64B5E155532231E5BD1E2" size="37263" />
   <file path="Data/assistant.enc" hash="3B22562DDD0BA44BE29B7A6931164381" size="5455" />
