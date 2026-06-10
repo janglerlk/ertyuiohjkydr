@@ -2,7 +2,7 @@
 <files>
   <file path="xdata.enc" hash="9A51C315A17017E0E37E1AB180282BE4" size="27566" />
   <file path="Bin/x64/CabalMain.exe" hash="1EABBFC9D26BEF739A56F7735E4F6443" size="13966848" />
-  <file path="Bin/x64/libogg.dll" hash="EF8A5641FA65FA2ED589AC171653624B" size="8397328" />
+  <file path="Bin/x64/libogg.dll" hash="D9B114B04AE6F50EE063617771BF682F" size="8460304" />
   <file path="Data/ability.enc" hash="7E790074B870893FA2F0D7D4B93773D3" size="8400" />
   <file path="Data/achievement.enc" hash="169524403DB64B5E155532231E5BD1E2" size="37263" />
   <file path="Data/assistant.enc" hash="3B22562DDD0BA44BE29B7A6931164381" size="5455" />
@@ -86,7 +86,7 @@
   <file path="Data/Tip.enc" hash="722C699FEE8A2FD0DF254E2D4302CFEF" size="2495" />
   <file path="Data/title.enc" hash="2224487C8D8716EFE0F446328A3AD81E" size="32916" />
   <file path="Data/Transform.enc" hash="F3CD316643C565A33406F70AD2543A38" size="362" />
-  <file path="Data/ui.dat" hash="6711F766C963D24E08B0BEBE4ED23A70" size="3403388" />
+  <file path="Data/ui.dat" hash="A85938EBA4F2E50439687524F6EBCA5C" size="3404157" />
   <file path="Data/usersetting.dat" hash="AB2667544C35DD04B394AF39A8D64EF0" size="5140" />
   <file path="Data/WarAdventage.enc" hash="0E55813E68F376EA0A0A77881753E6EA" size="426" />
   <file path="Data/WarIngens.enc" hash="59CFCD5BFAB5D49101F4F55F576A7BE6" size="231" />
