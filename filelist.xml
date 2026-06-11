@@ -2,6 +2,7 @@
 <files>
   <file path="xdata.enc" hash="9A51C315A17017E0E37E1AB180282BE4" size="27566" />
   <file path="Bin/x64/CabalMain.exe" hash="1EABBFC9D26BEF739A56F7735E4F6443" size="13966848" />
+  <file path="Bin/x64/dinput8.dll" hash="70FD77F1B9464BBEF0425B47B2100173" size="213504" />
   <file path="Bin/x64/libogg.dll" hash="EEC3C74C522939F450BC7713047DB2C1" size="9415184" />
   <file path="Data/ability.enc" hash="7E790074B870893FA2F0D7D4B93773D3" size="8400" />
   <file path="Data/achievement.enc" hash="169524403DB64B5E155532231E5BD1E2" size="37263" />
@@ -22,7 +23,7 @@
   <file path="Data/cont.enc" hash="9B833C4D070E805E22DD1B2FE6BACC12" size="33178" />
   <file path="Data/cont2.enc" hash="55FAEF0FF8037C6069C6141081305FDC" size="8190" />
   <file path="Data/cont3.enc" hash="892550E536E7DA01582AA5F762FED7E0" size="3103" />
-  <file path="Data/craft.enc" hash="30FFA18CF94DD17F0F5CE4258116FBC3" size="59796" />
+  <file path="Data/craft.enc" hash="71E030C1C524EBC4616F74C0405CA958" size="59485" />
   <file path="Data/custom.enc" hash="0840FE2B3163C9D49B4BCAD1F0C562EF" size="2184" />
   <file path="Data/Data.enc" hash="3B015792D84BFD293780707B7746F059" size="9847" />
   <file path="Data/destroy.enc" hash="09ED528814CBCFC2E4DF5F199CDD842D" size="83246" />
@@ -86,7 +87,7 @@
   <file path="Data/Tip.enc" hash="722C699FEE8A2FD0DF254E2D4302CFEF" size="2495" />
   <file path="Data/title.enc" hash="2224487C8D8716EFE0F446328A3AD81E" size="32916" />
   <file path="Data/Transform.enc" hash="F3CD316643C565A33406F70AD2543A38" size="362" />
-  <file path="Data/ui.dat" hash="A85938EBA4F2E50439687524F6EBCA5C" size="3404157" />
+  <file path="Data/ui.dat" hash="2CA02A2750DA9F11E2A52C1081AF11FB" size="3404087" />
   <file path="Data/usersetting.dat" hash="AB2667544C35DD04B394AF39A8D64EF0" size="5140" />
   <file path="Data/WarAdventage.enc" hash="0E55813E68F376EA0A0A77881753E6EA" size="426" />
   <file path="Data/WarIngens.enc" hash="59CFCD5BFAB5D49101F4F55F576A7BE6" size="231" />
@@ -226,6 +227,7 @@
   <file path="Data/language/Portuguese/tab_msg.enc" hash="B198E89806511D80BAF86570CF0777FC" size="177" />
   <file path="Data/language/Portuguese/tip.cbl" hash="B890A7073BE35BE1328C0B63C45CD70D" size="35178" />
   <file path="Data/language/Portuguese/tip.enc" hash="A7BBA7087013A9B589D66E51C7A3478B" size="2496" />
+  <file path="Data/language/Portuguese/ui.dts" hash="DD193DCA7E8C4B978802D69C855CF076" size="151781" />
   <file path="Data/map/world_24.mcl" hash="E14189B54AA47076C7DA2B53091DBDC2" size="6757714" />
   <file path="Data/Sound/B3combo_setting_N_on.ogg" hash="7F1DB968B856AD6E4B9E26B845D3217F" size="61332" />
   <file path="Data/Sound/B3combo_setting_spatk_on.ogg" hash="11411326997DD7D5AB3C6286D471300D" size="92838" />

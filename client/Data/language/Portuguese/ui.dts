@@ -1,0 +1,5923 @@
+1@ OK
+10@ Sair
+100@ 1,29:0,30:0,31:0,32:0,29:0,33:0,29:0
+10062@ HP
+10063@ MP
+10064@ SP
+10065@ /
+10066@ /
+10067@ /
+10068@ /
+10069@ BP
+10070@ HP
+10071@ MP
+10072@ SP
+10073@ /
+10074@ /
+10075@ /
+10076@ Penalidade de Morte
+10077@ BP
+10078@ /
+10080@ * O item será removido quando registrado para a missão.
+10082@ Entre no Calabouço
+10083@ Se você não entrar no calabouço no tempo restante, o calabouço será fechado e a equipe será dispensada.
+10084@ Calabouço de Guilda
+10089@ * A classificação semanal da guilda é redefinida toda segunda-feira à meia-noite (AM 00:30).
+10090@ contagem não será reposta
+10091@ * Mesmo que o tempo de jogo seja recarregado, entrada do calabouço
+10092@ Tesouro de Guilda não disponível
+10093@ A condição não foi alcançada.
+10094@ [Batalha]
+10095@ não possui BP suficiente
+10096@ Alcançar Ponto de Missão de Guerra
+10097@ Tesouro ao atender a condição
+10098@ Pode ser recebido
+10099@ BP
+101@ 1,0:0
+10100@ O tesouro da guilda atinge uma condição não qualificada.
+10101@ não pertence à uma guilda
+10102@ [Batalha]
+10103@ Não é um personagem de guilda principal
+10104@ Alcançar Ponto de Missão de Guerra
+10105@ Definir personagem principal na guilda
+10106@ Se você joga, Tesouro de Guilda
+10107@ Pode ser recebido
+10108@ Tesouro de Guilda pode ser recebido!
+10109@ BP
+10110@ [Batalha]
+10111@ Confirma recebimento do Tesouro de Guilda?
+10112@ Receber Tesouro
+10113@ Tesouro de Guilda não disponível
+10114@ A condição não foi alcançada.
+10115@ [Aprimoramento]
+10116@ não possui BP suficiente
+10117@ Calabouço Completo
+10118@ Tesouro ao atender a condição
+10119@ Pode ser recebido
+10120@ BP
+10121@ O tesouro da guilda atinge uma condição não qualificada.
+10122@ não pertence à uma guilda
+10123@ [Aprimoramento]
+10124@ Não é um personagem de guilda principal
+10125@ Calabouço Completo
+10126@ Se você joga, Tesouro de Guilda
+10127@ Definir personagem principal na guilda
+10128@ Pode ser recebido
+10129@ Tesouro de Guilda pode ser recebido!
+10130@ BP
+10131@ [Aprimoramento]
+10132@ Confirma recebimento do Tesouro de Guilda?
+10133@ Receber Tesouro
+10134@ Tesouro de Guilda não disponível
+10135@ A condição não foi alcançada.
+10136@ [Aprimoramento]
+10137@ Aprimoramento Normal/Caos
+10138@ não possui BP suficiente
+10139@ Aprimoramento Divino/Extremo
+10140@ Pontos de Aprimoramento
+10141@ Tesouro ao atender a condição
+10142@ Pode ser recebido
+10143@ BP
+10144@ O tesouro da guilda atinge uma condição não qualificada.
+10145@ não pertence à uma guilda
+10146@ [Aprimoramento]
+10147@ Aprimoramento Normal/Caos
+10148@ Não é um personagem de guilda principal
+10149@ Aprimoramento Divino/Extremo
+10150@ Pontos de Aprimoramento
+10151@ Definir personagem principal na guilda
+10152@ Se você joga, Tesouro de Guilda
+10153@ Pode ser recebido
+10154@ Tesouro de Guilda pode ser recebido!
+10155@ BP
+10156@ [Aprimoramento]
+10157@ Confirma recebimento do Tesouro de Guilda?
+10158@ Receber Tesouro
+10159@ Tempo(s)
+10160@ Tempo(s)
+10161@ vezes
+10162@ Tempo(s)
+10163@ vezes
+10190@ Compra
+10191@ Compra
+10192@ Compra
+102@ 1,0:0
+10202@ Coleção
+10203@ Menu de Guilda
+10204@ Inbox
+10205@ Menu CABAL
+10206@ Gemas Arcanas
+10207@ Visualizar
+10208@ Fechar
+103@ 1,0:0
+1030@ Cancelar
+1031@ OK
+1032@ Itens Normais
+1033@ Saques Livres
+1034@ Por Ordem
+10346@ Fechar
+10347@ Transcendente
+10348@ Usando o material de transcendência para aprimorar um nível.
+10349@ Asa Arcana Transcendente
+1035@ Apenas Líder
+10350@ Asa Arcana
+10351@ Asa Arcana
+10352@ Asa Arcana
+10353@ Asa Arcana
+10354@ Asa Arcana
+10355@ Asa Arcana
+10356@ Asa Arcana
+10357@ Asa Arcana
+10358@ Asa Arcana
+10359@ Asa Arcana
+1036@ Itens Ligados
+10361@ Nível de Zoom
+10362@ Nv.1
+10363@ Nv. 2
+10364@ Nv. 3
+10366@ $47#* Você pode girar para a direita / esquerda pressionando o botão direito do mouse.$\\$47# * Você pode aumentar / diminuir o zoom selecionando o nível de zoom da câmera.$\\Nv1: você pode ver fantasias de rosto e cabelo do personagem\\ Nv2: Você pode ver o personagem inteiro.\\Nv3: Você pode ver a Asa Arcana / Veículo.
+1037@ Jogar o dado
+1038@ Acordo Imediato
+1039@ Opções de Grupo
+104@ 1,0:0
+1040@ Cancelar
+1041@ Confirmação
+1042@ Usar Cartão de Nomeação de Pet
+1043@ Muda o nome do Pet usando um Cartão de Nomeação de Pet
+1044@ Nome Atual
+1045@ Nome Novo
+1046@ Confirmação
+1047@ Penalidade PK
+1048@ Não pode falar com o NPC enquanto usa o Portal de Teleporte
+1049@ Cancelar
+10496@ Insígnia Dourada
+10497@ Insígnia Platina
+10498@ Rank
+10499@ $1#[Promoção de Insígnia]$\\Assim que todas os domínios de Insígnia Dourada forem conquistadas,\\Você será promovido a $55#Insígnia Platina$
+105@ 1,0:0
+1050@ OK
+10500@ Ponto de Mérito
+10501@ Ponto de Mérito
+10502@ para personagens Nv 170 +
+10503
+10504@ DEF atributos
+10505@ Status de Ataque
+10506@ Domínio da Insignia Dourada é
+10507@ Insígnia Dourada
+10508@ Insígnia Platina
+10509@ Insígnia Dourada
+1051@ Revestimento de Moto Astral
+10510@ Registrar Slot Rápido
+10511@ Conceder Domínio Especial
+10512@ Acelerar
+10513@ $1#[Memória de Domínio]$\\Você pode $23#salvar o status de aprendizado dos domínios$\\e usá-lo mudando-o.
+10514@ Abertura Slot de Domínio
+10515@ $1#[Slot de Domínio Aberto]$\\Você pode adquirir domínio depois de\\$23#abrir os slots$ em cada domínio.
+10516@ Informação Insignia Dourada
+10517@ $1#[Domínio Especial]\\Status de Domínio Especiais são aplicadas\\$23#depois de adquirir o Domínio Especial Expandido.$
+10518@ Insígnia Platina
+10519@ Ponto de Mérito
+1052@ Revista a sua Moto Astral utilizando tinta.
+10520@ Ponto de Mérito
+10521@ Em personagens com Nv.200 e acima
+10522
+10523@ DEF atributos
+10524@ Status de Ataque
+10525@ Domínio da Insígnia Platina é
+10526@ Memória de Domínio
+10527@ Resetar Pontos de Mérito
+10528@ $1#[Habilidade normal]$\\aplica-se apenas na\\$23#Missão de Guerra$
+10529@ $1#[Habilidade normal]$\\aplica-se apenas na\\$23#Missão de Guerra$
+1053@ Mudar a cor da sua Moto Astral
+10530@ $1#[Status Expandido]$\\Status de habilidades são aplicadas em \\$23#guera de missão$ e $23#calabouços e campos$
+10531@ $1#[Status Expandido]$\\Status de habilidades são aplicadas em \\$23#guera de missão$ e $23#calabouços e campos$
+10532@ 1,125:0
+10533@ 1,125:0
+10534@ 1,96:0
+10535@ 1,97:0
+10536@ PTT
+10537@ Fechar
+10538@ 1,159:0
+10539@ Acelerar
+1054@ ao usar 1 Kit de Revestimento de Moto Astral
+10540@ Usando o Redutor de tempo para reduzir o tempo restante aberto.
+10541@ Usar
+10542@ Cancelar
+10543@ vezes
+10544@ Quantidade
+10545@ 0
+10546@ Tempo Reduzido Total
+10547@ /
+10548@ Cancelar
+10549@ Confirmação
+1055@ Deseja continuar?
+10550@ Rank da Insígnia
+10551@ Usando os seguintes materiais para promover a $55#Insignia Platina.$
+10552@ Tck para Trocar Med. de Mérito
+10553@ WExp
+10554@ Insígnia Dourada
+10555@ Insígnia Platina
+10556@ OK
+10557@ Rank Completo
+10558@ Parabéns!
+10559@ Você foi $55#promovido a Insignia Platina$!
+1056@ Conectando...
+10560@ Desejo-lhe uma vitória no glorioso campo de batalha.
+10561@ Cancelar
+10562@ Resetar Domínio de Mérito
+10563@ Resetar Domínio de Mérito
+10564@ Pontos :
+10565@ Resetar Seleção:
+10566@ Registrar Slot Rápido
+10567@ Você pode registrar clicando no ícone.
+10568@ OK
+10569@ 0,160:6
+1057@ Conectando...
+10570@ Cancelar
+10571@ OK
+10572@ Abra Slot de Domínio
+10573@ Núcleo do Caos
+10574@ Núcleo Divino
+10575@ Tempo necessário
+10576@ Abra o slot escolhido
+10577@ Não
+10578@ Sim
+10579@ Cancelar abertura
+1058@ Carregando...
+10580@ Cancelar abertura do slot selecionado
+10581@ * Materiais consumidos não serão retornados
+10582@ Cancelar
+10583@ Confirmação
+10584@ Conceder Status de Domínio Especial
+10585@ Habilidades serão escolhidas aleatóriamente
+10586@ WExp
+10588@ Tck para Trocar Med. de Mérito
+10589@ Fechar
+1059@ Aguardando para Teleportar
+10590@ Informação Insignia Dourada
+10591@ [Insígnia Platina]
+10592@ 1. A pontuação máxima de Mérito da Insígnia Dourada é 360.452, o ponto máximo de mérito é 2.052.
+10593@ 2. Você precisa de um total de 3.472 pontos de mérito para aprender todos os domínios em todas as categorias.
+10594@ 3. então, você pode $1#ganhar todos os domínios em 3 a 4 categorias$ com base em sua escolha.
+10595@ [Domínio Adquirido]
+10596@ 1. Para ganhar o domínio da Insignia Platina, o slot de domínio $1#deve ser aberto$ primeiro.
+10597@ [Memória de Domínio]
+10598@ 1. Você pode $1#salvar o status de aprendizado dos domínios$ na memória de domínio.
+10599@ 2. Se você alterar o número da memória, ele mudará imediatamente para o domínio adquirido da memória.
+10600@ 3. $1#A situação em que o slot é aberto$ permanece a mesma para todos os números sem alteração.
+10601@ 4. A Memória de Domínio pode ser alterada por teclas de atalho após o registro no Slot Rápido
+10602@ [Abrir Slot]
+10603@ 1. Alguns materiais e tempo são consumidos para abrir um slot.
+10604@ 2. Material e tempo $1#aumentam com base nos slots abertos na categoria atual$.
+10605@ 3. Você pode cancelar a abertura de slots clicando no slot de domínio.
+10606@ [Domínio Especial]
+10607@ 1. Cada categoria tem 2 domínios especiais.
+10608@ 2. 2 domínios especiais são concedidas ao mesmo tempo, e os status e habilidades são decididas aleatoriamente
+10609@ 3. Os status de Domínio Especial são aplicadas adquirindo $1#Domínio Especial expandido$
+10610@ [Reduz o Tempo de Abertura do Slot]
+10611@ 1. O tempo aberto restante pode ser reduzido usando o item Redutor de tempo.
+10612@ 2. Você não pode usar o $5#redutor de tempo que reduz o tempo restante por mais de 5 horas.$
+10613@ Usar
+10614@ Preço da Gema Arcana
+10615@ Visualizar
+10616@ Comprar Pacote
+10617@ 2,157:5
+10618@ 2,158:5
+10619@ Lista de Pacote de Item
+10620@ Tempo Restante
+10621@ Produto Incluido
+10622@ QTD
+10623@ Opção
+10624@ Período de Uso
+10625@ 2,100:5
+10626@ Loja Cash
+10627@ Recarga de CASH
+10628@ Abra janela
+10629@ Fantástica Caixa de Pandora
+10631@ $1#[Uso limitado do redutor de tempo]$\\Você não pode usar o redutor de tempo $23#que reduz \\o tempo restante em mais de 5 horas.$
+10679@ Cancelar
+10680@ Compra
+10681@ Confirmar compra
+10682@ Preço de Compra
+10683@ Cancelar
+10684@ Atualizar
+10685@ Atualizar
+10687@ é possível atualizar a lista
+10688@ Gostaria de atualizar a lista de itens?
+10689@ Tempo Restante
+10690@ Nome
+10691@ Preço
+10692@ Loja Secreta
+10694@ Recompensa (Rank)
+10695@ Informação Missão Desafio
+10696@ Lista da Missão Desafio
+10697@ Missão Desafio
+10698@ Pontuação restante para próx rank
+10699@ Pontuação da Missão
+10700@ Rank da Missão
+10701@ Fechar
+10702@ Fechar
+10703@ Receba Recompensa
+10704@ Pontos necessários
+10705@ Recompensas Opcionais
+10706@ Recompensa (Missão Desafio)
+10707@ Recompensas Confirmadas
+10708@ * Pontuação de missão, rank e progresso irão deletar diariamente.\\* Qualificação: min de 4 missões semanais completas com Rank +3.\\* Missão exclusiva será dada quando selecionada
+10709@ Recompensa(pt) Info
+1071@ OK
+10710@ Pontuação restante para próx rank
+10711@ Rank Atual
+10712@ Pontuação total da Missão
+10713@ Pontuação restante para próx rank
+10714@ Rank de Pontuação atual
+10715@ Pontuação total da Missão
+10716@ Atualizar lista de itens
+10717@ 2,161:5
+10718@ (Info Recompensa de Rank)
+10719@ 1. Receba recompensa quando alcaçar cada rank
+1072@ Cancelar
+10720@ 2. $1#Recompensa Guarantida x1$ e $1#Recompensa Opcional x1$ para cada rank.
+10721@ 3. Receba tudo com o botão $1#Receber Recompensa$
+10722@ 4. Recompensa será enviada para o $1#Inventário do Evento$.
+10723@ 1,129:0
+10725@ 2,163:5
+10726@ 2,162:4
+10727@ Missão Desafio
+1073@ Nome de Personagem
+1074@ Não
+1075@ Sim
+1076@ Deixe o grupo
+1077@ Você decidiu sair do grupo
+10771@ 2,164:20
+10772@ Cancelar
+10773@ Confirmação
+10774@ Baú de Domínio Especial
+10775@ Guarde status do Domínio Especial
+10776@ Selecione número:
+10777@ Selecione categoria:
+10778@ Não
+10779@ Sim
+1078@ Tem certeza que deseja sair do grupo?
+10780@ vezes
+10781@ Guarde Domínio Especial
+10782@ * Domínio Especial Selecionado será deletado
+10783@ e será guardado no baú
+10784@ Não
+10785@ Sim
+10786@ Use Item
+10787@ Aplicar Domínio Especial guardado
+10788@ * Status do atual Domínio Especial
+10789@ será deletado
+1079@ Cancelar
+1080@ Confirmação
+10808@ Cancelar
+10809@ Confirmação
+1081@ Retirar Membro
+10810@ Use Baú de Domínio Especial
+10811@ Aplique status do Domínio Especial no baú
+10812@ * Será aplicado no número selecionado.
+10813@ Selecione número:
+10814@ Antes
+10815@ Depois
+10816@ Category
+10817@ Compra
+1082@ Você decidiu expulsar o membro do grupo.
+10820@ Cancelar
+10821@ Extração de itens
+10822@ Extração de itens
+10823@ Item Alvo
+10824@ 1, 166:0
+10825@ 1, 167:0
+10826@ Cancelar
+10827@ Concordar
+10828@ Extração de itens
+10829@ Item Alvo
+1083@ Tem certeza que deseja expulsar o membro do grupo?
+10830@ 1, 168:0
+10831@ Fechar
+10832@ Resultado da Extração de Item
+10860@ Quantidade
+10861@ 10000 / 10000
+10862@ -10000
+10863@ Selar coleção completa
+10864@ Selar a coleção?
+10865@ Selar Coleção
+10866@ Fechar
+10867@ Confirmação
+10868@ Aplicar coleção selada
+10869@ Aplicar coleção
+10870@ Fechar
+10871@ Confirmação
+10872@ Cartão de Transformação
+10873@ Localização
+10874@ Fechar
+10880@ 2,165:3
+10881@ Personagem de guilda principal irá resetar após deixar a guilda
+10882@ 1,169:0
+10883@ Usar Caixa Misteriosa
+10884@ Resultado
+10885@ Aplicado
+10886@ Uso completado
+10887@ Confirmação
+10888@ Parar
+10889@ Cancelar
+10890@ Usar
+10891@ vezes
+10892@ Quantidade
+10893@ 0
+10894@ /
+1095@ Desafio
+1096@ Penalidade de Missão:
+1097@ Calabouço
+1098@ Cancele Entrada no Calabouço
+1099@ Você desistiu antes de entrar no calabouço.
+11@ OK
+1100@ Você decidiu retornar à entrada do Calabouço
+1101@ Deseja continuar?
+1102@ Cancelar
+1103@ OK
+1104@ Cancelar
+1105@ Deletar
+1106@ Remover Opção
+1107@ Todas Opções abaixo serão removidas
+1108@ Calabouço de Missão Falhou
+1109@ Penalidade de Missão
+1110@ Calabouço
+11112@ Você não está em uma guilda.
+11132@ Cancelar
+11133@ OK
+11134@ Selecione original
+11135@ Som
+11136@ Jogo
+11137@ Mostrar
+11138@ Conversando
+11139@ Combinações de teclas
+1114@ OK
+11140@ Macro
+11141@ Gráfico
+11142@ Resolução
+11143@ Taxa de Atualização
+11144@ Processando Gráfico
+11145@ Seleção múltipla
+11146@ Fonte
+11147@ Resolução
+11148@ Coreano
+11149@ Inglês/Número
+1115@ Item Registrado
+11150@ Olá~ 1234567
+11151@ Olá sentença teste
+11152@ Preferências
+11153@ Batalha
+11154@ Efeito de Tempo
+11155@ Efeito Distorção
+11156@ Gamma
+11157@ Sombra
+11158@ Efeito de Água
+11159@ Foco
+1116@ Quantidade
+11160@ Alcance de Visão
+11161@ Efeito
+11162@ Normal
+11163@ Normal
+11164@ Efeito de Tempo
+11165@ Efeito Distorção
+11166@ Gamma
+11167@ Sombra
+11168@ Efeito de Água
+11169@ Foco
+1117@ Cancelar
+11170@ Alcance de Visão
+11171@ Efeito
+11172@ Batalha
+11173@ Reinicie para aplicar a opção
+11174@ Efeito Gráfico Avançado (Aconselhado verificar as especificações recomendadas ou acima)
+11175@ Selecione original
+11176@ Preferências
+11177@ Jogo
+11178@ Mostrar
+11179@ Conversando
+1118@ OK
+11180@ Combinações de teclas
+11181@ Macro
+11182@ Mostrar Caixa de Som (J) na tela
+11183@ Aviso de Sussurro
+11184@ Mutar
+11185@ Escutar som do jogo sobre janela inativa
+11186@ Mutar microfone
+11187@ Minha voz ligado
+11188@ Aperte para falar
+11189@ Aumentar amp pode diminuir a qualidade do som
+1119@ Usar Cartão de Renomeação
+11190@ Chat de voz
+11191@ Tamanho do buffer
+11192@ Formado de codificação
+11193@ Efeito de som
+11194@ BGM
+11195@ Jukebox
+11196@ Som
+11197@ Amp Microfone
+11198@ Som
+11199@ Selecione original
+1120@ Altere o nome do seu personagem usando um Cartão de Renomeação.
+11200@ Preferências
+11201@ Som
+11202@ Mostrar
+11203@ Conversando
+11204@ Combinações de teclas
+11205@ Macro
+11206@ Sussuro
+11207@ Negociar
+11208@ Grupo
+11209@ Ataque auto
+1121@ Nome Atual
+11210@ PVP
+11211@ Gritar
+11212@ Deslizar para o Cursor
+11213@ Ponteiro do mouse fixo quando virar a tela
+11214@ Slot Rápido Bloqueado
+11215@ Permitir ataque básico durante ataque auto
+11216@ Permitir ver equipamento
+11217@ Use ESC  para abrir o menu de sistema
+11218@ Recuar para o cursor
+11219@ Permitir Tecla de Atalho global
+1122@ Nome Novo
+11220@ Aviso de Ajuda ON
+11221@ Limite máx de zoom
+11222@ Permitir combinação de itens com Shift+Left Click
+11223@ PK forçado
+11224@ Mover de lado quando clicar com botão direito
+11225@ Estabilizar imagem
+11226@ Mostrar animação de técnica
+11227@ Rotacionar camera tocando o quadro com o mouse
+11228@ Enviar sussurro clicando com o botão direito no personagem
+11229@ Função do personagem
+1123@ Solicitar grupo
+11230@ Opção de Técnica
+11231@ etc
+11232@ Camera
+11233@ Selecione opção
+11234@ Jogo
+11235@ Selecione original
+11236@ Preferências
+11237@ Som
+11238@ Jogo
+11239@ Conversando
+1124@ Sussuro
+11240@ Combinações de teclas
+11241@ Macro
+11242@ Mostrar
+1125@ Cancelar
+11259@ Fixar janela IU
+1126@ Registrar
+11260@ Batalha
+11261@ Mostrar
+11262@ Ajustar tamanho IU
+11263@ Configurações de IU
+11264@ Normal
+11265@ Nome do Jogador
+11266@ Nome do Monstro
+11267@ Nome do NPC
+11268@ Nome do Item
+11269@ Barra do Personagem
+1127@ Registrar Grupo
+11270@ Barra de HP do Monstro
+11271@ Nome/Emblema da Guilda
+11272@ Balão de Diálogo
+11273@ Combo UI no topo
+11274@ Título
+11275@ Mostrar Barra de HP total
+11276@ Exibir Atalho no Minimapa
+11277@ Mostrar instruções na Informação do Item
+11278@ Fixar janela IU
+11279@ Normal
+1128@ Mensagem de recrutamento
+11280@ Mostrar
+11281@ Ajustar tamanho IU
+11282@ Configurações de IU
+11283@ Batalha
+1129@ Membro do Grupo
+1130@ Não
+11300@ Opção de item
+1131@ Sim
+1132@ Venda de Item
+11324@ Conversando
+11325@ Selecione original
+11326@ Mostrar
+11327@ Preferências
+11328@ Som
+11329@ Jogo
+11330@ Conversando
+11331@ Macro
+11332@ 2, 64:1,65:10,64:1,65:10,64:1,65:20,64:1,65:15,64:1,65:10,64:1,65:10,64:1,65:10,64:1,65:15,64:1,65:15,64:1,65:10,64:1,65:26
+11333@ Configuração de tecla de atalho
+11334@ Delete teclas de atalho existentes com o botão de back space
+11335@ Teclas de atalho existentes foram refeitas
+11336@ Combinações de teclas
+11337@ Selecione original
+11338@ Mostrar
+11339@ Preferências
+11340@ Som
+11341@ Jogo
+11342@ Conversando
+11343@ Combinações de teclas
+11344@ Selecionar macro
+11345@ Delete teclas de atalho existentes com o botão de back space
+11346@ Altere Tecla de atalho macro com Combinações de teclas
+11347@ Teclas de atalho
+11348@ Mensagem
+11349@ Macro
+1135@ Não
+11350@ Opção
+1136@ Sim
+11360@ 2,170:10
+11361@ Esconder Fantasia de Moto (Opção Aplicada)
+1137@ Não pergunte novamente
+1138@ Venda de Item
+11383@ Fantasia
+11384@ Fantasia
+11385@ Equipamento
+11386@ etc
+11387@ Fantasia (Opção Aplicada)
+11388@ Geral
+11389@ Fantasia de Arma
+1139@ Este item é valioso. Você tem certeza que deseja vende-lo?
+11390@ Fantasia de Arma
+11391@ Fantasia de Moto (Opção Aplicada)
+11392@ Fantasia de Asa (Opção Aplicada)
+11393@ Roupas
+11394@ Fantasia de Moto
+11395@ Fantasia de Asa Arcana
+11396@ Opção de Fantasia Aplicada
+11397@ Fantasia Exibida
+11398@ Fantasia
+11399@ etc
+11400@ Equipamento
+11401@ Fantasia
+11402@ Arma Ligada
+11403@ Balão de Diálogo
+11404@ Honra
+11405@ Cubo de Jóia
+11406@ Cubo de Jóia
+11407@ Cubo de Jóia
+11408@ Honra
+11409@ Arma Ligada
+1141@ Não
+11410@ Balão de Diálogo
+11411@ Cubo de Jóia
+11412@ Equipamento
+11413@ Fantasia
+11414@ etc
+1142@ Sim
+1143@ Não pergunte novamente
+1144@ Compre Item
+11440@ Cancelar
+11441@ OK
+11442@ Compre Item
+11443@ Comprar QTD
+11444@ Preço de Compra
+11445@ Saldo de Moeda
+11446@ Minimizar Sub-Slot Rápido
+11447@ Expandir Sub-Slot Rápido
+11448@ Cancelar
+11449@ OK
+1145@ Compre Item
+11450@ Contagem
+11451@ Receber Item
+11452@ /
+11453@ Procurar
+11454@ 1,125:0
+11455@ Estatísticas totais
+11456@ $1#[Habilidade normal]$\\aplica-se apenas na\\$23#Missão de Guerra$
+11457@ $1#[Status Expandido]$\\Status de habilidades são aplicadas em \\$23#guera de missão$ e $23#calabouços e campos$
+11458@ Estatísticas totais para cada categoria
+11459@ Cancelar
+1146@ Você está certo de que deseja comprar esse item?
+11460@ Confirmação
+11461@ Editar Memo de Membro da Guilda
+11462@ Editar Memo de Membro da Guilda
+11463@ Convidar Grupo
+11464@ Mestre da Guilda de Confiança
+11465@ Sussuro
+11466@ Expulsar da Guilda
+11467@ Adicione Amigo
+11468@ Ver Equipamento
+11469@ Escrever Mail
+1147@ Não
+11470@ Editar Memo
+11471@ Expulsar da Guilda
+11472@ Convidar Grupo
+11473@ Sussuro
+11474@ Adicione Amigo
+11475@ Ver Equipamento
+11476@ Escrever Mail
+11477@ Editar Memo
+11478@ Sussuro
+11479@ Convidar Grupo
+1148@ Sim
+11480@ Adicione Amigo
+11481@ Ver Equipamento
+11482@ Escrever Mail
+11483@ Editar Memo
+11484@ Deletar todos
+11485@ Enviar mail
+11486@ Mostrar não lidos somente
+11487@ 2,38:10
+11488@ Receber Mail
+11489@ Receber Mail
+1149@ Não pergunte novamente
+11490@ Deletar todos
+11491@ 2,39:10
+11492@ Enviar mail
+11493@ Inventário Cash
+11494@ Inventário de Evento
+11495@ Escrever Mail
+11496@ Inbox
+11497@ Mail & Cash / Inventário de Evento
+11498@ Inventário Cash
+11499@ Inbox
+1150@ Compre Item
+11500@ Fechar
+11501@ Atualizar
+11502@ Receber
+11503@ Receba Tudo
+11504@ Receber Item
+11505@ * Item será deletado se não recebido dentro da data limite
+11506@ Inventário de Evento
+11507@ Mail & Cash / Inventário de Evento
+11508@ Inventário de Evento
+11509@ Inbox
+1151@ Preço
+11510@ Fechar
+11511@ Atualizar
+11512@ Receber
+11513@ Receba Tudo
+11514@ Inventário Cash
+11515@ Item Recompensa
+11516@ Próxima Recompensa
+11517@ Item Recompensa
+11518@ Próxima Recompensa
+11519@ Mail & Cash / Inventário de Evento
+1152@ Não
+11520@ Bloquear
+11521@ Deletar
+11522@ Responder
+11523@ Reportar
+11524@ Voltar
+11525@ Deletar
+11526@ * Pontos de Aprimoramento são acumulados se o aprimoramento falhar em determinado nível.\\? Com Pontos de Aprimoramento, você pode obter mais chances de sucesso no aprimoramento\\? Todos os Pontos de Aprimoramento desaparecerão quando o aprimoramento for concluído com sucesso
+11527@ Registrar Proteção
+11528@ Encantamento de Item
+11529@ Itens
+1153@ Sim
+11530
+11531@ Resultado
+11532
+11533
+11534
+11535@ Pontos de Aprimoramento
+11536
+11537@ Proteção Especial (Altíssimo)
+11538
+11539@ Aplicado
+1154@ Compre Item
+11540@ Taxa de Sucesso
+11541
+11542
+11543
+11545
+11546@ Alz
+11547@ Encantamento de Item
+11548@ O resultado esperado será destacado em vermelho e o resultado será exibido no ícone.
+11549@ Dividir Pontos
+1155@ Item de alto valor. Por favor pense com cuidado antes de vender.
+11550@ Cancelar
+11551@ Resetar Pontos
+11552@ Confirmação
+11553@ $13#[Status Total] Status que $\\$23#coleciona$ pontos são \\aplicados
+11554@ $13#[Limite de Status]$$48#Status$ Mínimo \\necessário para\\$23#Nível Atual de Estilo de Luta$
+11555@ Pontos da Coleção
+11556@ Ponto
+11557@ FOR
+11558@ INT
+11559@ DES
+1156@ Cancelar
+11560@ (
+11561@ (
+11562@ (
+11563@ /
+11564@ /
+11565@ /
+11566@ )
+11567@ )
+11568@ )
+11569@ Status
+1157@ Confirmação
+11570@ Pontos Revisados
+11571@ Configuração Automática
+11572@ Pontos da Coleção
+11573@ Cancelar
+11574@ Resetar Pontos
+11575@ Confirmação
+11576@ $13#[Status Total] Status com pontos$\\$23#distribuídos$ são \\aplicados
+11577@ $13#[Rank Staust] $48#Mínima$ quantia de status\\necessária para $\\$23#Rank de Estilo de Luta$
+11578@ Dividir Pontos
+11579@ Ponto
+1158@ Notícia
+11580@ FOR
+11581@ INT
+11582@ DES
+11583@ (
+11584@ (
+11585@ (
+11586@ /
+11587@ )
+11588@ )
+11589@ )
+1159@ Este é um aviso sobre a venda de Itens de Missão em NPCs.
+11590@ Status
+11591@ Pontos Revisados
+11592@ Normal
+11593@ Treinamento
+11594@ Crescimento
+11595@ Transcendente
+11596@ Subir de Nv Auto
+11597@ EXP de Asa Arcana
+11598@ Grau
+11599@ Informação de Asa Arcana
+1160@ Caso venda seus Itens de Missão,
+11600@ Nível
+11601@ Subir de Nível
+11602@ Técnica
+11603@ Status
+11604@ HP
+11605@ Todos os Ataques
+11606@ Defesa
+11607@ Com Asa Arcana Nv 20/40/60/80/100,\\Você pode ganhar Pontos de Treinamento de Asa Arcana.
+11608@ Treinamento
+11609@ Normal
+1161@ Talvez não consiga prosseguir com suas missões.
+11610@ Treino de Ataque
+11611@ Treino de Defesa
+11612@ Treino de Guerra
+11613@ Pts Treinamento
+11614@ 2,132:3
+11615@ Asa Arcana
+11616@ Fechar
+11617@ Cancelar
+11618@ Confirmação
+11619@ Subir de Nível de Asa Arcana
+1162@ Deseja continuar?
+11620@ O seguinte material será usado
+11621@ Pausar Calabouço
+11622@ Saia do Calabouço
+11623@ Salvar Vista Atual
+11624@ Confirmação
+11625@ Item Temporário Expirado
+11626@ Seu Item Temporário Expirou
+11627@ O seguinte item irá desaparecer durante o período de expiração
+11628@ Status Total do Título
+11629@ Mostrar Título
+1163@ Cancelar
+11630@ Título de Guilda
+11631@ Título de Portador/Guardião
+11632@ Título de Evento
+11633@ Bonus de Taxa de Ponto de Aprimoramento
+11634@ Jogar o dado
+11635@ Sair
+11636@ Restante
+11637@ Missão do Calabouço Completo!
+11638@ Calabouço
+11639@ Sair
+1164@ OK
+11644@ Alvo Individual P
+11645@ Individual Obtido P
+1165@ Deletar uma Técnica
+11655@ Chegada do Chefe Governante
+11656@ Chefe Aparece
+11657@ Usuário pode mostrar informação do Chefe Governante
+11659@ Calabouço
+1166@ Você decidiu apagar a técnica.
+11660@ Eventos
+11661@ Especial
+11662@ Mundo
+11663@ 1
+11664@ 2
+11665@ 3
+11666@ 4
+11667@ 2,151:15
+11668@ 2,152:15
+11669@ 2,153:15
+1167@ Deseja apagar a técnica completamente?
+11670@ Lista Completa
+11671@ Selar
+11672@ Progresso da Missão de Evento
+11673@ Resist Dano Crítico +10%
+11674@ Lista
+11675@ Recompensa
+11676@ Chefe
+11677@ Chefe
+11678@ Eventos
+11679@ Especial
+1168@ Confirmação
+11680@ Mundo
+11681@ 1
+11682@ 2
+11683@ 3
+11684@ 4
+11685@ 2,151:15
+11686@ 2,152:15
+11687@ 2,153:15
+11688@ Lista Completa
+11689@ Selar
+1169@ Confirmação
+11690@ Status de Conclusão do Lago do Crepúsculo
+11691@ Resist Dano Crítico +10%
+11692@ Lista
+11693@ Recompensa
+11694@ Calabouço
+11695@ Chefe
+11696@ Calabouço
+11697@ Especial
+11698@ Mundo
+11699@ * A recompensa de conclusão de 100% do Evento de Coleção será aplicada automaticamente após o término do Evento de Coleção.
+1170@ Novas Técnicas
+11700@ 1
+11701@ 2
+11702@ 3
+11703@ 4
+11704@ 2,151:15
+11705@ 2,152:15
+11706@ 2,153:15
+11707@ Lista Completa
+11708@ Progresso da Missão de Evento
+11709@ Resist Dano Crítico +10%
+1171@ Aprender nova técnicas
+11710@ Lista
+11711@ Recompensa
+11712@ Eventos
+11713@ Chefe
+11714@ Calabouço
+11715@ Eventos
+11716@ Mundo
+11717@ 1
+11718@ 2
+11719@ 3
+1172@ Você pode aprender novas técnicas com os instrutores nas cidades.
+11720@ 4
+11721@ 2,151:15
+11722@ 2,152:15
+11723@ 2,153:15
+11724@ Lista Completa
+11725@ Selar
+11726@ Progresso do Aprimoramento
+11727@ Resist Dano Crítico +10%
+11728@ Lista
+11729@ Recompensa
+1173@ Não
+11730@ Especial
+11731@ Calabouço
+11732@ Chefe
+11733@ Eventos
+11734@ Especial
+11735@ 1
+11736@ 2
+11737@ 3
+11738@ 4
+11739@ 2,151:15
+1174@ Sim
+11740@ 2,152:15
+11741@ 2,153:15
+11742@ Lista Completa
+11743@ Selar
+11744@ Status de Conclusão da Tundra Infame
+11745@ Dano Crítico +1%
+11746@ Lista
+11747@ Recompensa
+11748@ Mundo
+11749@ Coleção
+1175@ Regredir Técnicas
+11750@ $41#A coleção é um livro mágico no qual você pode registrar itens para recompensa.$\\-Ao registrar itens de missão, vários itens são acumulados e os itens são excluídos.\\ - Uma vez que os itens registrados não podem ser reembolsados.
+11751@ Calabouço
+11752@ Especial
+11753@ Mundo
+11754@ 2,154:4
+11755@ 2,155:4
+11756@ Chefe
+11757@ Estatísticas completas da coleção
+11758@ Chefe
+11759@ Especial
+1176@ Você decidiu regredir sua técnica
+11760@ Mundo
+11761@ 2,154:20
+11762@ 2,155:4
+11763@ Calabouço
+11764@ Estatísticas completas da coleção
+11765@ Chefe
+11766@ Calabouço
+11767@ Mundo
+11768@ 2,154:4
+11769@ 2,155:4
+1177@ Gostaria de reduzir o nível da técnica com a regressão?
+11770@ Especial
+11771@ Estatísticas completas da coleção
+11772@ Chefe
+11773@ Calabouço
+11774@ Especial
+11775@ 2,154:4
+11776@ 2,155:4
+11777@ Mundo
+11778@ Estatísticas completas da coleção
+11779@ Lista completas da coleção
+1178@ Confirmação
+11780@ 2,1:5
+11781@ Selecionar Servidor
+11786@ Conquistas Recentes
+11787@ 2, 66:10
+11788@ 1,1:0
+11789@ Chefe Governante do Mundo
+1179@ Distribuição de Item
+11790@ Fechar
+11791@ Chefe Não Divulgado
+11792@ Chefe Não Divulgado
+11793@ Chefe Não Divulgado
+11794@ Chefe Não Divulgado
+11795@ Chefe Não Divulgado
+11796@ Chefe Não Divulgado
+11797@ Chefe Não Divulgado
+11798@ Chefe Não Divulgado
+11799@ Chefe Não Divulgado
+1180@ Quantidade
+11800@ Chefe Não Divulgado
+11806@ Canal do Chefe Governante
+11807@ Você pode registrar o título
+11808@ Você pode registrar o Título Especial adquirido do Evento
+11809@ Você pode registrar o Título adquirido por ser escolhido o Portador/Guardião
+1181@ Cancelar
+11810@ Você pode registrar o Título adquirido por atividade de Guilda
+11811@ Item Recebível
+11812@ Informação de Chefe
+11813@ Fechar
+11814@ 2,171:1
+11815@ *A recompensa de classificação será dada como inventário de evento.
+11816@ *A Recompensa de Participação será dada como Inventário do Evento.
+11817@ Recompensa de Rank
+11818@ Resultado da invasão do chefe governante
+11819@ Recompensa de Participação
+1182@ Confirmação
+11820@ Título Total
+11821@ 2, 67:20
+11822@ Mudar de Canal
+11823@ 1,139:0
+11824@ \Quantidade total de estatísticas $4#após o despertar$
+11825@ Redefinir Pontos Despertos
+11826@ Informação Modo Aura Desperta
+11827@ 2,176:4
+11828@ 2,174:20
+11829@ 2,175:5
+1183@ Extender Slot Núcleo Arcano
+11830@ Tempo acumulado de Pontos Despertos
+11831@ Pontos Despertos Adquiridos
+11832@ Status Desperto
+11833@ Nv.1
+11834@ Nv. 2
+11835@ Nv. 3
+11836@ Estágio 4
+11837@ Estágio 5
+11838@ (0min)
+11839@ (5min)
+1184@ Usar Extensor de Slot
+11840@ Modo Aura Desperto
+11841@ Cancelar
+11842@ Confirmação
+11843@ Upar Modo Aura Desperta
+11844@ Status Máximo:
+11845@ Pontos Despertos:
+11846@ Status adquiridos:
+11847@ Cancelar
+11848@ Resetar Modo Aura Desperta
+11849@ Resetar Modo Aura Desperta
+1185@ O uso de 1 Extensor de Slot irá adicionar 1 slot
+11850@ Pontos :
+11851@ Resetar Seleção:
+11852@ Cancelar
+11853@ Confirmação
+11854@ Abrir Slot Modo Aura Desperta
+11855@ Livro de Técnica
+11856@ Fruta Dourada do Troglo
+11857@ Abra o slot escolhido
+11858@ Fechar
+11859@ Informação Modo Aura Desperta
+1186@ para o Núcleo Arcano do item.
+11860@ [Status Bônus]
+11861@ 1. As estatísticas de bônus podem ser adquiridas após a abertura do último slot $1#Duração do Modo Aura Aumentado$.
+11862@ 2. Estatísticas de bônus $1#podem ser obtidas de forma limitada no slot aberto$
+11863@ * As estatísticas de bônus não podem ser adquiridas se o último slot ainda não estiver aberto
+11864@ [Nível de Aprimoramento]
+11865@ 1. O usuário pode subir de nível usando os Pontos Despertos.
+11866@ 2. Mais Pontos Despertos são necessários conforme o estágio e o nível sobem.
+11867@ 3. Incapaz de atualizar o nível, pois as estatísticas podem ser alteradas durante $1#uso do Modo Aura.$
+11868@ [Modo Aura Desperta]
+11869@ 1. Modo Aura Desperto é apenas para personagens do nível Transcendente acima de $1#ONV.50$
+1187@ Contudo, o item será ligado a você.
+11870@ 2. Apenas o Modo Aura treinado por meio de Solicitação de Criação pode ser ativado.
+11871@ [Pontos Despertos]
+11872@ 1. Os Pontos Despertos podem ser adquiridos usando os modos Aura Fogo, Trovão, Água e Gelo por um determinado período de tempo.
+11873@ 2. Os Pontos Despertos levarão 1.150 minutos para $1#ser totalmente obtido, e o máximo de pontos obtidos é de 230 pontos$.
+11874@ 3. $1#112 Pontos$ são necessários para atualizar o modo Aura Desperto para o nível e estágio mais altos.
+11875@ 4. $1#Sobre modos de aura seletivos de 2 ~ 3$ podem ser ativados.
+11876@ [Abrir Slot]
+11877@ 1. $1#Fruta Dourada do Troglo e Livre de Técnica$ é necessário para abrir o slot.
+11878@ 2. Apenas o Modo Aura alvo para o despertar pode ser usado como item material.
+11879@ 3. O Despertar tem 5 estágios no total, e o slot pode ser aberto assim que as condições de nível mínimo $1#forem atendidas.$
+1188@ Cancelar
+11880@ Aura Desperta
+11881@ Aura
+11882@ 2,0:1,4:1,0:1,4:1,0:1,4:1,0:1,178:1,4:1,177:1,4:1,0:1,4:3,0:1,4:5,0:1,4:1,0:1,4:1,0:1,4:1,0:1,4:1,0:1,4:1,0:1,4:22
+11883@ Cancelar
+11884@ OK
+11885@ Cancelar
+11886@ OK
+11887@ Cancelar
+11888@ Usar
+11889@ Use Item
+1189@ Cancelar
+11890@ Quantidade
+11891@ 0
+11892@ Resultado
+11893@ /
+11894@ Período de aplicação total
+11895@ Treino Transcendência
+11896@ Modo de Batalha
+11897@ Ponto Tipo Transcendência
+11898@ Nível necessário para obter o próximo tipo
+11899@ Nível de tipo de habilidade
+1190@ Confirmação de Negociação
+11900@ Habilidade Passiva de Transcendência
+11901@ Técnica
+11902@ Técnica de Transcendência
+11903@ 2,179:20
+11904@ Fechar
+11905@ ONV
+11906@ Cancelar
+11907@ OK
+11908@ Treinar Tipo de Transcendência 
+11909@ Custo:
+1191@ OK
+11910@ Status adquiridos:
+11911@ Cancelar
+11912@ Confirmação
+11913@ Resetar Tipo de Transcendência 
+11914@ Resetar Tipo de Transcendência 
+11915@ Custo de reset:
+11916@ Tem certeza de que deseja redefinir o tipo usando seu saldo?
+11917@ Cancelar
+11918@ Confirmação
+11919@ Desbloquear tipo de transcendência
+1192@ Confirmação de Negociação
+11920@ Custo:
+11922@ 1
+11923@ 2
+11924@ Editar localização do personagem
+11925@ 0,173:16
+11926@ OK
+11927@ Editar localização do personagem
+11928@ 1
+11929@ 2
+1193@ Você está pronto para iniciar a troca?
+11930@ 0,173:16
+11931@ Criar Personagem
+11933@ Broche
+11934@ Arcana
+11935@ Arcana
+11936@ Cornalina
+11937@ Talismã
+11938@ Effector
+11939@ Effector
+1194@ Por favor, lembre-se que uma vez confirmada a troca, você não pode
+11940@ Encanto
+11941@ Cintos
+11942@ Anel
+11943@ Anel
+11944@ Bracelete
+11945@ Braceletes
+11946@ Brincos
+11947@ Brincos
+11948@ Moto/Prancha
+11949@ Anéis
+1195@ pode mudar os itens ou quantidade de Alz.
+11950@ Anel
+11951@ Amuleto
+11952@ Dragona
+11953@ Armas
+11954@ Arma
+11955@ Botas
+11956@ Luvas
+11957@ Quimono
+11958@ Elmo
+1196@ Deseja continuar?
+1197@ Confirmação de Negociação
+1198@ Você gostaria de completar a negociação?
+1199@ Por favor verifique o nome do personagem, itens,
+12@ Salvar ID
+1200@ e a quantia de Alz.
+12004@ Effector
+12005@ Effector
+12006@ Mago Negro
+12007@ Ganhe ponto do tipo de transcendência de acordo com ONV up. \\?A quantidade de pontos dada é diferente para cada tipo. \\?Quando reiniciado, o slot desbloqueado será mantido.
+12008@ Cancelar
+12009@ Confirmação
+1201@ Nome parecido ao nome na lista de amigo ou de guilda
+12010@ Não pergunte novamente
+12011@ Inserção Completa
+12012@ Info para inserir item
+12013@ Quando o item é inserido, o item será excluído
+12014@ O Item inserido não será devolvido.
+1205@ Cancelar
+12050@ Fechar
+12051@ [Condição para Participar]
+12052@ 1. Apenas $1#Contas que tenham um Personagem Principal da Guilda$ podem se juntar ao SPH
+12053@ 2. Se um Personagem Principal da Guilda estiver definido na conta, $1#outros personagens na mesma conta$ tb
+12054@ 3. Apenas personagens com $1#Nv.180 e acima$ podem participar.
+12055@ Pode participar do Suporte a Pesquisa de Heil.
+12056@ [Começar o Evento]
+12057@ 1. $1#Medidor Amarelo acima$ será preenchido quando os materiais exibidos forem inseridos.
+12058@ 2. Quando o $1#Medidor estiver todo preenchido$, os usuários podem receber $1#'Recompensa do Circuito'$ do SPH.
+12059@ 3. $1#1 'Circuito Decodificado' será acumulado$ ao receber a Recompensa de SPH 10x
+1206@ OK
+12060@ 4. Dos usuários que ganharam mais de 7 'Circuitos Decodificados' após o término do SPH
+12061@ $1#Vai dar 'Recompensa do Circuito'$ aleatoriamente por sorteio.
+12062@ [Começar o Evento]
+12063@ 1. Pesquisa de Heil será realizado em um total de $1#3 Temporadas$.
+12064@ [Regra]
+12065@ 1. Só pode ver até 10 circuitos $1#decodificados recentes.$
+12066@ 2. A descoberta de pistas será feita pelo $1#'Personagem Principal da Guilda$.
+12067@ 3. Se a $1#Guilda for dissolvida ou você retirar$ durante o período, você não poderá usar o SPH
+12068@ Porém, se você se juntar a uma guilda e definir um pers. principal na guilda, poderá $1#continuar$ com o SPH
+12069@ Info para Suporte a Pesquisa de Heil
+1207@ Quantidade da Negociação
+12070@ [Recompensa]
+12071@ 1. Recompensa do Circuito: Uma recompensa dada pela abertura de 10 circuitos exibidos no SPH
+12072@ 2. Recompensa de Pista: Uma recompensa dada por sorteio após o término do SPH
+12073@ 3. As recompensas serão enviadas para o inventário e serão mantidas por 7 dias após o  recebimento.
+12074@ 4. A recompensa de pista será dada dependendo do $1#Nv de Pista$.
+12100@ Cancelar
+12101@ Resetar Materiais
+12102@ Resetar Materiais
+12103@ 5 Gemas Arcanas
+12104@ por usar
+12105@ Você irá redefinir os itens inseridos?
+12106@ 16 / 13
+12107@ Inserir
+1211@ Cancelar
+1212@ OK
+1213@ Aprimorar Item
+1214@ Aprimorar Item usando Otimizador do Núcleo
+1215@ Aumente a taxa de sucesso do Otimizador do Núcleo selecionado
+1216@ usando Otimizador do Núcleo
+1217@ Cancelar
+1218@ OK
+12182@ Selecione Tudo
+12183@ Registro Automático
+1219@ Notícia
+1220@ Este é um aviso sobre a venda de Itens de Missão em NPCs.
+1221@ Em caso de guardar Itens de Missão em seu Armazém pessoal,
+1222@ Talvez não consiga prosseguir com suas missões.
+12221@ Equipamento
+12222@ Sub-senha
+12223@ Sub-senha
+12224@ Pets
+12225@ Fantasia
+12226@ Arma Ligada
+12227@ Bloquear Equipamento
+12228@ Elmo
+12229@ Quimono
+1223@ Deseja continuar?
+12230@ Luvas
+12231@ Botas
+12232@ Arma
+12233@ Arma
+12234@ Dragona
+12235@ Amuletos
+12236@ Anéis
+12237@ Anéis
+12238@ Moto/Prancha
+12239@ Brincos
+12240@ Brincos
+12241@ Braceletes
+12242@ Braceletes
+12243@ Anéis
+12244@ Anéis
+12245@ Cintos
+12246@ Encanto
+12247@ Effector
+12248@ Effector
+12249@ Talismã
+12250@ Cornalina
+12251@ Arcana
+12252@ Arcana
+12253@ Broche
+12254@ Effector
+12255@ Effector
+12256@ Equipamento
+12257@ Configuração de classificação de itens
+12258@ Classificar itens
+12259@ Encantamento de Item
+12260@ Apenas usuários do Serviço Premium.\Pode ser usado com Serviço Premium.
+12261@ Apenas usuários do Serviço Premium.\Pode ser usado com Serviço Premium.
+12262@ Apenas usuários do Serviço Platina.\Pode ser usado com Serviço Platina.
+12263@ Apenas usuários do Serviço Platina.\Pode ser usado com Serviço Platina.
+12264@ Apenas usuários da Pérola Abençoada - Superior.\Pode ser usado com a Pérola Abençoada - Superior.
+12265@ Apenas usuários da Pérola Abençoada - Extra.\Pode ser usado com a Pérola Abençoada - Extra.
+12266@ Inventário Temporário
+12267@ Destrói Item
+12268@ Modo de Extração de Itens
+12269@ Alz
+1227@ Cancelar
+12270@ Inventário
+12271@ Pets
+12272@ Pets
+12273@ Equipamento
+12274@ Fantasia
+12275@ Arma Ligada
+12276@ Opção de Pet Aplicada
+12277@ Pet Mostrado
+12278@ Opção de Pet Aplicada
+12279@ Pet
+1228@ OK
+12280@ EXP UP
+12281@ Pet Mostrado
+12282@ Extensor de Pet
+12283@ Pet em Uso
+12284@ Normal
+12285@ Contrato
+12286@ Confiança
+12287@ Fantasia
+12288@ Armazém de Fantasia
+12289@ Equipamento
+1229@ Retirar
+12290@ Pets
+12291@ Arma Ligada
+12292@ Fantasia (Opção Aplicada)
+12293@ Geral
+12294@ Fantasia de Arma
+12295@ Fantasia de Arma
+12296@ Fantasia de Moto (Opção Aplicada)
+12297@ Fantasia de Asa (Opção Aplicada)
+12298@ Roupas
+12299@ Fantasia de Moto
+1230@ Cancelar
+12300@ Fantasia de Asa Arcana
+12301@ Aplicar Opção
+12302@ Mostrado
+12303@ Fantasia
+12304@ Arma Ligada
+12305@ Arma Ligada
+12306@ Equipamento
+12307@ Pets
+12308@ Fantasia
+12309@ Arma Ligada
+1231@ OK
+12310@ Balão de Diálogo
+12311@ Honra
+12312@ Cubo de Jóia
+12313@ Cubo de Jóia
+12314@ Cubo de Jóia
+12315@ Configuração de classificação de itens
+12316@ Classificar itens
+12317@ Depositar
+12318@ Sub-senha
+12319@ Sub-senha
+1232@ Sair do canal de chat
+12320@ Sacar
+12321@ Alz
+12322@ Armazém
+12323@ Armazém de Fantasia
+12324@ Loja Cash
+12325@ Normal
+12326@ PC
+12327@ Recompra
+12328@ Calabouço
+12329@ Recompra
+1233@ Sair do canal de chat
+12330@ Loja
+12331@ Recompra
+12332@ Recuperar
+12333@ Recuperar
+12334@ Recuperar
+12335@ Recuperar
+12336@ Recuperar
+12337@ Recuperar
+12338@ Recuperar
+12339@ Recuperar
+1234@ Você gostaria de sair do canal de chat?
+12340@ Recuperar
+12341@ Normal
+12342@ Calabouço
+12343@ Recompra
+12344@ Normal
+12345@ Recompra
+12346@ Loja
+12347@ Recompra
+12348@ Recuperar
+12349@ Recuperar
+1235@ Nome do Canal:
+12350@ Recuperar
+12351@ Recuperar
+12352@ Recuperar
+12353@ Recuperar
+12354@ Recuperar
+12355@ Recuperar
+12356@ Recuperar
+12357@ Normal
+12358@ Insira Quantia
+12359@ Cancelar
+1236@ Cancelar
+12360@ Confirmação
+12361@ Pronto
+12362@ Negociar
+12363@ Pronto
+12364@ Confirmação
+12365@ I
+12366@ II
+12367@ III
+12368@ IV
+12369@ V
+1237@ OK
+12370@ VI
+12371@ VII
+12372@ VIII
+12373@ I
+12374@ II
+12375@ III
+12376@ IV
+12377@ V
+12378@ VI
+12379@ VII
+1238@ Criar Canal de Chat
+12380@ VIII
+12389@ Configuração de classificação automática de itens
+1239@ Nome do canal
+12390@ Inventário
+12391@ Armazém
+12393@ 4. Quando os materiais são inseridos, para uma certa % um $1#Bônus múltiplo$ será aplicado ao medidor.
+12394@ 5. Uma recompensa de $1#Circuito Especial$ pode ser obtida por uma pequena chance.
+12395@ Pode ser usado quando o Nv de Estilo de Batalha de Personagem atinge 11 ou mais.
+12396@ Usuários de Serviço Premium somente.\Serviço Premium está disponível na Loja de Item.
+12397@ Usuários de Serviço Premium somente.\Serviço Premium está disponível na Loja de Item.
+12398@ Fechar Armazém Estendido
+12399@ Abrir Armazém Estendido
+1240@ Senha
+12400@ Apenas usuários de Pérolas Abençoadas.\Pode usar comprando Pérolas Abençoada - Armazém de Fantasia.
+12401@ Apenas usuários de Pérolas Abençoadas.\Pode usar comprando Pérolas Abençoada - Armazém de Fantasia.
+12402@ Apenas usuários de Pérolas Abençoadas.\Pode usar comprando Pérolas Abençoada - Armazém de Fantasia.
+12403@ 30/30
+12404@ Pistas Encontradas
+12405@ Pista - Montagem Final
+12406@ 1,181:10
+12407@ 1,180:10
+12408@ Temp.
+12409@ Suporte a Pesq. de Heil
+1241@ Por favor, insira um título e senha para o canal de chat.
+12410@ Temp.
+12411@ Circuito Decodificado
+12412@ Nº total de circuitos decodificados
+12413@ O que Heil está procurando
+12414@ 3900050
+12415@ 8508002
+12416@ Circuito Eletrônico
+12417@ 00dia(s) 00hora(s) 00minuto(s) restante
+12418@ Insira Material
+12419@ Minha Informação
+1242@ OK
+12420@ Encontre Pistas
+12421@ Fechar
+12422@ Fora dos circuitos que Heil completou estudando
+12423@ Contém pista antiga
+12424@ Agora selecionando um circuito
+12425@ Parabéns
+12426@ Pista - O descobridor de montagem final é
+12427@ Nome
+12428@ .
+12429@ Encontre Pistas
+1243@ Criar Canal de Chat
+12430@ 2020.11 ~2020.12
+12431@ 1,182:111
+12432@ Pista Nv
+12433@ Personagem
+12434@ Guilda
+12435@ Provedor de Pista
+12436@ Nível
+12437@ [Provedor de Pista]
+12438@ 1. O 'Provedor de Pistas' é apenas para jogadores sorteados através de 'Encontrar Pistas'.
+12439@ 2. 'Localizadores de Pistas' só pode ser visto quando 'Suporte a Pesquisa de Heil' $1#acabar$.
+1244@ Nome do Canal:
+12440@ Provedor de Pista
+12441@ [Info para encontrar Pista]
+12442@ 1. 'Localizadores de Pistas' começa após o $1#Suporte a Pesquisa de Heil$ acabar.
+12443@ 2. Somente usuários que ganharam $1#mais de 7$ 'Circuitos Decodificados' podem participar
+12444@ 3. O sorteio serão selecionados dentre os usuários que ganharam 'Circuitos Decodificados' por $1#mais de 7x$.
+12445@ 4. Para usuários selecionados em sorteio, $1#'Recompensa de Pista'$ por cada Nv. será enviado p/ o inventário.
+12446@ Encontre Pistas
+12447@ Classe 1
+12448@ Classe 2
+12449@ Classe 3
+1245@ Senha do Canal:
+12450@ Classe 4
+12451@ Classe 5
+12452@ Pista - Montagem Final
+12453@ 2,000,000,000
+12454@ Pista - Poder Permanente
+12455@ 600,000,000
+12456@ 300,000,000
+12457@ Pista - Operação Completa
+12458@ 100,000,000
+12459@ Pista - Gerenciar
+1246@ Você criou o canal de chat com sucesso.
+12460@ 70,000,000
+12461@ Pista - Ataque
+12462@ Nome do Item
+12463@ Fechar
+12464@ 1,180;5
+12477@ Impressão Estelar
+12492@ 10
+12493@ 18
+12494@ 24
+12495@ 36
+12496@ 50
+12498@ Transformação de Link
+12499@ Impressão
+12500@ Impressão
+12501@ Link
+12502@ Estelar
+12503@ Força Estelar
+12509@ Fechar
+12510@ [Composição e Materiais do Link Estelar]
+12511@ 1. Link Estelar consiste em Estelar e Força Estelar
+12512@ - Link é um nome distinto e você pode obter o Efeito Link se satisfizer a condição fixa.
+12513@ e a Força Estelar é um valor estatístico do Estelar correspondente.
+12514@ - Estelar é um status que pode ser obtido pela Impressão Estelar,
+12516@ - Se você clicar em 'Imprimir' após selecionar a quantidade de $1#Luminoso: Selena$ que é um material de $1#Impressão Estelar$,
+12517@ você pode obter aleatoriamente o Link, Estellar ou Força Estelar.
+12518@ Você pode alterar a propriedade do link pela $1#Transformação de Link$.
+12519@ - Escolha a $1#Propriedade do Link$ na Transformação de Link e clique no botão 'Imprimir',
+12520@ então você pode obter a Propriedade do Link consumindo $1#Luminoso :Sol$.
+12521@ [Desbloquear o Link Estelar]
+12522@ 1. Link Estelar pode ser desbloqueado após completar a Missão $1#A Força que o Meteoro Traz$.
+12530@ Guia do Link Estelar
+12536@ Fechar
+12537@ [Condição para Participar]
+12538@ 1. Apenas $1#Contas que tenham um Personagem Principal da Guilda$ podem se juntar ao SPH
+12539@ 2. Se um Personagem Principal da Guilda estiver definido na conta, $1#outros personagens na mesma conta$ tb
+12540@ 3. Apenas personagens com $1#Nv.180 e acima$ podem participar.
+12541@ Pode participar do Suporte a Pesquisa de Heil.
+12542@ [Começar o Evento]
+12543@ 1. $1#Medidor Amarelo acima$ será preenchido quando os materiais exibidos forem inseridos.
+12544@ 2. Quando o $1#Medidor estiver todo preenchido$, os usuários podem receber $1#'Recompensa do Circuito'$ do SPH.
+12545@ 3. $1#1 'Circuito Decodificado' será acumulado$ ao receber a Recompensa de SPH 10x
+12546@ 4. Dos usuários que ganharam mais de 7 'Circuitos Decodificados' após o término do SPH
+12547@ $1#Vai dar 'Recompensa do Circuito'$ aleatoriamente por sorteio.
+12548@ [Começar o Evento]
+12549@ 1. Pesquisa de Heil será realizado em um total de $1#3 Temporadas$.
+12550@ [Regra]
+12551@ 1. Só pode ver até 10 circuitos $1#decodificados recentes.$
+12552@ 2. A descoberta de pistas será feita pelo $1#'Personagem Principal da Guilda$.
+12553@ 3. Se a $1#Guilda for dissolvida ou você retirar$ durante o período, você não poderá usar o SPH
+12554@ Porém, se você se juntar a uma guilda e definir um pers. principal na guilda, poderá $1#continuar$ com o SPH
+12555@ 4. Quando os materiais são inseridos, para uma certa % um $1#Bônus múltiplo$ será aplicado ao medidor.
+12556@ 5. Uma recompensa de $1#Circuito Especial$ pode ser obtida por uma pequena chance.
+12557@ Info para Suporte a Pesquisa de Heil
+12558@ [Recompensa]
+12559@ 1. Recompensa do Circuito: Uma recompensa dada pela abertura de 10 circuitos exibidos no SPH
+12560@ 2. Recompensa de Pista: Uma recompensa dada por sorteio após o término do SPH
+12561@ 3. As recompensas serão enviadas para o inventário e serão mantidas por 7 dias após o  recebimento.
+12562@ 4. A recompensa de pista será dada dependendo do $1#Nv de Pista$.
+12571@ 1, 183:40
+12585@ Nome do Material
+12586@ ( / )
+12598@ Desejo
+12599@ Dor
+12600@ Fúria
+12601@ Oblívio
+12602@ Vazio
+12603@ Link
+12604@ Estelar
+12605@ Força Estelar
+12607@ Status
+12608@ Valor do Status
+12632@ Fechar
+12641@ Link
+12642@ Estelar
+12643@ Força Estelar
+12644@ Selecionar
+12645@ Selecionar
+12646@ Selecionar
+12676@ Encantamento de Item
+1270@ Não
+1271@ Sim
+1272@ Você gostaría de participar?
+12726@ Efeito da Impressão
+12727@ Efeito do Link
+1273@ Recompensa do Evento só pode ser recebida de acordo com o
+12735@ Transformação de Link
+1274@ número limitado definido para a recompensa.
+12746@ Transformação de Link
+12749@ Impressão Estelar
+1275@ Qnt Restante:
+12751@ 2. Você pode obter o Link, Estelar e Força Estelar no Link Estelar usando a Impressão Estelar.
+12754@ [Efeito Link]
+12755@ 1. Você pode obter o Efeito Link se cada $1#Propriedade do Link$ do Slot Estelar for o mesmo em uma linha.
+12756@ - Propriedade do Link pode ser obtido aleatoriamente por Impressão Estelar ou Transformação de Link.
+12757@ Mas o Efeito do Link será desvendado se a condição fixa para o Efeito do Link não for satisfeita.
+12758@ [Outros]
+12759@ 1. À medida que você adiciona mais materiais no $1#Link Estelar$, a probabilidade do Link, Estelar e Força Estelar aumentará.
+1276@ Evento
+12760@ - Estelar: A probabilidade de obter o Estelar superior está aumentando.
+12763@ - Força Estelar: A probabilidade de obter uma Força Estelar superior está aumentando.
+12764@ - Propriedade do Link: A probabilidade de obter a Propriedade de Link superior está aumentando.
+12765@ Link Estelar
+12766@ Guia do Link Estelar
+12769@ Confirmação
+1277@ Não
+12773@ Condição QNT.
+12774@ *Você não pode reembolsar ou trocar os itens
+1278@ Sim
+12780@ *Se você clicar em [Confirmar], a Gema Arcana será consumida
+12781@ Status de Ataque
+12782@ DEF atributos
+12783@ Outro atributos
+12784@ Status de Ataque
+12785@ DEF atributos
+12786@ Outro atributos
+12787@ AP
+12788@ Essência
+12789@ Slot de Essência (Em Uso / Total)
+1279@ Você gostaría de participar?
+12790@ Habilidade de Alma
+12791@ 2,59:5
+12792@ Supremo
+12793@ Karma
+12794@ Slot Supremo (Em Uso/Total)
+12795@ Supremo
+12796@ Habilidade de Alma
+12797@ 2,60:3
+12798@ Karma
+12799@ Essência
+1280@ Recompensa do Evento só pode ser recebida de acordo com o
+12800@ AP
+12801@ Karma
+12802@ Slot de Karma (Uso/Possuído)
+12803@ Habilidade de Alma
+12804@ 2,186:5
+12805@ Supremo
+12806@ Essência
+12807@ Fechar
+12808@ Informação do Tesouro de Guilda
+12809@ [Condição para Participar]
+1281@ número limitado definido para a recompensa.
+12810@ 1. $1#Personagem participante deve ser indicado como personagem principal$
+12811@ [Tesouro Dourado de Guilda]
+12812@ 1. Ponto do Tesouro Dourado de Guilda é ganho cada vez que uma lista de tesouro de guilda é criado
+12813@ 2. Os pontos não serão salvos se você não receber o Tesouro Dourado de Guilda
+12814@ [Lista do Tesouro de Guilda]
+12815@ 1. If $1#A condição de aquisição de tesouro$ foi preenchida, uma mensagem irá aparecer para receber o tesouro de guilda
+12816@ 2. Se deseja adquirir, você pode usar $1#BP(Ponto de Batalha)$ para criar um tesouro de guilda.
+12817@ 3. A lista de tesouros criados será exibida a $1#todos os membros da guilda.$
+12818@ 4. Você não pode criar mais lista de tesouros se tiver atingido a $1#contagem máxima de tesouros$
+12819@ [Como fazer o Tesouro de Guilda]
+1282@ Qnt Restante:
+12820@ 1. $9#[Batalha]$ Ganhe pontos das missões de guerra.
+12821@ 2. $3#[Aprimoramento]$ Atinja determinados graus de aprimoramento ou obter um ponto de aprimoramento acima de determinado número.
+12822@ 3. $38#[Calabouço]$ Limpar calabouço.
+12823@ * Você não pode ganhar tesouros da guilda em alguns calabouços, independentemente do tamanho.
+12824@ Arena do Caos Eterno, Glacies Inferna, Arena Legendária
+12825@ Estação Ruína Enfraquecida, Torre Gélida dos Mortos (1SS) Enfraquecida, Solo Flamejante
+12826@ [Condição para receber o tesouro da guilda]
+12827@ 1. Você precisa obter $1#pontos mínimos diários$ para receber o tesouro da guilda.
+12828@ 2. O ponto mínimo diário será redefinido todos os dias.
+12829@ 3. A lista de tesouros da guilda continuará sendo criada se você não atingir os pontos mínimos diários.
+1283@ Evento
+12830@ [Regra]
+12831@ 1. $1#O Personagem Principal da Guilda$ é mantido até sair da guilda.
+12832@ 2. Os tesouros não recebidos da guilda serão excluídos automaticamente ao sair da guilda.
+12833@ 3. O tempo hábil para se receber o Tesouro da Guilda é de 30 horas.
+12834@ 4. A lista de tesouros da guilda não recebidos dentro do tempo disponível será automaticamente excluída.
+12835@ [Tesouro de Guilda]
+12836@ 1. Vários itens podem ser adquiridos em comum de acordo com as atividades dos membros da guilda.
+12837@ Dispensar grupo
+12838@ Entre no Calabouço
+12839@ Saia do Calabouço
+1284@ Acordo Imediato
+12840@ Junte-se ao Grupo
+12841@ Deixe o grupo
+12842@ Não é possível unir-se
+12843@ Procurar Guilda
+12844@ Guilda
+12845@ Gerencie Pedido
+12846@ Festival de Missão
+12847@ Tesouro de Guilda
+12848@ $41#*Recompensas de calabouço podem ser abertas apenas após todos 'tempo aberto' passar.$\\*Apenas uma recompensa de calabouço poderá chegar a 'tempo aberto' por vez.\\*Você pode ficar com apenas 3 recompensas de calabouço no máximo por vez.\\*Se você deletar a recompensa, não será possível recuperá-la.
+12849@ Deletar
+1285@ Desistir
+12850@ Deletar
+12851@ Deletar
+12852@ Receber
+12853@ Receber
+12854@ Receber
+12855@ $41#*Calabouço de Guilda é localizado na 'Entrada de Desafio''\\*Vá para 'Entrada de Desafio' para abrir o Calabouço de Guilda.$
+12856@ $1#*Recompensa muda de acordo com a dificuldade.\\*Você pode ver a descrição colocando o mouse no item.\\*'Token da Unidade é dado quando a caixa é aberta.
+12857@ 1,138:0
+12858@ 1,137:0
+12859@ Se você não entrar no calabouço no tempo restante, o calabouço será fechado e a equipe será dispensada.
+1286@ Aposta
+12860@ Selec. Calab. de Guilda
+12861@ Atividade da Guilda
+12862@ Calabouço de Guilda
+12863@ Abra a Caixa de Recompensa
+12864@ Recompensa de Calabouço
+12865@ Contagem de Entrada
+12866@ Receba Tudo
+12867@ Receber
+12868@ Procurar Guilda
+12869@ Calabouço de Guilda
+1287@ Aposta
+12870@ Guilda
+12871@ Gerencie Pedido
+12872@ Festival de Missão
+12873@ Rank Semanal de Guilda
+12874@ * Quando a lista do tesouro de guilda é criado, o Tesouro de Guilda Dourado é ganho.  \\* Quando a barra chegar a 100%, você pode ganhar Tesouro de Guilda Dourado.
+12875@ * Você pode obter o tesouro da guilda quando atingir os pontos mínimos diários.\\ *Os pontos mínimos diários serão zerados a cada meia-noite (AM 00:00).
+12876@ Informação do Tesouro de Guilda
+12877@ 1,148:0
+12878@ Atividade da Guilda
+12879@ Tesouro de Guilda
+1288@ Jogar o dado
+12880@ Pontos de Tesouro Semanais
+12881@ Tesouro Criado
+12882@ Tesouro de Guilda Dourado
+12883@ Pontos mínimos diários
+12884@ Recebível
+12885@ Atividade da Guilda
+12886@ Guilda
+12887@ Gerencie Pedido
+12888@ Festival de Missão
+12889@ 1,130:0
+1289@ Desistir
+12890@ Procurar Guilda
+12891@ Ordenar
+12892@ Ranking
+12893@ Nação
+12894@ Nível
+12895@ Nome da Guilda
+12896@ Mestre de Guilda
+12897@ Marque
+12898@ Data de Criação de Guilda
+12899@ Ranking
+1290@ Jogar o dado
+12900@ Nação
+12901@ Nível
+12902@ Nome da Guilda
+12903@ Mestre de Guilda
+12904@ Marque
+12905@ Data de Criação de Guilda
+12906@ Pedido de Entrada
+12907@ Condição de Procura
+12908@ Condição de Procura
+12909@ Procure por Nome
+1291@ Jogar o dado
+12910@ Procure por Nome
+12911@ Definir personagem principal da guilda
+12912@ Atividade da Guilda
+12913@ Procurar Guilda
+12914@ Gerencie Pedido
+12915@ Festival de Missão
+12916@ 2,129:10
+12917@ Mestre de Guilda
+12918@ Informação de Guilda
+12919@ Notificação de Guilda
+1292@ Cancelar
+12920@ Membros da Guilda
+12921@ Guilda
+12922@ Data de Criação de Guilda
+12923@ Membro de Guilda
+12924@ Ponto de Guilda
+12925@ Atividade da Guilda
+12926@ Procurar Guilda
+12927@ Guilda
+12928@ Festival de Missão
+12929@ 1,131:0
+1293@ Confirmação
+12930@ Gerencie Pedido
+12931@ Ordenar
+12932@ Solicitando personagem
+12933@ Poder de Ataque/Defesa
+12934@ Pedido de Informação
+12935@ Data de Solicitação de Ingresso
+12936@ Aceitar
+12937@ Ranking
+12938@ Nação
+12939@ Nível
+1294@ Preço de Venda
+12940@ Nome da Guilda
+12941@ Mestre de Guilda
+12942@ Marque
+12943@ Data de Criação de Guilda
+12944@ $41#[Guia de Missão]$\\Pontuação Mínima: 60\\Pontuação Máxima: 500\\
+12945@ Participar de evento
+12946@ Informação do Festival de Missão
+12947@ Não é possível participar
+12948@ Rank de Contribuição
+12949@ Ranking
+1295@ Cancelar
+12950@ Completo
+12951@ Desistir
+12952@ Começar
+12953@ Recompensa(pt) Info
+12954@ Recompensa (Rank)
+12955@ Atividade da Guilda
+12956@ Procurar Guilda
+12957@ Guilda
+12958@ Gerencie Pedido
+12959@ Receba Recompensa
+1296@ Confirmação
+12960@ Período Acabou
+12961@ Número de participantes
+12962@ Pontuação restante para próx rank
+12963@ Rank de Pontuação atual
+12964@ Pontos totais de Guilda
+12965@ Meu rank de guilda
+12966@ Adicionar Contagem de Missão
+12967@ Tempo Restante do Evento
+12968@ Progressão da Missão
+12969@ Limite de tempo da Missão
+1297@ Completar Auto.
+12970@ Ponto de recompensa da missão
+12971@ 2,140:1
+12972@ Informação de Evento
+12973@ Recompensa(pt) Info
+12974@ Recompensa (Rank)
+12975@ Festival de Missão
+12976@ Ranking
+12977@ Pontuação
+12978@ Missões
+12979@ Minha Informação
+1298@ Preço de Compra
+12980@ Lista de Missão
+12981@ [Condição do Evento]
+12982@ 1. Una-se a uma guilda antes do evento começar
+12983@ 2. Nenhum personagem na conta está participando do evento
+12984@ Você precisa participar do evento para ver a lista de missões
+12985@ Você não está em uma guilda.
+12986@ Calculando o resultado do evento...
+12987@ Rank de Conquistas
+12988@ Receba em
+12989@ * Recompensas de Festival de Missão serão enviados para o inventário de evento.
+1299@ Cancelar
+12990@ Resultado da Temporada
+12991@ Recompensa
+12992@ Minha Pontuação
+12993@ Rank Individual
+12994@ Resultado
+12995@ Preparando para o evento...
+12996@ Atualizar lista de Membros da Guilda
+12997@ Propaganda de Guilda
+12998@ Recompensa de Guilda
+12999@ Loja da Guilda
+13@ Teclado Virtual
+1300@ OK
+13000@ Organize por Nome de Grupo
+13001@ Mostrar Membros de Guilda online
+13002@ Guilda
+13003@ Fechar
+13004@ Menu de Guilda
+13005@ Status
+13006@ Valor do Status
+13007@ Nível
+13008@ Conceder Propriedade
+13009@ Conseguiu conceder a propriedade.
+1301@ Mudar Preço do Item
+13010@ Fechar
+13011@ Fechar
+13012@ [Desbloqueie o Domínio Mítico]
+13013@ 1. Ele será desbloqueado assim que você completar a missão $1#Além dos Limites$ ao atingir ONv.100
+13014@ [MXP]
+13015@ 1. O MXP pode ser obtido no $1#calabouço que pode obter o MXP$.
+13016@ 2. As informações sobre o calabouço para obtenção do MXP podem ser conferidas no menu $1#Cabal - Calabouço$.
+13017@ [MNv]
+13018@ 1. Você pode subir de nível no MNv adquirindo o EXP Mítico (MXP).
+13019@ 2. Você receberá $1#Pontos Míticos$ assim que subir de nível no MNv.
+1302@ Você decidiu mudar o preço do item
+13020@ 3. Pode subir de nível até MNv.100 no máximo.
+13021@ [Ressurreição]
+13022@ 1. Você pode redefinir o nível quando seu nível estiver acima de MNv 95.
+13023@ 2. A Gema Arcana será consumida se você ressuscitar no Nv. 95~99,
+13024@ mas se você atingir o nível 100, poderá ressuscitar sem nenhum custo.
+13025@ 3. À medida que você repete a ressurreição, a EXP necessária aumentará um pouco.
+13026@ [Obter propriedade]
+13027@ 1. Você pode obter a propriedade de cada slot consumindo os Pontos Míticos.
+13028@ 2. O slot pode ser dividido em 3 tipos. (Ataque, Misto, Defesa)
+13029@ 3. A propriedade obtida pode ser alterada com o reaproveitamento dos pontos.
+1303@ Tem certeza que deseja mudar o preço do item?
+13030@ [Grade]
+13031@ 1. Pontos de Grade (Poder Sagrado) serão concedidos conforme o nível da propriedade obtida.
+13032@ 2. A grade será alterada conforme os pontos e poderá obter a recompensa especial.
+13033@ Guia do Domínio Mítico
+13034@ Status
+13035@ Valor do Status
+13036@ Nível
+13037@ * Você precisa de Fragmento de Memória para restaurar a propriedade.
+13038@ Transformação de Propriedade
+13039@ A transformação da propriedade foi bem-sucedida.
+1304@ Cancelar
+13040@ Fechar
+13041@ Recuperar
+13043@ 2,184:10
+13044@ Informações da Grade
+13045@ Status
+13046@ 2,185:10
+13047@ Estatísticas
+13048@ Informações da Grade
+1305@ OK
+1306@ Fechando Loja Pessoal
+1307@ Você está fechando a sua Loja Pessoal.
+1308@ Você gostaria de fechar a Loja Pessoal?
+1309@ (Quando você fecha a sua loja, os itens registrados
+1310@ na lista de venda serão movidos para o seu inventário)
+1311@ Cancelar
+1312@ OK
+1313@ Parar modo de venda
+1314@ Você está encerrando o Modo de Venda.
+1315@ Você gostaria de encerrar o Modo de Venda?
+1316
+1317
+13241@ Nível Mítico (MNv)
+13242@ Pontos de Ressurreição
+13243@ Domínio Mítico
+13244@ Pontos Míticos
+13245@ Slot de Prop.
+13246@ Pontos Míticos
+13247@ Status
+13248@ Valor do Status
+13249@ Nível
+13250@ Poder Sagrado
+13251@ Transformação
+13252@ Garantido
+13253@ Guia do Domínio Mítico
+13254@ Ressurreição
+13255@ Ponto de Retorno da Ressurreição
+13256@ Bônus de Sessão de Ressurreição
+13257@ *Haverá um custo se você ressuscitar antes do nível completo,
+13258@ e você receberá de volta todos os pontos que poderia receber ao subir de nível.
+13259@ Redefina o MNv.
+13260@ Ressurreição
+13261@ Cancelar
+13272@ O Poder Sagrado não é suficiente.
+13287@ Informação do Personagem
+13288@ Item
+13289@ Missão & Conquistas
+13290@ Calabouço e Localização
+13291@ Sistema
+13292@ Comunidade
+13293@ Conquistas
+13294@ Mercenário
+13295@ Buff Platinum
+13296@ Amigo
+13297@ Personagem
+13298@ Inventário Cash
+13299@ Missão Desafio
+13300@ Calabouço
+13301@ Guilda
+13302@ Medalha de Honra
+13303@ Suporte a Pesq. de Heil
+13304@ Mail
+13305@ Domínio Mítico
+13306@ Domínio Overlord
+13307@ Grupo
+13308@ Loja de Item
+13309@ Técnica
+13310@ Técnica de Transcendência
+13311@ Caixa de Presente (Especial)
+13312@ Link Estelar
+13313@ PTT
+13314@ Transformar
+13315@ Coleção
+13316@ Item de Encantamento
+13317@ Inventário de Evento
+13318@ Criação
+13319@ Ajuda
+1332@ Pronto
+13320@ Inventário
+13321@ Habilidade de Alma
+13322@ Jukebox
+13323@ Mapa
+13324@ Menu de Sistema
+13325@ Missões
+13327@ EXP Ganho
+13328@ Insuficiente EXP
+13329@ Penalidade de Morte
+1333@ Pronto
+13333@ Deixar canal
+13334@ Criar/Entrar canal
+13335@ Selecione original
+13336@ Mostrar
+13337@ Preferências
+13338@ Som
+13339@ Jogo
+1334@ Não
+13340@ Combinações de teclas
+13341@ Macro
+13342@ Alz Obtido
+13343@ Fixar janela de chat
+13344@ Canal
+13345@ Mudar tipo de chat com Ctrl + Tab
+13346@ Desconsiderar mensagens On/Offline
+13347@ Ganho de EXP
+13348@ Guilda
+13349@ Opção de Item
+1335@ Sim
+13350@ Gritar
+13351@ Clique no personagem e link na janela de chat
+13352@ MXP obtido
+13353@ Normal
+13354@ Ganho de OXP
+13355@ Grupo
+13356@ Mensagem de Sistema
+13357@ Janela de Sistema fixada
+13358@ Negociar
+13359@ Mostrar mensagens de ajuda
+1336@ Não pergunte novamente
+13360@ Sussuro
+13361@ Ignorar mensagens do inimigo
+13362@ Mensagem no chat
+13363@ Chat do canal
+13364@ Mensagem de Sistema
+13365@ Opção de chat
+13366@ Transparência
+13367@ Nome do canal
+13368@ Senha
+13369@ Janela de chat
+1337@ Usar Pedra-Guia
+13370@ Janela de Sistema
+13371@ Janela de chat
+13372@ Linha de chat
+13373@ Janela de Sistema
+13374@ Conversando
+13375@ MXP
+13376@ Calabouço Obtido
+13377@ Calabouços atingíveis MXP
+13378@ * Você não pode mais obter o MXP
+13379@ quando o tempo restante 0.
+1338@ Mover para Teleporte de Recompensa da Nação
+13380@ *MXP será aplicado de forma diferente ao
+13381@ EXP do calabouço existente.
+13382@ contagem não será reposta
+13383@ * Mesmo que o tempo de jogo seja recarregado, entrada do calabouço
+1339@ Uma pedra de teleporte será usada para a nação derrotada
+13391@ Poder Sagrado
+13392@ Caminho do Conhecimento
+13393@ Abrir
+13394@ Abrir
+13395@ Abrir
+13396@ Abrir
+13397@ Fechar
+13398@ 2,187:10
+13399@ Calabouço do Dia
+1340@ ao usar o Teleporte Recompensa da Nação?
+13400@ Informações Adicionais de Recompensa
+13401@ Calabouço de Hoje
+13402@ [Calabouço do Dia]
+13403@ 1. $1#Recompensa Adicional pode ser obtida$ no Calabouço do Dia, exceto a recompensa original.
+13404@ 2. Informações sobre Recompensa Adicional podem ser conferidas através de $1#Icone da Caixa de Presente$.
+13405@ 3. O Calabouço do dia $1# será redefinido a cada meia-noite$ e um novo calabouço será selecionado.
+13406@ Calabouço do Dia
+13407@ Calabouço do Dia
+13408@ Ele será desbloqueado se você atingir o poder sagrado necessário.
+13409@ Ele será desbloqueado se você atingir o poder sagrado necessário.
+1341@ Gostaria de usar o Teleporte Recompensa da Nação?
+13410@ Ele será desbloqueado se você atingir o poder sagrado necessário.
+13411@ Ele será desbloqueado se você atingir o poder sagrado necessário.
+13412@ Login
+13413@ Recompensa da Ressurreição
+13415@ Fragmento de Memória (Ligado a Conta) x 30
+13416@ 4. $1#Fragmento de Memória(Ligado a Conta) X 30$ para o inventário quando você ressuscitar.
+13417@ EXP Ganho
+13418@ Insuficiente EXP
+13419@ Penalidade de Morte
+1342@ Tecla de Atalho 2
+13420@ AXP
+13426@ AXP
+13427@ OXP
+1343@ Tecla de Atalho 1
+13432@ AXP
+13434@ MXP
+1344@ Não Vinculado
+13446@ *Padrão de poder de combate: $34#200.000#$Se você não atender ao padrão de poder de combate da missão de guerra, a entrada no campo será restrita.
+13447@ Mapa Estratégico
+13448@ Lista de Membros
+13449@ Entre no Ranking
+1345@ Não Vinculado
+13450@ Lista de Espera
+13451@ Falta de Poder de Combate
+13452@ Trocar Equipamento
+13453@ Informação
+13454@ /
+13455@ Verifique o Equipamento
+13456@ 2,190:10
+13457@ Informações de entrada na missão de guerra
+13458@ Poder de Combate de Entrada
+13459@ Equipamento sem status
+1346@ Tipo do Item
+13460@ Critérios de Poder de Combate de Missão de Guerra
+13461@ Poder de Combate Atual
+13462@ Disponível para Entrar
+13463@ Não disponível para entrar
+13464@ Cancelar
+13465@ Ocupação
+13466@ Ocupação do Santuário
+13467@ Experimente a Ocupação do Santuário
+13468@ Você quer tentar a ocupação do santuário?
+13469@ * Você não pode fazer nada enquanto estiver ocupando.
+1347@ Classe Recomendada
+13474@ Destruir HQ
+13475@ Ocupar o Santuário Central
+13476@ Ative o Terminal Santuário
+13477@ Destrua o Santuário Inferior
+13478@ Destruir Guardião do Santuário
+13479@ Derrote Inimigo
+13480@ Despera de Guerra
+13481@ Recorde Pessoal
+13482@ Recompensa
+13483@ Despesa Pessoal
+13484@ Despesa Total
+13485@ Bônus de Vitória
+13486@ Ranking
+13487@ Recompensa de Ranking
+13488@ Alz
+13489@ Alz
+13490@ Alz
+13491@ Alz
+13492@ Alz
+13493@ WExp
+13494@ P
+13495@ Pontuação de Danos
+13496@ Pontuação de Defesa
+13497@ Pontuação de Cura
+13498@ Pontuação de Ocupação
+13499@ AXP
+1350@ 1,54:0,55:0
+13500@ AXP
+13501@ Pontuação Pessoal
+13502@ Ganho
+13503@ Recompensa
+13504@ Recompensa Total de Alz
+13505@ Matar/Morrer
+13506@ Ponto
+13507@ Pontuação da Medalha
+13508@ Reportar
+13509@ OK
+1351@ 1,0:0
+13510@ OK
+13511@ Aumento WEXP
+13512@ Normal
+13513@ Treinamento
+13514@ Redefinir Pontos de Treinamento
+13515@ 2,189:10
+13516@ 2,188:1
+13517@ Aplicar
+13518@ Nível
+13519@ 1
+13520@ 1
+13521@ Nível Máx
+13522@ Status
+13523@ Nome do Status
+13524@ Valor do Status
+13525@ 0
+13526@ Pts Treinamento
+13527@ -1
+13528@ 20
+13529@ 0
+13530@ Grau
+13531@ Nível
+13532@ Pts Treinamento
+13533@ Qtde de Ponto
+13534@ Grau
+13535@ Nível
+13536@ Efeito de Treinamento
+13537@ Treinamento
+13538@ Téc de Chegada
+13539@ Treinamento
+13540@ Transcendência
+13541@ Normal
+13542@ Subir Nv Auto
+13543@ EXP de Asa Arcana
+13544@ %
+13545@ Subir de Nível
+13546@ Informação de Asa Arcana
+13547@ Grau
+13548@ Nível
+13549@ HP
+13550@ Todos os Ataques
+13551@ Defesa
+13552@ Grau
+13553@ Nível
+13554@ HP
+13555@ Todos os Ataques
+13556@ Defesa
+13557@ Nome da Téc
+13558@ Nível
+13559@ Nome da Téc
+13560@ Nível
+13561@ Técnica
+13562@ Asa Arcana
+13563@ Mudar
+13564@ Mantenha
+13565@ Aplicar
+13566@ 3
+13567@ Grau
+13568@ Nome da Grade
+13569@ Status
+13570@ Dano Crítico
+13571@ 10%
+13572@ Perfuração
+13573@ 360
+13574@ Grau
+13575@ ?
+13576@ Status
+13577@ ?
+13578@ ?
+13579@ Definir Status de Chegada
+13580@ Definir Status de Chegada
+13581@ A Essência da Asa será consumida
+13582@ Definir Status de Chegada
+13583@ Você obteve o Status de Chegada abaixo.
+13584@ Marcar Inimigo
+13585@ Marcar Aliança
+13586@ Base Aliança
+13587@ Base Inimiga
+13588@ Ponto Aliança
+13589@ Ponto Inimigo
+13590@ Ponto Neutro
+13591@ Líder do Grupo
+13592@ Teleportar/Reviver
+13593@ Ponto de Batalha
+13594@ Líder do Grupo
+13595@ Membro do Grupo
+13596@ GPS
+13597@ Base Aliança
+13598@ Base Inimiga
+13599@ Líder do Grupo
+13600@ Teleportar/Reviver
+13601@ Ponto de Batalha
+13602@ Líder do Grupo
+13603@ Membro do Grupo
+13604@ Entrar
+13605@ Fechar
+13606@ 1,191:0
+13607@ Personagem do 1º Ranking
+13608@ 134º
+13609@ 3,000,000
+13610@ Rank da Temp.
+13611@ Tempo Restante
+13612@ Personagem Registrado
+13613@ Melhor Pontuação da Temporada
+13614@ Ranking
+13615@ Registro Recente
+13616@ 00dia(s) 00hora(s) 00minuto(s) restante
+13617@ 3,000,000
+13618@ Informação do Calabouço
+13619@ Recompensas
+13620@ 1,192:0
+13621@ Ranking
+13622@ Personagem
+13623@ Rank da Temp.
+13624@ Pontuação
+13625@ Nível
+13626@ Rank da Temp.
+13627@ 1,193:0
+13628@ Pontos Mínimos
+13629@ Item Recompensa
+1363@ 1,13:0
+13630@ Recompensas
+13631@ Ranking e Recompensa
+13632@ Desafio de calabouço
+13633@ Terminar Calabouço
+13634@ Próxima Fase
+13635@ Conclua a Etapa 5
+13636@ Pontuação de Monstros Mortos
+13637@ 00 Pontuação
+13638@ Pontuação Completa
+13639@ 00 Pontuação
+13640@ Bônus de Tempo
+13641@ 00 Pontuação
+13642@ Pontuação Total
+13643@ 00 Pontuação
+13644@ Confirmação
+13645@ Terminar Calabouço
+13646@ Fase de Progresso
+13647@ Estágio 15
+13648@ Pontuação Final
+13649@ 00 Pontuação
+13650@ Recompensa
+13651@ Pontos Ganhos
+13652@ Efeito de Buff Aplicado
+13653@ 999999999
+13654@ Nv.1
+13655@ Redefinir Efeito de Medalha
+13656@ 2,126:4
+13657@ 2,127:21
+13658@ Medalha de Honra
+13659@ Pontuação da Medalha
+13660@ 99.999%
+13661@ Normal
+13662@ Herói da Luz
+13663@ Nv 40
+13664@ Herói da Luz
+13665@ medal_name
+13666@ Tempo Restante
+13667@ Clique para se registrar no slot rápido.
+13668@ Comece a próxima temporada
+13669@ Capella
+13670@ Santuário Central
+13671@ Santuário Inferior
+13672@ Procyon
+13673@ Alvo Individual P
+13674@ Individual Obtido P
+13675@ Agente do Observador
+13676@ Aparência do Agente
+13677@ Fechar
+13678@ Entrar
+13679@ Chefe
+1368@ 1,0:0
+13680@ Grupo
+13681@ Recompensa
+13682@ Solo
+13683@ Lista de Item
+13684@ Lista de Item
+13685@ Tipo
+13686@ Nome do Item
+13687@ Itens
+13688@ Chefe
+13689@ Itens
+13690@ Recompensa
+13691@ Solo
+13692@ Record
+13693@ Record de Cabalouço
+13694@ Ranking
+13695@ Personagem
+13696@ Record
+13697@ Grupo
+13698@ Chefe
+13699@ Itens
+1370@ Repetir o Encerramento de Rolagem
+13700@ Grupo
+13701@ Recompensa
+13702@ Solo
+13703@ Record
+13704@ Record de Cabalouço
+13705@ Ranking
+13706@ Personagem
+13707@ Record
+13708@ Mude Recompensas Diárias
+13709@ Tempo
+13710@ 2,91:10
+13711@ Dia
+13712@ Seg
+13713@ Ter
+13714@ Qua
+13715@ Qui
+13716@ Sex
+13717@ Sab
+13718@ Recompensa Diária
+13719@ Recompensa Diária
+13720@ Dia
+13721@ Seg
+13722@ Ter
+13723@ Qua
+13724@ Qui
+13725@ Sex
+13726@ Sab
+13727@ Tempo
+13728@ Chefe
+13729@ Itens
+1373@ Alz(Ponto)
+13730@ Grupo
+13731@ Solo
+13732@ Recompensa
+13733@ Próxima Recompensa
+13734@ Recompensas
+13735@ Itens
+13736@ Grupo
+13737@ Recompensa
+13738@ Solo
+13739@ Chefe
+1374@ 1,45:0
+13740@ Lista de Chefe
+13741@ Lista de Chefe
+13742@ 2,15:7
+13743@ Informação
+13744@ Poder de combate recomendado
+13745@ PC Obtidos
+13746@ PA necessário
+13747@ Nível de Entrada
+13748@ Rank de Classe
+13749@ Jogadores Máx
+1375@ 1,50:0
+13750@ Item de Entrada
+13751@ Selecione Dificuldade
+13752@ Selecione Mundo/Calabouço
+13753@ 2,102:100
+13754@ 2,69:30
+13755@ *Refere-se ao poder de combate recomendado com base no jogo solo e pode diferir da experiência real.
+13756@ História da DG
+13757@ Informação
+13758@ Itens
+13759@ Chefe
+1376@ 1,0:0
+13760@ Lista de Chefe
+1377@ 0
+1378@ 1
+13786@ Chefe
+13787@ Itens
+13788@ Poder de combate recomendado
+13789@ Informação
+1379@ 2
+13790@ PC Obtidos
+13791@ PA Necessário
+13792@ Nível de Entrada
+13793@ Rank de Classe
+13794@ Máx Jogadores
+13795@ Chefe
+13796@ Informação
+13797@ Lista de Item
+13798@ Tipo
+13799@ Nome do Item
+138@ Usuários de Serviço Premium somente.\Serviço Premium está disponível na Loja de Item.
+1380@ 3
+13800@ Itens
+13801@ 1,196:0
+13802@ 2,102:100
+13803@ PC Atual
+13804@ Item de Entrada
+13805@ Informação do Calabouço
+13807@ 1,195:0
+13808@ * É um calabouço desconhecido que precisa de uma aventura. O desafio dos Guerreiros de Nevareth continua.
+13809@ Recompensa do dia
+1381@ 4
+13811@ Cancelar
+13812@ OK
+13813@ Compre Item
+13814@ Comprar QTD
+13815@ Preço de Compra
+13816@ Condição QNT.
+13817@ *Você não pode reembolsar ou trocar os itens
+13818@ após receber os itens comprados do inventário cash.
+13819@ Não
+1382@ 5
+13820@ Sim
+13821@ OK
+13822@ Abra Pacote de Gema Arcana
+13823@ *Se você clicar em [Confirmar], a Gemas Arcanas será consumida
+13824@ e o item será dado.
+13825@ *Não é possível cancelar os itens comprados.
+13826@ Buff Platinum
+13827@ Aplique o nível de Buff Platinum.
+13828@ [Taxa de Desconto %]
+13829@ Gemas Arcanas serão consumidas
+1383@ 6
+13830@ para aplicar a Pérola Abençoada
+13831@ Grau
+13832@ Preço Original
+13833@ Aplicar Período
+13834@ Preço Promocional
+13835@ *A Gema Arcana será consumida assim que você clicar em 'Confirmar',
+13836@ e o Buff será aplicado
+13837@ *Os itens comprados não são reembolsáveis e não podem ser trocados.
+13838@ Não
+13839@ Sim
+1384@ 7
+13840@ Customização da Pérola Abençoada.
+13841@ Aplicar customização de Pérola Abençoada
+13842@ Total de Gemas Arcanas Consumidas
+13843@ Requer Gemas Arcanas
+13844@ *A Gemas Arcanas será consumida assim que você clicar em 'Confirmar',
+13845@ e o Buff será aplicado
+13846@ *Os itens comprados não são reembolsáveis e não podem ser trocados.
+13847@ 1, 194:0
+13848@ Não
+13849@ Sim
+1385@ 8
+13850@ Cancelar
+13851@ Sim
+13852@ Confirmar
+13853@ *Se você clicar em [Confirmar], a Gema Arcana será consumida
+13854@ e você pode entrar no calabouço.
+13855@ *Gemas Arcanas usadas após entrar no calabouço não podem ser canceladas.
+13856@ Arena do Caos
+13857@ DX
+13858@ etc
+13859@ Missão
+1386@ 9
+13860@ Mítico
+13861@ Tudo
+13862@ Tudo
+13863@ DX
+13864@ etc
+13865@ Missão
+13866@ Mítico
+13867@ Arena do Caos
+13868@ Tudo
+13869@ Arena do Caos
+1387@ `
+13870@ etc
+13871@ Missão
+13872@ Mítico
+13873@ DX
+13874@ Tudo
+13875@ Arena do Caos
+13876@ DX
+13877@ Missão
+13878@ Mítico
+13879@ etc
+1388@ -
+13880@ Tudo
+13881@ Arena do Caos
+13882@ DX
+13883@ etc
+13884@ Mítico
+13885@ Missão
+13886@ Tudo
+13887@ Arena do Caos
+13888@ DX
+13889@ etc
+1389@ =
+13890@ Missão
+13891@ Mítico
+13893@ Recompensa
+139@ Usuários de Serviço Premium somente.\Serviço Premium está disponível na Loja de Item.
+1390@ \
+1391@ q
+1392@ w
+13923@ Recompensa
+1393@ e
+1394@ r
+13945@ 1,199:0
+13946@ Missão
+13947@ Missão
+13948@ 1,198:0
+13949@ 1,198:0
+1395@ t
+13950@ Completo
+13951@ Processo
+13954@ Cancelar
+13955@ Uso
+13956@ Pontuação do Passo
+13957@ Valor da compra
+13958@ Gema Arcana
+13959@ Resultado
+1396@ y
+13960@ /
+13961@ Passo
+13963@ Pontuação
+13966@ Receber recompensa
+13967@ Receber recompensa
+13969@ Up
+1397@ u
+13971@ Passo
+13973@ Receber tudo
+13974@ Fechar
+13979@ Comprar 450
+1398@ I
+13987@ Normal
+13988@ Premium
+1399@ o
+13991@ 1
+13992@ Máx
+13994@ Compra
+13995@ * A recompensa obtida será dada em $1#Inventário$
+13998@ 50
+13999@ Passe de evento normal
+14@ ID
+140@ Usuários de Serviço Premium somente.\Serviço Premium está disponível na Loja de Item.
+1400@ P
+14001@ 50 / 50
+14002@ todas as quartas-feiras 10:00.
+14003@ - A missão semanal será redefinida
+14004@ todas as quartas-feiras 10:00.
+14006@ até 30 de dezembro de 2022
+14007@ 50 / 50
+14008@ 1 / 3
+14009@ Missão Diária
+1401@ a
+14011@ Contagem de missão diária
+14012@ Missão Semanal
+14013@ Contagem de missão semanal
+14014@ 1/25
+14015@ Consumir Alz
+14016@ 1,000,000
+14017@ 10 pontos
+14018@ 100
+14019@ 3
+1402@ s
+14020@ 2
+14021@ 0
+14022@ 140
+14023@ 150
+14024@ 0
+14025@ * Se você usar Compra de Pontuação, a Gema Arcana será consumida.
+14026@ * Limite de compra de pontuação será zerado a cada 05:00.
+14027@ Passe de Evento: Pista no Abismo
+14028@ Pontuação da Etapa de Compra
+14029@ Benefícios de usar o Premium
+1403@ d
+14030@ 1. Ganhe Recompensa Premium e Recompensa de Conclusão Premium
+14031@ 2. Imediatamente concedida a habilidade de buff forte
+14032@ Compra Premium
+14034@ Período de serviço não utilizado
+14035@ Evento
+14036@ Evento
+14037@ Informações de benefício
+14038@ Loja de Dinheiro
+14039@ Menu de Evento
+1404@ f
+14040@ Passe de Evento
+14041@ Loja de Itens
+14042@ Caixa de Presente Especial
+14043@ Todos os domingos às 22:00 \\Missão de Guerra Nv.170 ~ Nv.200 \\Dependendo da vitória ou derrota, \\recompensas nacionais são aplicadas \\por 7 dias.
+14045@ Informação de Recompensa
+1405@ g
+14059@ [Item de Alvo de Proteção]
+1406@ h
+14060@ $1#Armas, Armaduras, Acess, Pets, Fantasias$ serão protegidos.
+14061@ [Exibir valor do item protegido]
+14062@ Se você tiver um item protegido, o número de itens protegidos
+14063@ será exibido em $1#verde$ à esquerda da quantidade utilizada.
+14064@ [O que é proteção de itens?]
+14065@ Esta é uma função que evita que os itens desapareçam
+14066@ bloqueando todos os usos, exceto a movimentação no $1#inventário e equip$.
+14067@ [Proteção de configuração]
+14068@ 1. Clique no modo de configuração de proteção no inventário
+14069@ 2. Clique nos itens que deseja proteger em $1#Janela de Equip, Inventário$,
+1407@ j
+14070@ item será selecionado.
+14071@ (Clique no item selecionado novamente para desmarcá-lo.)
+14072@ 3. Clique no botão Modo de config. de proteção
+14073@ para terminar o modo de proteção depois de selecionar.
+14074@ 4. O item selecionado será definido como item protegido.
+14075@ Ajuda do modo de proteção
+14076@ Modo de configuração de proteção
+14077@ Procurar Inimigo
+14078@ Loja PVP
+14079@ 1. A batalha será no formato 3 contra 3.
+1408@ k
+14080@ 2. A batalha acontecerá sem nenhum item, e
+14081@ Modo de Batalha indisponível.
+14082@ 3. O Ticket de Batalha PVP é necessário para competir
+14083@ 4. A 1º equipe a conseguir 10 mortes dentro do limite
+14084@ ou o maior nr de mortes após o limite terminar, vence.
+14085@ 5. A competição pode ser disputada apenas em
+14086@ 11:00 ~ 13:00, 20:00~22:00.
+14087@ Batalha PVP
+14088@ Ajuda
+14089@ Info campo de batalha
+1409@ l
+14090@ Limite tempo
+14091@ Vitória Kills
+14092@ Jogadores
+14093@ 6 usuários
+14094@ 10 kills
+14095@ 10 min
+14098@ Cancelar
+14099@ Procurar Correspondência
+141@ Usuários de Serviço Premium somente.\Serviço Premium está disponível na Loja de Item.
+1410@ z
+14100@ Progresso
+14101@ Procurar Inimigo...
+14102@ Tempo de busca
+14103@ A correspondência foi bem-sucedida. Vá para o campo de batalha...
+14104@ Penta Montes
+14105@ 6. Você ganhará recompensa após resultado da competição.
+14109@ e o título especial será dado pelo ranking.
+1411@ x
+1412@ c
+1413@ V
+1414@ b
+1415@ n
+1416@ m
+1417@ [
+1418@ ]
+1419@ ;
+1420@ '
+1421@ ,
+1422@ .
+1423@ /
+1424@ Delegar Liderança
+1425@ Retirar Membro
+1426@ Dar direito de Convite
+1427@ Retirar direito de Convite
+1428@ EXP Ganho
+1429@ Insuficiente EXP
+1432@ Informação de Item
+1433@ Pontos de Descanso
+1454@ OK
+1456@ Você foi desconectado do servidor.
+1457@ Relogue após clicar em 'OK
+1458@ OK
+1459@ Não é possível conectar ao servidor
+1460@ Você não
+1461@ Por favor, pressione o botão de confirmação para sair do jogo.
+1462@ OK
+1463@ Login Duplo
+1464@ Tentantiva de entrar com a mesma conta
+1465@ Você foi desconectado do servidor pois
+1466@ alguém entrou no jogo usando a mesma conta.
+1467@ Um erro ocorreu ao tentar comunicar com o servidor.
+1468@ Relogue após clicar em 'OK
+1469@ OK
+1470@ Fechar Programa
+1471@ Programa será fechado pois alguns arquivos estão corrompidos.
+1472@ Por favor, reinicie e atualize o jogo.
+1473@ (Se o mesmo problema persistir, por favor desinstale o jogo
+1474@ e o instale novamente.)
+1475@ OK
+1476@ OK
+1477@ Aviso de Item no Inventário Temporário
+1478@ Por favor retire seu item do inventário temporário
+1479@ O item no Inventário Temporário pode ser perdido após
+1480@ Desconectado. Por favor mova seu item para o Inventário.
+1481@ OK
+1482@ Erro de informação
+1483@ O item não existe
+1484@ O item não existe e será automaticamente removido.
+1485@ OK
+1486@ Erro de informação
+1487@ O jogo irá pausar por um tempo.
+1488@ O Jogo continuará em 5 segundos.
+1489@ seg
+1490@ Desconectado
+1491@ Um erro ocorreu ao tentar comunicar com o servidor.
+1492@ Por favor, saia do jogo e relogue.
+1493@ OK
+1494@ Sair do Jogo
+1495@ Desconectado
+1496@ Um erro ocorreu ao tentar comunicar com o servidor.
+1497@ Por favor, saia do jogo e relogue.
+1498@ Registrar Coordenadas
+1499@ Registrar as suas cordenadas atuais.
+15@ Senha
+1500@ Você gostaria de registrar as coordenadas em uma Pedra da Fronteira?
+1501@ Não
+1502@ Sim
+1503@ Confirmação
+1504@ Desconectado
+1505@ Um erro foi detectado pela ferramenta de proteção de Hack.
+1506@ Fechar Programa
+1507@ Jogabilidade incomum detectada.
+1508@ O jogo será fechado devido a jogabilidade incomum.
+1509@ OK
+1510@ Guia do Evento
+1511@ Falha ao conectar ao servidor global.
+1512@ Você falhou ao conectar no servidor.
+1513@ Por favor, pressione o botão 'confirmar' e tente reconectar.
+1514@ Confirmação
+1516@ Você falhou ao conectar no servidor.
+1517@ Por favor, tente mais tarde.
+1518@ Confirmação
+1519@ Falha ao conectar ao servidor global.
+1520@ Você falhou ao conectar no servidor.
+1521@ Por favor, tente reconectar-se.
+1522@ OK
+1523@ Apagar Missão
+1524@ Você está certo de que deseja abandonar a missão?
+1525@ Missões abandonadas podem ser restauradas pela
+1526@ lista de missões.
+1528@ Cancelar
+1529@ Apagar Missão
+1530@ Não
+1531@ Sim
+1532@ Abandonar Missão
+1533@ Você quer apagar a missão?
+1534@ Essa missão será apagada da lista de missão em 30 segundos.
+1535@ Cancelar
+1536@ OK
+1537@ Quantidade
+1538@ Item Registrado
+1539@ /
+1540@ Insira Qnt de itens para registrar
+1542@ A ID já está em uso.
+1543@ A ID foi conectada ao servidor
+1544@ Deseja conectar novamente?
+1545@ Não
+1546@ Sim
+1547@ Sair do Jogo em Calabouço
+1548@ Você gostaria de encerrar a conexão com o calabouço?
+1549@ Se você sair do jogo enquanto está no calabouço, irá
+1550@ fecha automaticamente. Se você desconectar sem
+1551@ completar o calabouço, uma penalidade pode ser concedida.
+1552@ Não
+1553@ Sim
+1554@ Sair do Jogo em Calabouço
+1555@ Você gostaria de encerrar a conexão com o calabouço?
+1556@ Se você sair do jogo enquanto está no calabouço, irá
+1557@ fecha automaticamente. Se você desconectar sem
+1558@ completar o calabouço, uma penalidade pode ser concedida.
+1559@ Não
+1560@ Sim
+1561@ Entre no Calabouço
+1562@ Entrada de Calabouço
+1563@ Cancelando Procura por Grupo
+1564@ Procurar membro de grupo será cancelado quando você entrar no calabouço.
+1565@ Não
+1566@ Sim
+1567@ Sair do Jogo em Calabouço
+1568@ Você gostaria de encerrar a conexão com o calabouço?
+1569@ Você sairá do calabouço automaticamente para entrar
+1570@ Calabouço será fechado. Se você se desconectar sem completar o calabouço
+1571@ Penalidade de Calabouço pode ser aplicada.
+1572@ Não
+1573@ Sim
+1574@ Selecione Personagem
+1575@ Vá para a janela de seleção de personagem
+1576@ Você tem certeza que quer mudar de personagem?
+1577@ Sim
+1578@ Não
+1579@ Selecione Servidor
+1580@ Mover para Selecionar Janela Servidor
+1581@ Você gostaría de mudar para Selecionar Janela Servidor?
+1582@ Não
+1583@ Sim
+1584@ OK
+1585@ Notícia
+1587@ Confirmação
+1588@ Aum. de Nv. de Mestre Modo de Batalha
+1589@ Recompensa Aum. de Nv. de Modo de Batalha
+1597@ Atualizar
+1598@ O jogo fechará para receber a Atualização.
+1599@ Reinicie o jogo para receber a Atualização
+16@ Log In
+1600@ Por favor, Reinicie o jogo novamente.
+1601@ Marcar Inimigo
+1602@ Marcar Aliança
+1603@ Base Aliança
+1604@ Base Inimiga
+1605@ Ponto Aliança
+1606@ Ponto Inimigo
+1607@ Ponto Neutro
+1608@ Líder do Grupo
+1609@ Teleportar/Reviver
+161@ Armazém
+1610@ Ponto de Batalha
+1611@ Líder do Grupo
+1612@ Membro do Grupo
+1613@ GPS
+163@ Criar Item
+164@ Criaçao Profissional
+1649@ Criar Personagem no Servidor Teste
+165@ Material Necessário
+1650@ Você gostaria de criar um personagem no servidor teste?
+1651@ Lembre-se, cada personagem no servidor teste pode ser refeito
+1652@ a qualquer momento para fins de teste
+1653@ Não
+1654@ Sim
+1655@ Penalidade de Morte
+1656@ HP
+1657@ MP
+1658@ Selecione Personagem
+1659@ Cancelar
+166@ QTD
+1660@ Sair do Jogo
+1661@ Mensagem do GM
+1662@ Opção
+1663@ Selecionar Servidor
+1664@ Menu
+1665@ Desconectado
+1666@ Você será desconectado do servidor.
+1667@ Você será desconectado do servidor dentro de 5 segundos.
+1668@ seg
+1669@ Terminar Sessão
+167@ Criação
+1670@ Você será desconectado do servidor
+1671@ Devido ao não recebimento de pontos de rank pessoais quando em status de aviso
+1672@ seg
+1673@ irá desconectar automaticamente
+1674@ Terminar Sessão
+1675@ Você será desconectado do servidor.
+1676@ Você será desconectado do servidor dentro de 5 segundos.
+1677@ seg
+1678@ Chat
+1679@ Deletar
+168@ Criar Item
+1680@ Deletar todos
+1681@ Editar Memo
+1682@ Esconder
+1683@ Mini Mapa
+1684@ Confirmação
+1685@ Cancelar
+1686@ Nota de Edição de Localização
+1687@ Criar Guilda
+1688@ Cancelar
+1689@ Criação de Guilda
+169@ Criação
+1690@ Criar Guilda
+1691@ Um total de $3#10,000,000$Alz será usado na criação da guilda
+1692@ Desfazer Guilda
+1693@ Cancelar
+1694@ Desfazer Guilda
+1695@ A guilda será desfeita
+1696@ Para refazer a Guilda,
+1697@ Uma taxa de criação será gasta
+1698@ Cancelar
+1699@ Fechar
+17@ Sair
+170@ 2,20:10
+1700@ Abrir Loja de Item
+1701@ Entrar 
+1702@ Não
+1703@ OK
+1704@ Sim
+1705@ Receba 150% de WEXP
+1706@ Não
+1707@ Sim
+1708@ Não pergunte novamente
+1709@ Apagar mail
+171@ Material Necessário
+1710@ Mail será apagado.
+1711@ Você realmente deseja apagar esse mail?
+1712@ (Mails apagados não poderão ser recuperados)
+1713@ Não
+1714@ Sim
+1715@ Apagar mail
+1716@ Há um item ou Alz que você não recebeu
+1717@ Você realmente deseja apagar esse mail?
+1718@ (Mails apagados não poderão ser recuperados)
+1719@ OK
+172@ QTD
+1720@ Organizar Caixa de Entrada
+1721@ Sua Caixa de Entrada está cheia.
+1722@ Mail não pode ser recebido pois sua Caixa de Entrada está cheia.
+1723@ Por favor, limpe a sua Caixa de Entrada
+1724@ Não
+1725@ Sim
+1726@ Habilidade de Alma
+1727@ Você gostaria de aprender sobre Habilidades da Alma?
+1728@ Custo:
+1729@ Habilidade
+173@ Criaçao Profissional
+1730@ Aprendendo Habilidade de Alma
+1731@ Habilidade de Alma
+1732@ Custo de Aumento de Nível:
+1733@ Mudar Stat:
+1734@ Habilidade de Alma
+1735@ Item de habilidade e custo gasto
+1736@ Você gostaría de apagar Habilidade de Alma?
+1737@ Apagando Habilidade de Alma.
+1738@ não pode ser restaurado.
+1739@ Checagem de Segurança CABAL
+174@ Criação
+1740@ POR FAVOR, INSIRA IMAGEM
+1741@ CÓDIGO DE VERIFICAÇÃO
+1742@ OK
+1743@ Perguntar Depois
+1744@ Ver Agora
+1745@ Não pergunte novamente
+1747@ Guia de Sub Senha
+1748@ Serviço Periódico Não Utilizado.
+1749@ Informações sobre benefícios
+1757@ Salvar Histórico de Chat
+1758@ Salvar Histórico de Chat
+1759@ Salvar Histórico de Chat
+1760@ Salvar Histórico de Chat
+1761@ Salvar Histórico de Chat
+1762@ Salvar Histórico de Chat
+1763@ Salvar Histórico de Chat
+1764@ Salvar Histórico de Chat
+1767@ GPS
+1768@ GPS
+1769@ Lista de Membros
+1770@ Loja
+1772@ Atualmente vendendo itens na Loja Pessoal.
+18@ Confirmação
+1815@ Este serviço é somente para usuários Premium.
+1816@ Este serviço é somente para usuários Premium.
+1817@ Este serviço é somente para usuários Premium.
+1818@ Este serviço é somente para usuários Premium.
+1819@ Este serviço é somente para usuários Premium.
+1820@ Este serviço é somente para usuários Premium.
+1821@ Este serviço é somente para usuários Premium.
+1822@ Este serviço é somente para usuários Premium.
+1823@ Este serviço é somente para usuários Premium.
+1824@ Este serviço é somente para usuários Premium.
+1825@ Este serviço é somente para usuários Premium.
+1826@ Este serviço é somente para usuários Premium.
+1827@ Este serviço é somente para usuários Premium.
+1828@ Este serviço é somente para usuários Premium.
+1829@ Este serviço é somente para usuários Premium.
+1830@ Este serviço é somente para usuários Premium.
+1831@ Este serviço é somente para usuários Premium.
+1832@ Este serviço é somente para usuários Premium.
+1833@ Este serviço é somente para usuários Premium.
+1834@ Este serviço é somente para usuários Premium.
+1835@ Este serviço é somente para usuários Premium.
+1836@ Este serviço é somente para usuários Premium.
+1837@ Este serviço é somente para usuários Premium.
+1838@ Este serviço é somente para usuários Premium.
+1839@ Este serviço é somente para usuários Premium.
+1840@ Este serviço é somente para usuários Premium.
+1841@ Este serviço é somente para usuários Premium.
+1842@ Este serviço é somente para usuários Premium.
+1843@ Este serviço é somente para usuários Premium.
+1844@ Este serviço é somente para usuários Premium.
+1845@ Este serviço é somente para usuários Premium.
+1846@ Este serviço é somente para usuários Premium.
+1847@ Este serviço é somente para usuários Premium.
+1848@ Este serviço é somente para usuários Premium.
+1849@ Este serviço é somente para usuários Premium.
+1850@ Este serviço é somente para usuários Premium.
+1851@ Este serviço é somente para usuários Premium.
+1852@ Este serviço é somente para usuários Premium.
+1853@ Este serviço é somente para usuários Premium.
+1854@ Este serviço é somente para usuários Premium.
+1855@ Este serviço é somente para usuários Premium.
+1856@ Este serviço é somente para usuários Premium.
+1857@ Este serviço é somente para usuários Premium.
+1858@ Este serviço é somente para usuários Premium.
+1859@ Este serviço é somente para usuários Premium.
+1860@ Este serviço é somente para usuários Premium.
+1861@ Este serviço é somente para usuários Premium.
+1862@ Este serviço é somente para usuários Premium.
+1863@ Este serviço é somente para usuários Premium.
+1864@ Este serviço é somente para usuários Premium.
+1865@ Este serviço é somente para usuários Premium.
+1866@ Este serviço é somente para usuários Premium.
+1867@ Este serviço é somente para usuários Premium.
+1868@ Este serviço é somente para usuários Premium.
+1869@ Este serviço é somente para usuários Premium.
+1870@ Este serviço é somente para usuários Premium.
+1871@ Este serviço é somente para usuários Premium.
+1872@ Este serviço é somente para usuários Premium.
+1873@ Este serviço é somente para usuários Premium.
+1874@ Este serviço é somente para usuários Premium.
+1875@ Este serviço é somente para usuários Premium.
+1876@ Este serviço é somente para usuários Premium.
+1877@ Este serviço é somente para usuários Premium.
+1878@ Sacar
+1879@ Depositar
+1880@ Histórico de Uso
+1883@ Convide Mebro de Guilda
+1884@ Escrever Mail
+1885@ Convide Mebro de Guilda
+1886@ Confirmação
+1887@ OK
+1888@ seg
+1892@ Por favor selecione o metodo para renascer
+1893@ Seu personagem foi derrotado
+1895@ Cancelar
+1896@ Concordar
+1897@ Extração de itens
+19@ Salvar ID
+1901@ Seu personagem foi derrotado
+1902@ Você não possui Talismã da Ressurreição.
+1904@ Sim
+1905@ Não
+1906@ Não
+1908@ Usando Círculo Honorável
+1909@ Círculo Honorável
+191@ 2,26:1,27:2,28:5
+1910@ Cancelar
+1911@ OK
+1912@ Adicionar a Favoritos
+1913@ Nomear o link de Favorito
+1916@ Cancelar
+1917@ OK
+1918@ Apagar o link de Favorito
+1919@ Apagar o link de Favorito
+192@ Pontos PC
+1920@ Cancelar
+1921@ OK
+1922@ Renomear
+1923@ Renomear o link Favoritos
+1924@ Procurar
+1925@ Renomear
+1926@ Deletar
+193@ Informação
+1943@ Não pergunte novamente
+1944@ Cancelar
+1945@ Reiniciar
+1946@ Reiniciar Stat
+1947@ Os status do personagem serão trocados conforme abaixo.
+1948@ FOR
+1949@ INT
+195@ Lista
+1950@ DES
+1951@ Ponto
+1955@ Selecione Canal
+196@ Ajuda
+1961@ Mudar de Canal
+1962@ Mover para um canal diferente.
+1963@ Canal Atual:
+1964@ Sim
+1965@ Não
+1966@ Selecionar Canal:
+197@ 2,13:25
+1980@ Cancelar
+1981@ OK
+1982@ Comprar QTD
+1983@ Compre Item
+1986@ Cancelar
+1987@ Confirmação
+1988@ Qnt de Venda
+1989@ Venda de Item
+199@ Mudo
+2@ Autentificação
+20@ Teclado Virtual
+200@ Minha voz ligado
+2024@ Ver Equipamento
+2025@ Ver Equipamento
+2026@ Ver Equipamento
+2033@ Alz
+2034@ Preço de Venda
+2045@ Núcleo de Aprimoramento
+2046@ Quantidade
+2047@ Cancelar
+2048@ Confirmação
+2053@ Informação do Calabouço
+2054@ Localização
+2055@ Rank de Classe
+2056@ Fechar
+2057@ Item de Entrada
+2058@ Nível de Entrada
+2059@ Membro Max
+2060@ Calabouço
+2061@ 2, 68:10
+2063@ Pausar Calabouço
+2064@ Informação do Calabouço
+2065@ Saia do Calabouço
+2067@ Calabouços Acessíveis
+2068@ Selecione Canal
+2069@ Selecione Personagem
+2070@ 2,69:10
+2071@ Ranking
+2072@ Record de Cabalouço
+2073@ Personagem
+2074@ Record
+2075@ Grupo
+2078@ Record
+208@ Trocar Pontos de Honra
+209@ 0, 34:200
+2099@ Solo
+21@ ID
+210@ Sussuro
+2100@ Grupo
+2101@ Solo
+2102@ Loja de Pontos de PC
+2108@ Pontos PC
+211@ Convidar Grupo
+2110@ Confirmar Troca
+2111@ Trocar um item com T-Points
+2112@ Você gostaria de trocar o item?
+2113@ Pontos Necessários:
+2114@ Troca de Item:
+2115@ Não
+2116@ Sim
+212@ Solicitar Negociação
+213@ Adicione Amigo
+214@ Seguir
+215@ Requisitar PvP
+216@ Loja Pessoal
+217@ Jogar o dado
+218@ Dançar
+219@ Procurar por Grupo
+2191@ Periódica
+2193@ Info Geral
+2198@ Outros
+2199@ Info Geral
+22@ Senha
+220@ Cancelar LFP
+2200@ Periódica
+2201@ Outros
+2202@ Outros
+2203@ Info Geral
+2204@ Periódica
+2206@ Sim
+2207@ Não
+2208@ Troca de WExp
+2209@ Você gostaría de trocar seu WEXP?
+2210@ Uma vez que WEXP é trocado, não poderá ser recuperado.
+2212@ Troca de EXP
+2214@ Troca de WExp
+2215@ Você pode trocar os itens abaixo com WEXP.
+2218@ Troca de EXP Técnica
+2221@ WEXP Necessário:
+2222@ Confirmação
+2223@ Cancelar
+2224@ Pausar
+2225@ Pausar Calabouço
+2229@ Resumir
+223@ Alz
+2262@ Escrever
+2267@ Título
+2269@ Destinatário
+2270@ Título
+2271@ Anexar Item
+2272@ Anexar Alz
+2273@ Ler
+2274@ Fechar
+2278@ Responder
+2279@ Deletar
+2280@ Ant
+2281@ Próximo
+2282@ Receber Alzes
+2283@ Receber Item
+2284@ Não
+2285@ Sim
+2286@ Não pergunte novamente
+2287@ Voltar
+2288@ Retornar a mensagem.
+2289@ Não
+2290@ Sim
+2292@ Reportar
+2293@ Reportar o mail.
+2294@ Não
+2295@ Sim
+2296@ Bloquear
+2297@ Bloquear Remetente
+2298@ Não
+2299@ Sim
+23@ Log In
+2300@ Não pergunte novamente
+2301@ Deletar
+2302@ Apagar o mail.
+2303@ Escrever Mail
+2304@ Escrever Mail
+2309@ Saia do Calabouço
+2310@ Saia do Calabouço
+2311@ Sair para o campo.
+2312@ Sair
+2313@ Ver Títulos
+2314@ Adquirir Título
+2315@ Aprendiz da Colônia título ganho
+2356@ Remetente
+236@ Amigo
+2368@ Destinatário
+237@ Guilda
+2372@ Ler
+2373@ Fechar
+2374@ Deletar
+2375@ Próximo
+2376@ Ant
+2378@ Título
+2379@ Anexar Item
+2380@ Anexar Alz
+239@ Grupo
+240@ Twitter
+241@ Normal
+242@ Título
+243@ Criação
+244@ Criaçao Profissional
+245@ Essência
+246@ Supremo
+247@ Suplementar
+248@ Todos os Ataques
+249@ Técnica Especial
+2497@ Não
+2498@ Sim
+250@ Reforçar
+2500@ Você iria criar um Personagem Especial?
+251@ Título:
+2518@ OK
+252@ Missão em Progresso
+2521@ Twitter
+2522@ Fechar
+2523@ Anexar
+2524@ Tweetar
+2525@ Screen Shot
+2528@ Screen Shot
+253@ Missão
+2532@ Tweetar
+2533@ Twitter ID
+2536@ Postar
+2537@ Fechar
+2539@ Twitter
+2540@ ID
+2541@ Senha
+2542@ Entrar no Twitter
+2544@ Cancelar
+2545@ OK
+2546@ Logout
+2547@ Twitter
+2548@ Você gostaria de deslogar do Twitter?
+2552@ Não
+2553@ Sim
+2554@ Cancelar Anexo
+2555@ Cancelar Anexo
+2560@ Ajuda
+2563@ Lista
+2564@ Fechar
+2565@ Aviso de Ajuda ON
+2571@ Ajuda
+2572@ Reviver Membro do Grupo
+2573@ Reviver Membro do Grupo
+2574@ Reviver Membro do Grupo
+2575@ Reviver Membro do Grupo
+2576@ Reviver Membro do Grupo
+2577@ evocar Membros do Grupo
+2578@ evocar Membros do Grupo
+2579@ evocar Membros do Grupo
+2580@ evocar Membros do Grupo
+2581@ evocar Membros do Grupo
+2582@ Teleportar para Membros do Grupo
+2583@ Teleportar para Membros do Grupo
+2584@ Teleportar para Membros do Grupo
+2585@ Teleportar para Membros do Grupo
+2586@ Período
+2587@ Período
+2588@ O Teletransporte ilimitado
+2589@ O Teletransporte ilimitado
+2590@ Registrar Coordenadas
+2591@ Retorna para o Ponto de Teleporte usando uma Pedra Guia
+2592@ Você gostaria de usar isso sem restrições?
+2593@ Usar
+2594@ Gemas Arcanas insuficientes.
+2595@ Alvo
+2596@ Localização
+2597@ Fazer Juramento
+2598@ Itens insuficientes.
+2599@ Você gostaria de abrir a Loja de Itens?
+260@ Núcleo Arcano
+2600@ Usar Ponto de Teletransporte ilimitado
+2601@ Tempo de Expiração
+2602@ Registrar Coordenadas
+2603@ Salve Coordenadas
+2604@ Ressuscitar um Membro do Grupo.
+2605@ Evoca um Membro do Grupo para o local atual.
+2606@ Teleportar para localização do membro do grupo
+2607@ Você quer usar Gemas Arcanas para reviver?
+2608@ Você gostaria de usar Gemas Arcanas para evocar membros do grupo?
+2609@ Gemas Arcanas necessárias
+261@ PC Acumulado
+2610@ Registrar as suas cordenadas atuais.
+2611@ Você gostaria de registrar as coordenadas atuais como ponto de teleporte?
+2614@ Adicionar Opção de Item
+2615@ Itens
+2616@ Fechar
+2617@ Garantir Opção
+2620@ Equip no max
+2622@ PC
+263@ Item de Téc Sup.
+2633@ Em Progresso
+2634@ Desistir
+2635@ Normal
+2636@ Cenário
+2637@ Ver novamente
+2638@ 0,5:20,5:20
+2639@ Normal
+264@ / 10
+2640@ Deletar
+2641@ Em Progresso
+2642@ Cenário
+2643@ Ver novamente
+2644@ Veja apenas a lista de missões excluídas
+2645@ 2,72:4
+2646@ Cenário
+2647@ Em Progresso
+2648@ Normal
+2649@ Ver novamente
+265@ Custo
+2650@ 2,6:4
+2651@ Missão
+2652@ Veja apenas as missões disponíveis
+2653@ 0,73:1,73:5,73:5,75:1
+2654@ 2, 74:5
+2655@ 1,6:0,17:0
+2656@ 1,72:0,17:0
+266@ Taxa de Sucesso
+2666@ Restaurar
+267@ Alz
+268@ %
+269@ Pergaminho de Opção Decidido
+270@ Pergaminho de Opção Aleatória
+271@ Canal
+272@ Solicitar grupo
+2722@ Facebook
+2723@ Upload to Web
+2724@ Página SNS
+273@ Membro do Grupo
+2731@ SNS
+2732@ Cancelar Anexo
+2733@ Site Oficial
+2734@ Anexar Screenshot
+2735@ Twitter
+2736@ Postar
+2737@ Facebook
+2738@ Nome
+2739@ Cancelar Anexo
+274@ Registrar Grupo
+2740@ Facebook
+2741@ Anexar Screenshot
+2742@ Twitter
+2743@ Postar
+2744@ Site Oficial
+2745@ Upload uma screenshot para Galeria de Usuários
+2746@ Cancelar Anexo
+2747@ Facebook
+2748@ Site Oficial
+2749@ Anexar Screenshot
+275@ Cancelar Registro
+2750@ Postar
+2751@ Twitter
+2752@ Twitter ID
+2753@ Fechar
+2754@ Screenshot
+2755@ Anexar
+2756@ Fechar
+2757@ Cancelar Anexo
+276@ Mensagem de recrutamento
+277@ Procurar Grupo
+278@ Líder do Grupo
+2789@ /
+279@ 2, 53:16
+2790@ /
+2791@ /
+2793@ Postar
+2796@ Cancelar
+2797@ OK
+2798@ Quantia guardada
+2799@ Guardar Item
+280@ Procurar Grupo
+2800@ Taxa de Venda
+2801@ Alz
+2802@ Cancelar
+2803@ OK
+2804@ Quantia para receber
+2805@ Procurar Item
+2806@ Taxa de Venda
+2807@ Alz
+2808@ /
+2809@ 0
+2811@ Teleportar para Membros do Grupo
+2812@ Teleportar para Membros do Grupo
+2813@ Alvo
+2814@ Localização
+2815@ Teleportar para localização do membro do grupo
+2816@ Não
+2817@ Sim
+2818@ Enviar
+2819@ Fechar
+2822@ Meu Item
+2823@ Materia de Aparência
+2824@ Custo
+2825@ Alz
+2837@ Mudar Aparência
+2838@ Restaurar Aparência
+2839@ NPC
+2843@ Inserir Data de Validade
+2847@ [Selecione outro tipo de Aprimoramento]
+2860@ Loja
+2872@ Loja de Itens Remota
+2874@ Cancelar
+2875@ OK
+2879@ Cancelar
+2880@ OK
+2881@ Mensagem de Amigo
+2882@ Editar Mensagem de Amigo
+2884@ Apagar Bloquear Jogador
+2885@ Editar Mensagem de Amigo
+295@ Suplementar
+296@ Reforçar
+2960@ Ver Mais
+2961@ Informações de Conquistas
+2964@ Alz
+2966@ 1,172:1
+297@ Técnica Especial
+2977@ Abandonar Missão
+2978@ Gostaria de abandonar a missão?
+298@ Técnica
+2981@ Cancelar
+2982@ Abandonar Missão
+299@ Grau de Técnica
+300@ Requerimento
+301@ EXP de Técnica
+302@ Ponto de Técnica
+303@ Slot de Ataque (Em Uso / Total)
+304@ Ataque
+305@ 2,3:5
+306@ Todos os Ataques
+307@ Reforçar
+308@ Técnica Especial
+309@ Técnica
+310@ Grau de Técnica
+311@ Requerimento
+312@ EXP de Técnica
+313@ Ponto de Técnica
+314@ Slot de Suplementar (Em Uso / Total)
+3143@ Comprar
+3144@ Comprar
+3145@ Receber
+3146@ Receber
+3147@ Cancelar
+3148@ Mudar
+3149@ Registrar
+315@ Suplementar
+3150@ Cancelar
+3151@ Receber
+3152@ Usar Coupon
+3153@ Confirmar Recebimento
+3154@ Receba Alz da venda de itens
+3155@ Venda Bruta
+3156@ Taxa de Venda
+3157@ Vendas Líquidas
+3158@ Alz
+3159@ Alz
+316@ 2,3:5
+3160@ Alz
+3161@ Cancelar
+3162@ Cancelar
+3163@ Confirmação
+3164@ Alz
+3165@ Comprar QTD
+3166@ Preço de Compra
+3167@ Alz
+3168@ Quantidade
+3169@ Alz
+317@ Ataque
+318@ Suplementar
+319@ Técnica Especial
+320@ Técnica
+322@ Reforçar
+3223@ Completo
+323@ 2,0:1,3:10,0:1,3:10
+3230@ Criação
+3237@ Criar Slot(Usar/Possuído)
+3238@ Produção
+3239@ Itens de Criação
+324@ Ataque
+3240@ Resultado da Criação
+3241@ Criação
+3247@ Material Necessário
+3248@ QTD
+3249@ Selecione Grau
+325@ Suplementar
+3250@ Tipo
+3255@ Adicionar
+3256@ Parar
+326@ Reforçar
+3268@ 2,83:4
+3269@ 2,41:8
+327@ Técnica
+3272@ Criar Item
+3279@ Adicionar Item de Criação
+328@ Técnica Especial
+3280@ Usar item material para adicionar item de criação
+3282@ Criar Item:
+3283@ Item Material:
+3284@ Cancelar
+3285@ Registrar
+3288@ Benefício exclusivo do Premium Internet Café
+3289@ /
+3298@ Adicione Amigo
+3299@ Ver Equipamento
+3301@ Convidar Grupo
+3302@ Escrever Mail
+3303@ Sussuro
+3304@ Ponto Aliança
+3305@ Ponto Inimigo
+3306@ Ponto Neutro
+3307@ Ponto de Batalha
+3308@ 1
+3309@ 2
+331@ Essência
+3310@ 3
+3311@ 4
+3312@ 5
+3313@ 6
+3314@ 7
+3318@ :
+3319@ HP do Boss
+332@ Slot de Essência (Em Uso / Total)
+3320@ Atacar Alvo Rotação
+3322@ (
+3323@ )
+3324@ Cancelar
+3325@ Confirmação
+3326@ Mensagem de Guilda
+3327@ Editar Mensagem de Guilda
+3328@ Editar Mensagem de Guilda
+3329@ Notícia da Missão de Cenário
+3330@ Progressão
+3331@ Ranking
+3332@ Padrão
+3333@ Histórico
+3334@ Buscar Batalha
+3335@ Cancelar Busca
+3336@ Histórico
+3337@ Ranking
+3338@ Padrão
+334@ 2,59:5
+3341@ Histórico
+3342@ Progressão
+3343@ Padrão
+3344@ Ranking
+3345@ Histórico
+3346@ Progressão
+3347@ Ranking
+3348@ Entrada Instantânea
+335@ Supremo
+3351@ Criar Sala
+3352@ Atualizar
+3358@ Missão de Batalha
+3359@ Cancelar
+336@ Slot Supremo (Em Uso/Total)
+3360@ Criar
+3361@ Criar Sala
+3362@ Missão de Batalha
+3363@ Time A
+3364@ Time B
+337@ Supremo
+3371@ Cancelar
+3372@ Sair
+3373@ Pronto
+3374@ Começar
+339@ 2,60:3
+3393@ Título da Sala
+3394@ Público
+3395@ Privado
+3399@ Mover Time
+340@ Essência
+3416@ Confirmação
+3417@ Não
+3418@ Sim
+3419@ seg
+3420@ Seu personagem foi derrotado
+3421@ Atualmente não há itens disponíveis para uso
+3422@ Seu personagem foi derrotado
+3423@ Por favor selecione o metodo para renascer
+3424@ Você gostaria de permitir que um membro do grupo te reviva?
+3425@ Reviver Membro do Grupo
+3426@ Confirmação
+3427@ Registração do computador autenticado
+3428@ Por favor, verifique o e-mail
+3447@ Selecionar Mapa
+3448@ Modo
+3451@ /
+3452@ Progressão da Batalha
+3453@ Minha Informação
+3454@ Informação do Membro do Time
+3456@ Informação do Mapa
+3457@ Ponto de Partida Time A
+3458@ Ponto de Partida Time B
+3459@ Monstro Neutro
+3461@ Progressão
+3462@ Membro Participante
+3463@ Pontos Vencedores
+3464@ Limite de Tempo
+3467@ Padrão
+3468@ Minha Informação
+347@ Construir com Alz
+3471@ Sala Nº
+3472@ Título da Sala
+3473@ Mapa
+3474@ Modo
+3475@ Mebro
+3476@ Status
+3478@ Entrar
+3479@ Entrar
+348@ Construir com Ponto
+3480@ Entrar
+3481@ Entrar
+3482@ Entrar
+3483@ Entrar
+3484@ Entrar
+3485@ Entrar
+3486@ Entrar
+3487@ Entrar
+3488@ Partida Recente
+3489@ Mapa
+349@ 2,44:5
+3490@ Servidor
+3491@ Estilo de Batalha
+3492@ Procurar
+3495@ 2, 84:5
+3496@ 2, 85:5
+3497@ Confirmação
+3498@ Divide Itens
+3499@ Nº de Itens por Pilha
+350@ Painel de Controle
+3500@ Nº da Pilha
+3501@ cd
+3502@ Empilhar
+3503@ /
+3505@ Empilhar
+3507@ Cancelar
+3508@ Participar
+351@ Garantir comando
+3511@ Entrar
+3515@ Compra
+3516@ Cancelar
+3517@ 2,86:6
+3518@ Mercador de Buff
+3519@ Usar Pontos
+352@ Info. de Pontuação
+3520@ Salvar Histórico de Chat
+353@ Convidar Grupo
+3530@ Canal
+3531@ Guilda
+3532@ Gritar
+3533@ Megafone
+3534@ Normal
+3535@ Grupo
+3536@ Megafone da Nação
+3537@ Negociar
+3538@ Sussuro
+3539@ Pontos Adquiridos
+354@ 2,45:10
+3540@ Ponto Usado
+3541@ Derrote Inimigo
+3546@ Recorde de Progressão
+355@ Lista de Membros
+356@ Info. de Grupo
+3560@ Vitória
+3561@ Derrota
+3564@ WExp
+3567@ Recompensa
+357@ Encontre meu personagem
+3570@ Classificação
+3571@ Reportar
+3572@ OK
+3573@ OK
+3574@ Aliado
+3575@ Oponente
+3578@ Morte
+358@ Mostrar membros do grupo
+3581@ Ponto de Batalha
+3582@ Vitória
+3583@ Derrota
+3584@ Recorde Padrão
+3586@ Ponto de Batalha
+3587@ SP
+3589@ Próximo
+359@ Garantir comando
+360@ Convidar Grupo
+3601@ Atual
+361@ Info. de Grupo
+3612@ /
+3613@ Revivendo
+3614@ Hora da Batalha
+3615@ Pontos Vencedores
+3617@ Mapa
+3618@ Modo
+362@ 2,46:10
+3620@ >Detalhes
+3623@ Detalhes
+3624@ Itens
+3627@ Ranking
+363@ Lista de Membros
+3630@ Classificação
+3631@ Servidor
+3632@ Nível
+3633@ Personagem
+3634@ Record
+364@ Info. de Pontuação
+3644@ 2,89:10
+3645@ 2,87:10
+3646@ 2,88:5
+3647@ Cancelar
+3648@ Procurar Partida
+365@ Encontre meu personagem
+3650@ Progresso Atual
+3651@ Fechar
+3652@ (
+3653@ )
+3654@ Tempo de Procura
+3660@ Inventário Pessoal
+3682@ Convide Mebro de Guilda
+3683@ Escrever Mail
+3684@ Sussuro
+3685@ Convidar Grupo
+3686@ Solicitar Negociação
+3687@ Adicione Amigo
+3688@ Seguir
+3689@ Requisitar PvP
+3690@ Ver Equipamento
+3691@ Batalha de Guilda
+3693@ Grau de Técnica
+3694@ Requerimento
+3695@ EXP de Técnica
+3696@ Ponto de Técnica
+3698@ Cancelar
+3699@ OK
+3700@ Requisitar Batalha de Guilda
+3701@ Guilda Alvo
+3702@ Contagem de Mortes Vencedoras
+3703@ Requisitar Batalha de Guilda
+3704@ / 1,000
+3705@ Cancelar
+3706@ OK
+3707@ Comprar QTD
+3708@ Compre Item
+3709@ /
+371@ WEXP Atual:
+3711@ Preço de Compra
+3712@ OK
+3713@ Cancelar
+3715@ Compre Item
+3717@ Preço de Compra
+3718@ Você gostaría de comprar item?
+3719@ Não pergunte novamente
+372@ Deseja Apagar o link de Favorito?
+3721@ Fechar
+3722@ Itens
+3723@ Núcleo Extremo
+3724@ Resultado da Aprimoração Extrema
+3726@ Aprimoramento Extremo
+3727@ Aprimoramento Extremo
+3728@ Nível de Aprimoramento Extremo
+373@ Anexar Item
+3730@ Custo
+3732@ Alz
+3733@ Nível do Núcleo Registrado
+3735@ Nv
+3736@ OK
+3737@ MeuPIN
+374@ Anexar Alz
+3742@ Sair
+3743@ Confirmação
+3744@ Salvar ID
+3745@ Teclado Virtual
+3746@ ID
+3747@ Senha
+3748@ Log In
+375@ Você gostaria de mover?
+3750@ Cancelar
+3751@ Cancelar
+3752@ Cancelar
+3753@ Cancelar
+3754@ Cancelar
+3755@ Código MeuPIN
+3758@ Cancelar
+3759@ Login Móvel
+376@ Adicione Amigo
+3760@ Nome do Personagem
+3761@ Login USB
+3762@ Confirmação
+3763@ Conecte sua Token USB para conectar
+3766@ Remover Favoritos
+3767@ Selecione Favoritos
+3769@ Fechar
+377@ Convide Grupo
+3770@ Evocar
+3771@ Selecionar como evocar
+3772@ evocar Guardião do Legado
+3778@ Cancelar
+3779@ Pontos de Aprimoramento
+378@ Sussuro
+3784@ 2,90:6
+3785@ Pronto
+3786@ Time
+3787@ Participar
+379@ Encantamento de Item
+3791@ Cancelar
+3792@ Participar
+3793@ Participar
+3794@ Sair
+3795@ Cancelar Pronto
+38@ OK
+380@ Registro Automático
+381@ Itens
+382@ Núcleos
+383@ Resultado
+384@ Encantamento de Item
+3879@ Ranking
+3880@ Ranking
+3881@ 2,98:10
+3882@ Nome da Guilda
+3883@ Mestre de Guilda
+3884@ Pontos
+3885@ Aplicar
+3886@ Taxa de Ajuste
+3887@ Taxa de Ajuste
+3888@ Alcance do Ajuste
+3894@ Conta de Ajuste
+3895@ Espera de ajuste
+3896@ Cancelar
+3897@ Meta do Evento
+39@ OTP
+3901@ As 10 recompensas recentes são mostradas
+3902@ Detalhes da Recompensa
+3904@ Recompensa de Guilda
+3905@ 2,99:10
+392@ Compre Item
+3922@ Aliança
+3923@ Informação do Personagem
+3928@ Inimigo
+3929@ Informação do Personagem
+393@ Confirmação
+3932@ Base Time A
+3933@ Base Time B
+3934@ Portal Time A
+3935@ Portal Time B
+3936@ Torre Time A
+3937@ Altar Time A
+3938@ Altar Time A
+3939@ Membro Inimigo
+394@ Novo Calabouço
+3940@ Membro Aliado
+3941@ Torre Time B
+3942@ GPS
+3946@ 2,93:5
+3947@ 2,92:5
+3948@ Sair
+3949@ OK
+395@ Você pode entrar no novo calabouço
+3950@ Salvar ID
+3951@ Teclado Virtual
+3952@ ID
+3953@ Senha
+3954@ Log In
+3956@ Altar Neutro
+3957@ Monstro Neutro
+396@ Por favor, fale com o NPC.
+3963@ Ponto
+40@ 2,9:6,71:3
+405@ Armazém da Guilda
+4055@ Cancelar
+4056@ Trocar
+4059@ Trocar Medalha de Mérito
+406@ Organizar aba atual
+4061@ Trocar 1 Medalha de Mérito
+4062@ * Pode ser trocado por Pontos de Honra excedendo 2 Bilhões
+4063@ Pontos Necessários
+4066@ Registrar Tudo
+4067@ Avaliar de Medalhas de Mérito
+407@ Agrupamento de Item(s) Auto
+4078@ 2,94:5
+4079@ Avaliar
+408@ Você pode checar os 100 casos recentes
+4080@ Receba Tudo
+4081@ Taxa de Avaliação
+4083@ WExp
+4086@ Reportar
+4087@ Registrar Tudo
+4088@ 0,95:11
+4089@ Reportar Medalhas de Mérito
+409@ Histórico de Uso
+4090@ Medalhas para reportar
+4092@ Detalhes da Recompensa
+4093@ Ponto de Mérito
+4096@ Pontos de Honra
+410@ Abrir Armazém
+411@ Armazém da Guilda
+412@ 2,62:100
+413@ Fechar
+414@ Receba Tudo
+415@ Retirar Item
+416@ Por favor retire seu item do inventário temporário
+417@ Confirmação
+418@ Missão Completa
+419@ Você completou o objetivo da missão
+420@ Por favor, fale com o NPC.
+421@ OK
+422@ Nova Missão
+423@ Uma nova missão está disponível
+424@ Por favor, fale com o NPC.
+425@ Discordar
+426@ Concordar
+4262@ Domínio de Mérito Level up
+4264@ Atributos Adicionais:
+4265@ Pontos de Mérito:
+4266@ Status adquiridos:
+4267@ Não
+4268@ Sim
+427@ Concordar
+428@ Acordo
+4285@ Sim
+4286@ Não
+429@ Recarga de CASH
+4290@ Status adquiridos:
+4291@ Pontos de Mérito:
+4292@ Pré-Mestre :
+430@ Recarga de CASH
+4301@ Mestre de Mérito Adquirido
+4305@ Atributos Adicionais:
+431@ Recarga de Cash Rápida
+4317@ Pontos de Honra
+432@ Refil
+433@ Cancelar
+4334@ Receber
+4335@ Restaurar para avaliação anterior
+434@ Recarga de Cash Rápida
+4345@ WExp
+4346@ WExp Adquirida
+435@ Selecione quantidade do refil
+436@ Digite a senha única
+4361@ Serviço Portuário Dimensional
+4362@ Fechar
+4363@ Extender
+4364@ Estender Slot
+4365@ Usar item material e extende slot
+4367@ Item Material:
+4368@ Cancelar
+4369@ Extender
+4370@ Avaliação de Medalhas de Mérito
+4371@ Quantidade
+4372@ Cancelar
+4373@ Confirmação
+4379@ cd
+4381@ Cancelar
+4382@ Receber
+4383@ Alz (Bronze)
+4384@ Alz (Prata)
+4385@ Alz (Ouro)
+4386@ Confirmar Recebimento
+4387@ Aceitar um pagamento pelo seu item.
+4388@ Venda Bruta
+4389@ Taxa de Venda
+4390@ Vendas Líquidas
+4391@ Alz
+4392@ Alz
+4393@ Alz
+4394@ Usar Coupon
+4395@ Confirmação
+4396@ Não
+4397@ Sim
+4398@ seg
+4399@ Você gostaria de permitir que um membro do grupo te reviva?
+4400@ Reviver Membro do Grupo
+4401@ Seu personagem foi derrotado
+4402@ Atualmente não há itens disponíveis para uso
+4403@ Seu personagem foi derrotado
+4404@ Por favor selecione o metodo para renascer
+4435@ Loja
+4437@ Normal
+4438@ AP
+4496@ /
+455@ Função para Apagar
+456@ Kit de Regressão de Pet
+457@ Cancelar
+458@ Função de Apagar
+4716@ Desligando Microfone
+4717@ Ligando Microfone
+4731@ 1,101:0
+4732@ Bingo
+4733@ Hora do Início
+4734@ Hora do encerramento
+4736@ Cancelar
+4737@ Cancelar
+4738@ OK
+4739@ Recompensa do Bingo
+474@ Cancelar
+4741@ Próxima Cartela do Bingo
+4742@ Voltar
+4743@ Mudar Cartela do Bingo
+4744@ Atualizar
+4745@ Recompensa do Bingo (Todas)
+4746@ Recompensa do Bingo (Todas)
+475@ Confirmação
+476@ Bloquear Jogador
+4761@ /
+4762@ /
+4763@ Fechar
+4764@ Depositar Moeda de Ouro
+477@ Cancelar
+478@ OK
+479@ Nome do Amigo
+4804@ Tempo restante para próxima produção de Moeda de Ouro
+4805@ Produção de Moeda de Ouro Esperada
+4806@ Tempo Ocupado
+481@ Dispensar
+482@ Informação do Mercenário
+483@ Cancelar
+484@ OK
+485@ Convite de Guilda
+486@ Cancelar
+487@ OK
+488@ Permissão de Convidar
+489@ Permissão de Expulsão
+490@ Adicionar Grupo de Guilda
+491@ Nome do Grupo
+492@ Permissões
+493@ Cancelar
+494@ OK
+495@ Nome do Grupo
+496@ Editar Memo
+497@ Mudar Info do Grupo
+498@ Apagar Grupo
+499@ Apagar Grupo
+500@ Apagar Amigo
+5000@ Cancelar
+5001@ Entre no Calabouço
+5002@ Resetar limite de tempo de calabouço
+5003@ Limite de Rei Diária
+5004@ Você reinicializará o limite de calabouço?
+5009@ Partida
+501@ Editar Memo
+5010@ Ranking
+5011@ Treinamento
+5012@ Histórico
+5013@ Partida Recente
+5014@ MVP Recente
+5017@ 2, 112:5
+5018@ 2, 106:5
+502@ Convidar Grupo
+503@ Sussuro
+504@ Adicionar Membro de Guilda
+5043@ Histórico
+5044@ Partida
+5045@ Treinamento
+5046@ Procurar
+5047@ Ranking
+5048@ Mapa
+5049@ Servidor
+505@ Apagar Grupo
+5050@ Estilo de Batalha
+5051@ Ranking
+5052@ Pontos Semanais
+5053@ Servidor
+5054@ Nível
+5055@ Personagem
+5056@ Record
+5057@ 2,107:10
+5058@ Histórico
+5059@ Partida
+506@ Alterar fonte do grupo
+5060@ Ranking
+5061@ Entrada Instantânea
+5072@ Criar Sala
+5073@ Atualizar
+5074@ Treinamento
+5075@ Minha Informação
+5082@ Próximo
+5084@ /
+5085@ Zona PvP
+5086@ Histórico
+5087@ Treinamento
+5088@ Ranking
+5102@ Partida
+5103@ Minha Informação
+5113@ Cancelar
+5114@ Criar
+5115@ Privado
+5116@ Público
+5117@ Criar Sala
+5118@ Título da Sala
+5119@ Selecionar Mapa
+5120@ Modo
+5142@ Revivendo
+5144@ Informação do Personagem
+5146@ Informação do Personagem
+5147@ 2, 110:7
+5148@ 2, 108:7
+5149@ Cancelar
+5150@ Mover Time
+5151@ Sair
+5152@ Pronto
+5153@ Começar
+5154@ Batalha PvP
+5155@ Time A
+5156@ Time B
+5157@ /
+5158@ Hora da Batalha
+5159@ Mortes
+516@ Grupo? Adicionar Amigo
+5160@ Espectador
+5161@ Modo
+5162@ 2, 109:5
+5163@ 2, 109:5
+5168@ Tempo
+5169@ Mortes
+517@ Apagar Grupo
+5170@ Anterior
+5171@ Aplicar
+5172@ Não aplicado
+5174@ Não
+5175@ Sim
+5176@ Sem Item
+5177@ Modo de Batalha
+5178@ Espectador
+518@ Mudar Nome
+5185@ MVP
+5189@ Cancelar
+519@ Cancelar
+5190@ Participar
+5191@ Entrar
+5193@ /
+5194@ OK
+5195@ Morte
+5196@ Matou
+5198@ Morte
+5199@ Matou
+520@ Confirmação
+5201@ Time A
+5203@ Time B
+521@ Apagar Bloquear Jogador
+5216@ Apostando
+5217@ Encantamento de Item
+5218@ Alz
+5219@ Encantamento de Item
+522@ Apagar Bloquear Jogador
+5220@ Item
+5221@ Núcleos
+5222@ Resultado
+5223@ Pontos de Aprimoramento
+5225@ Alz
+5226@ Apostas se iniciam 30s antes do início do PvP
+5227@ MVP
+5229@ MVP
+523@ Quando o alvo for liberado, você poderá usar o chat.
+524@ Você gostaria de liberar o alvo da sua lista de bloqueio?
+525@ Não
+526@ Sim
+527@ Apagar Amigo
+528@ Apagar Amigo
+529@ Você gostaria de apagar o alvo da sua lista de amigos?
+5294@ Cancelar
+5295@ OK
+5296@ Compre Item
+5297@ Comprar QTD
+5298@ Preço de Compra
+5299@ Condição QNT.
+530@ Não
+5300@ Cancelar
+5301@ OK
+5302@ Compre Item
+5303@ Comprar QTD
+5304@ Preço de Compra
+5305@ Condição QNT.
+5306@ Registrar Núcleo
+5307@ Sim
+5308@ Não
+531@ Sim
+5313@ Entrar
+5316@ 2,113:10
+5317@ Status
+5318@ Mebro
+5319@ Tempo
+532@ Desfazer Guilda
+5320@ Modo
+5321@ Título da Sala
+5322@ Sala Nº
+5327@ 2, 114:7
+5328@ 2, 114:7
+533@ A guilda será desfeita
+5331@ Matou
+5332@ /
+5333@ Batalha
+534@ Você pode desfazer a guilda após remover todos os Membros da Guilda.
+5346@ Informação
+5347@ Pérola Abençoada Premium
+5348@ Informação
+5349@ Aplicar Todas
+535@ Tem certeza que deseja desfazer sua guilda?
+5350@ Não
+5351@ Sim
+5352@ 1,103:0
+5353@ 1,104:0
+536@ Não
+5368@ 0
+5369@ 0
+537@ Sim
+5370@ Aumenta WEXP com Gema Arcana
+5371@ WExp
+5372@ WEXP adicional com Gema Arcana
+5373@ Gemas Arcanas
+5374@ Não
+5375@ Sim
+538@ Apagar Grupo de Guilda
+539@ Apagar Grupo de Guilda
+540@ Gostaria de apagar o grupo de Guilda da sua lista de guilda?
+543@ Não
+544@ Sim
+545@ Apagar o grupo de Amigos
+546@ Apagar o grupo de Amigos
+547@ Todos nesse grupo serão removidos da sua lista de amigos.
+548@ Você gostaría de apagar o grupo da sua lista de amigos?
+5487@ OK
+5488@ Período de Pérola Costumizada expirou
+5489@ Período de Pérola Costumizada expirou
+549@ Não
+5490@ Pérola Costumizada expirou
+550@ Sim
+551@ Deixar a Guilda
+552@ Deixar a Guilda
+553@ Tem certeza que deseja deixar esta guilda?
+554@ Não
+555@ Sim
+556@ Não pergunte novamente
+557@ Enviar
+558@ Você quer enviar a mensagem?
+559@ Não
+560@ Sim
+561@ Retirar Membro da Guilda
+562@ Retirar Membro da Guilda
+563@ Você tem certeza de que deseja remover o membro da guilda?
+564@ Cancelar
+565@ Confirmação
+566@ Mestre da Guilda de Confiança
+567@ Mestre da Guilda de Confiança
+568@ A autoridade de Líder de Guilda será confiada ao alvo.
+569@ Cancelar
+570@ Confirmação
+571@ Editar Memo Amigo
+5716@ Info. Equipamento
+572@ Editar Memo Amigo
+573@ Cancelar
+574@ OK
+5744@ Customização da Pérola Abençoada.
+5747@ Customização da Pérola Abençoada.
+5748@ Gemas Arcanas
+5749@ Aplicar customização de Pérola Abençoada
+575@ Permissão de Convidar
+5750@ Requer Gemas Arcanas
+5751@ Não
+5752@ Sim
+5753@ Customização da Pérola Abençoada.
+5754@ Remover constumização de Pérola Abençoada
+5755@ Não é possível restaurar Pérola Abençoada Removida
+5756@ Não é possível restaurar Pérola Abençoada Removida
+5757@ Sim
+5758@ Não
+5759@ Cancelar
+576@ Permissão de Expulsão
+5760@ Confirmação
+5761@ Itens insuficientes.
+5762@ Gemas Arcanas insuficientes.
+5763@ Caso contrário, seu personagem poderá ser atacado
+5764@ ao usar a Loja de Itens.
+5765@ Você gostaria de abrir a Loja de Itens?
+577@ Mudar Grupo de Guilda
+578@ Nome do Grupo
+579@ Permissões
+5793@ Total de Gemas Arcanas
+5794@ Você usará a pérola?
+5795@ [DC                % ]
+5796@ 0
+5797@ Pérolas Abençoadas
+5798@ 1,115:0
+580@ Confirmação
+5800@ 1,116:0
+5809@ Entrar
+581@ Cancelar
+582@ Novo Nome de Grupo
+583@ OK
+5833@ Procurar
+5834@ Procurar
+5835@ Registrar
+5836@ Category
+5837@ Category
+5838@ Preço
+5839@ Preço
+584@ Período de Pérola Abençoada expirou
+5840@ Nome
+5841@ Nome
+5842@ QTD
+5843@ QTD
+5844@ 2, 56:110
+5845@ 2,54:15
+5846@ Compra
+5847@ Função
+5848@ Favoritos
+5849@ Reiniciar Preço Min Atual
+585@ Perola Abençoada Expirou
+5850@ Reiniciar Preço Min Atual
+5851@ Atualizar
+5852@ Atualizar
+5853@ Registrar
+5854@ Registrar
+5855@ Nome
+5856@ Nome
+5857@ Preço
+5858@ Preço
+5859@ QTD
+586@ Perola Abençoada Expirou; o item irá desaparecer
+5860@ QTD
+5861@ Status
+5862@ Status
+5863@ Compra
+5864@ 1, 57:5
+5865@ Alz
+587@ Anexar Alz
+588@ Anexar Item
+5884@ Med. Semanal
+5885@ Min Atual
+5886@ Taxa de Ajuste:
+5887@ [CABAL]
+5888@ Negociar
+5889@ Poder de Ataque
+5931@ Atributos Personagem
+5932@ Status de Ataque
+5933@ DEF atributos
+5934@ Outro atributos
+5935@ 2,117:38
+5936@ 2,117:38
+5937@ 2,117:38
+5938@ 1,0:0
+5939@ Mudar Estilo de Luta
+5940@ Selecionar Estilo de Luta
+5941@ Informação de Técnicas e Runa
+5942@ Modo de Batalha
+5943@ Essência
+5944@ Supremo
+5945@ Estilo de Luta atual:
+5946@ Por favor selecione Estilo de Luta
+5947@ Informação do Estilo de Luta
+5948@ Selecionar Estilo de Luta
+5949@ Explicação
+5950@ Padrão
+5951@ Mudar
+5952@ Os itens serão entregues após a mudança do Estilo de Luta
+5953@ Todos os status irão reiniciar
+5954@ Explicação
+5955@ - Modo Aura não mudará
+5956@ exceto para técnicas relacionadas à Estilos de Luta
+5958@ - Status diminuído será retornado como pontos
+5959@ de acordo com o Estilo de Luta selecionado
+5960@ -Técnicas serão deletadas
+5961@ -Algumas Runas irão mudar automaticamente
+5962@ (Runa de Ataque II não é alterada)
+5963@ de acordo com o Estilo de Luta selecionado
+5964@ - Conquista, Ponto de Honra
+5965@ para  rank A. Especialista e acima
+5966@ Livro de Técnica
+5967@ Não
+5968@ Sim
+5969@ Confirmação
+5970@ Mudar Estilo de Luta
+5971@ Mudar Estilo de Luta
+5972@ Mudar Estilo de Luta:
+5973@ Você poderá checar o novo estilo de batalha ao logar novamente.
+5974@ Cancelar
+60@ Destinatário
+600@ Cancelar
+601@ OK
+6014@ -Livros de Técnica de Ataque serão dados
+6015@ não mudará
+6016@ não mudará
+602@ Kit de Mudança
+603@ Cancelar
+604@ Mudar Estilo
+605@ 2,43:5
+606@ Kit de Mudança
+6061@ Cancelar
+6062@ Treinar
+6063@ Treinar Técnica
+6064@ Custo:
+6065@ *Muda Nível de Técnica
+6066@ Novo Nv
+6067@ Alz
+6068@ Ponto de Técnica:
+607@ OK
+6079@ Atributos Personagem
+608@ Guia de Aumento de Nível
+6084@ Registrar
+6085@ Item Registrado
+6086@ Função
+6087@ Venda
+6088@ Expirado
+6089@ Vendido
+609@ Ganho de 5 pontos por cada nível
+6090@ Qtd Total
+6091@ (Preço x Quantidade)
+6092@ Taxa de Venda (5%)
+6093@ Período
+6094@ Vendas Líquidas
+6095@ Quantidade
+6096@ Preço
+6097@ Alz
+6098@ Alz
+6099@ Alz
+610@ Cancelar
+6100@ Alz
+6101@ Alz
+611@ Cancelar
+614@ Não
+6154@ Fechar
+6155@ Deslumbramento
+6156@ Transcendente
+6157@ Confiança
+6158@ 0,70:6
+6159@ Contrato
+616@ Cancelar
+6160@ Contrato
+6161@ Transcendente
+6162@ Confiança
+6163@ 0,70:6
+6164@ Deslumbramento
+6165@ Treine
+6166@ Contrato
+6167@ Deslumbramento
+6168@ Confiança
+6169@ 0,70:6
+617@ Confirmação
+6170@ Transcendente
+6171@ Contrato
+6172@ Deslumbramento
+6173@ Transcendência
+6174@ 0,70:6
+6175@ Confiança
+6176@ Mercenário
+6177@ Criar Mercenário
+6178@ Rank
+6179@ Reforçar
+618@ Participar de Conversa no Canal
+6180@ Criar Mercenário
+6181@ Treinar Mercenário
+6182@ *Benefícios de Mercenário
+6183@ Itens Necessários
+6184@ Criação
+6185@ *Criar Cartão de Mercenário
+6186@ *Criação necessita Pedaço(s) de Mercenário
+6187@ *Taxa de Sucesso: 100%
+6188@ Pedaço(s)
+6189@ Registro Automático
+619@ Cancelar
+6190@ Aumento de Rank de Mercenário
+6191@ Registro Automático
+6192@ Criação
+6193@ Reforçar
+6194@ Aumento de Rank de Mercenário
+6195@ Treinar Mercenário
+6196@ Pedra de Treinamento
+6197@ *Benefícios Adicionados
+6198@ Itens Necessários
+6199@ Rank
+620@ Confirmação
+6200@ *Aumento de Rank requer Pedra(s) de Treinamento
+6201@ *Taxa de Sucesso: 100%
+6202@ *Somente Mercenário Nv.10 pode Aumentar de Rank
+6203@ Aprimorar Mercenário
+6204@ Registro Automático
+6205@ Criação
+6206@ Rank
+6207@ Aprimorar Mercenário
+6208@ Treinar Mercenário
+6209@ Nv do Mercenário irá aumentar
+621@ Inserir senha do canal de chat privado
+6210@ Itens Necessários
+6211@ Reforçar
+6212@ Aprimorar Nv. do Mercenário
+6213@ *Aprimoramento requer Cartão de Mercenário
+6214@ *Taxa de Sucesso: 100%
+6215@ Pedaço(s)
+6216@ Nível voltará para 1
+6259@ Adicionar Bloqueio
+6260@ Adicionar Bloqueio
+6261@ Adicionar Bloqueio
+6294@ Cancelar
+6295@ Confirmação
+6296@ Não pergunte novamente
+6297@ Venda de Item
+6298@ Este item é valioso. Você tem certeza que deseja vendê-lo?
+6299@ Preço de Venda
+630@ Criar Item
+6300@ Cancelar
+6301@ OK
+6302@ Não pergunte novamente
+6303@ Venda de Item
+6304@ Item não pode ser restaurado. Vender mesmo assim?
+6305@ Preço de Venda
+6306@ Cancelar
+6307@ Confirmação
+6308@ Não pergunte novamente
+6309@ Guia da Loja de Itens
+631@ Material Necessário
+6310@ Certifique-se de que seu personagem esteja seguro.
+6311@ Caso contrário, seu personagem poderá ser atacado
+6312@ ao usar a Loja de Itens.
+6313@ Cancelar
+6314@ Confirmação
+6315@ Não pergunte novamente
+6316@ Notícia
+6317@ Use uma área segura
+6318@ Entrar
+6319@ Fechar
+632@ Criar Item
+6320@ Loja de Troca do Token da Arena
+6321@ Loja da Arena
+633@ Criar Item
+634@ Material Necessário
+6344@ 1,118:0
+6345@ Informação do Personagem
+6346@ Melhor Pontuação da Temporada
+6347@ Pontuação Total da Temporada
+6348@ Maior Pontuação Diária
+6349@ 999999
+635@ Criar Item
+6351@ Maior Pontuação Diária acumula ao alcançar a Meta
+6352@ Somente o melhor personagem será registrado no ranking.
+6353@ Ranking e Recompensa
+6354@ Rank da Temp.
+6355@ Tempo Restante
+6356@ Personagem Registrado
+6357@ Pontuação Total da Temporada
+6358@ Recompensa da Temporada
+6359@ 00dia(s) 00hora(s) 00minuto(s) restante
+636@ Criar Item
+6363@ Boss da Temporada
+6367@ 2,122:4
+6368@ 999999999
+6369@ Loja de Cupom
+637@ Material Necessário
+6370@ 999999999
+6371@ 0:00
+638@ Criar Item
+6382@ Compra
+6383@ Compra
+6384@ Entrar
+6385@ Arena Legendária (Baldus)
+6386@ Cancelar
+6387@ Não pergunte novamente
+6388@ Aviso de Entrada
+6389@ Deverá adquirir 1 ou mais pontos para a recompensa diária
+639@ Confirmação
+6390@ Se você passar de meia-noite enquanto estiver fazendo um calabouço
+6391@ você será forçado a sair do calabouço pelo propósito do ranking. Pontos ganhos durante o calabouço
+6392@ não serão gravados e você não receberá a recompensa diária.
+6393@ Sair
+6394@ Confirmação
+6395@ Salvar ID
+6396@ Teclado de Segurança
+6397@ ID
+6398@ Senha
+6399@ Log In
+640@ Penalidade de Morte de Personagem
+641@ O seu personagem recebeu uma penalidade de morte.
+642@ Você será liberado ao ganhar EXP
+6426@ 2,119:10
+6427@ Ranking irá resetar a cada temporada (1 semana)
+6428@ Você não pode entrar na determinação do ranking.
+6429@ Recorde Temp.
+643@ Não
+6430@ Recompensas
+6431@ Ranking
+6432@ Personagem
+6433@ Rank da Temp.
+6434@ Pontuação Total
+6435@ 2,120:10
+6436@ 20160516 ~ 20160522
+6437@ Somente o ranking da semana anterior é gravado.
+6438@ Rank da Temp.
+6439@ Recompensas
+644@ Sim
+6440@ Ranking
+6441@ Personagem
+6442@ Recorde Temp.
+6443@ Pontuação Total
+6444@ 2,121:10
+6445@ Recompensas Diárias serão enviadas via mail ao atingir Meta da Temp.
+6446@ Ao final da temporada as recompensas serão enviadas via mail.
+6447@ Rank da Temp.
+6448@ Recorde Temp.
+6449@ Rank/Data
+645@ Derrubar Item
+6450@ Item Recompensa
+6451@ Recompensas
+646@ Item de alto valor. Por favor pense com cuidado antes de vender.
+6460@ Tempo Restante
+6461@ Pontos Ganhos
+6462@ Arena Legendária (Baldus)
+6465@ Fechar
+6466@ Aviso
+6467@ Abra Caixa Aleatória
+6468@ Resultado
+6469@ Fantástica Caixa de Pandora
+647@ Você está certo de que quer derrubar este item valioso?
+6470@ 50
+6471@ 500
+6472@ Gemas Arcanas são consumidas quando abrir Caixas Aleatórias e até 99 caixas que podem ser abertas são mostradas.
+6473@ Não é possível abrir se não tiver um espaço vazio de 2x4 no inventário.
+6474@ Medidor acumula quando você abrir cada caixa e você pode abrir uma caixa aleatória especial quando o medidor estiver cheio.
+6475@ O medidor e botão de abertura para Caixas Especiais Aleatórias são mostrados em uma cor diferente.
+6476@ Caixa Especial:
+6477@ (Mantenha até 12:33)
+6478@ Até a Caixa Especial:
+6479@ Quantidade será reposta quando você usa todas as Caixas Especiais Aleatórias.
+6480@ Se você não reabrir por um tempo o medidor e quantidade são ambos resetados.
+6481@ 2
+6482@ tempo restante
+6483@ 3
+6484@ restante
+6485@ Caixa Aleatória Aberta
+65@ Convidar Membro
+652@ Sim
+6525@ Não disponível na temporada atual
+6527@ 999999999
+6528@ Melhor Pontuação da Temporada
+6529@ Pontos totais diários (Pontos para Ranking)
+6530@ Data da Temporada na semana passada
+6532
+6537@ 30,000,000(134th)
+654@ [Entrar Mundo/Calabouço]
+6542@ 999,999 tokens
+655@ [Cancelar]
+6550@ Tempo Restante da Temporada
+6551@ Recompensas disponíveis na temporada atual
+6552@ Informação do Personagem Registrada
+6553@ Pontos totais ganhos e ranking
+6555@ Pontos necessários para estar no ranking e para receber a recompensa diária
+6556@ 3000
+6557@ Pontos do Alvo da Temporada
+6558@ 3000
+6559@ Pontos do Alvo da Temporada
+656@ 2,15:10
+6560@ Confirmação
+6561@ Arena Legendária (Baldus)
+6562@ Calabouço Completo
+6563@ Tempo Completo
+6564@ Alvo da Temporada
+6565@ Pontos Ganhos
+6566@ 02:10
+6567@ 999999
+6568@ 999999
+6569@ Falha ao obter a recompensa diária
+657@ Selecione Mundo/Calabouço
+6573@ Recompensa diária ganha
+6574@ Renovação diária às 23:59
+6577@ Recompensa Diária
+6578@ Maior Pontuação Diária
+6579@ 999999
+658@ Teleporte
+6580@ Ultrapassou pontuação diária mais alta
+6581@ Cancelar
+6582@ Confirmação
+6583@ Contagem
+6584@ Receber Item
+6588@ /
+6589@ Resetar Domínio Overlord
+659@ Não
+6590@ 2,123:5
+6591@ Domínio Overlord
+6592@ Overlord EXP(OXP)
+6593@ Ponto Overlord(OP)
+6594@ Todos os Ataques
+6595@ Defesa
+6596@ NV Overlord(ONV)
+6597@ Não
+6598@ Sim
+6599@ Upar Domínio Overlord
+66@ Regra de Convite
+660@ Sim
+6600@ Status adquiridos:
+6601@ OP necessários:
+6602@ Cancelar
+6603@ Resetar Domínio Overlord
+6604@ Resetar Domínio Overlord
+6605@ Pontos :
+661@ Sair do Jogo
+6615@ Slot Rápido Desbloqueado
+6616@ Slot Rápido Bloqueado
+662@ Sair do Jogo
+6626@ 2,124:20
+6628@ Compra
+6629@ Fechar
+663@ Você está certo de que deseja sair do jogo?
+6630
+6631@ À venda
+6632@ Fornecedor
+6633@ Começar
+6634@ Parar
+6635@ Fechar
+6636@ Atualizar
+6637@ Registro Automático
+6638@ Registro Automático
+6639@ Registro Automático
+6640@ Registro Automático
+6641@ Registro Automático
+6642@ Registro Automático
+6643@ Registro Automático
+6644@ Registro Automático
+6645
+6646@ Loja Premium
+6647@ Venda
+6648@ Venda
+6649@ Fornecedor
+6673@ Registrar
+6674@ Pedido
+6675@ Solicite Todos
+6676@ Complete Todos
+6677@ Favoritos
+6678@ Ver Todos
+6679@ Ver somente os produtos que podem ser solicitados
+6680@ Ver somente os produtos não registrados
+6681@ Resultado
+6682@ Material Necessário
+6683@ 0
+6684@ Repita
+6685@ 0
+6686@ 0
+6687@ (
+6688@ )
+6689@ ,
+6690@ Comissão de Registro
+6691@ Pedido
+6692@ Quando você solicita para todos, a solicitação não para até\\todos os materiais são usados ou não tenha mais espaço no inventário.\\O processo para se você desmarcar
+6693@ Sucesso/Falha Contagem
+6694@ 2,40:8
+6695@ 2,42:8
+6696@ Seleção padrão
+6697@ Selecione rank atual
+6698@ Selecione rank atual
+6699@ Selecione rank atual
+67@ Regra de Coleta
+6700@ Selecione rank atual
+6701@ Selecione rank atual
+6702@ Selecione rank atual
+6703@ Cancelar Avaliação
+6704@ Quantidade
+6705@ Cancelar
+6706@ OK
+6707@ Classe 6
+6708@ Resetar avaliação para o(s) rank(s) selecionado
+6709@ Classe 1
+6710@ Classe 5
+6711@ Classe 4
+6712@ Classe 2
+6713@ Classe 3
+6714@ Classe 7
+6715@ cd
+672@ Preço de Compra
+6746@ Nv.
+6747@ Poder de Ataque
+6782@ Período de Aplicação
+6783@ Buff Platinum
+6784@ Grau
+6785@ Preço Normal
+6786@ Preço Promo.
+6787@ [Desc.  %]
+6788@ Status
+6789@ Período Aplicável
+6790@ Informação Platinum
+6791@ Tempo Restante
+6792@ Buff Platinum
+6793@ Cancelar
+6794@ Aplicar
+6796@ 777
+6797@ HP :
+6798@ 100%
+6799@ 100%
+68@ Retirar Membro
+6800@ HP :
+6801@ Azul
+6802@ Vermelho
+6815@ Cancelar
+6816@ Confirmação
+6817@ Confirmação
+6818@ QTD para guardar
+6819@ Guardar Item
+6820@ Quantia para receber
+6821@ Entregue Item
+6823@ Destreinamento de Pet
+6824@ Destreinamento de Pet
+6825@ Cancelar
+6826@ Destreinar
+6827@ Pet Leão Falso
+6829@ Nv 19
+6830@ Kit de Regressão de Pet
+6831@ Normal
+6835@ Contrato
+6836@ Confiança
+6837@ Transcendência
+6838@ Resultado
+6848@ 3 / 1
+6864@ [Dica] Resete o slot inteiro na aba
+6876@ Normal
+6877@ Contrato
+6878@ Confiança
+6879@ Transcendente
+69@ Delegar Liderança
+70@ Deixe o grupo
+700@ Cancelar
+701@ Confirmação
+702@ Confirmação
+703@ QTD para guardar
+704@ Guardar Item
+705@ Quantia para receber
+706@ Entregue Item
+71@ Procurar Grupo
+710@ Cancelar
+7102@ HQ ocupada
+7103@ Fortaleza Ocupada
+7104@ Derrote Inimigo
+7105@ Destruir Torre Arcana
+7106@ Destruir Guardião do Legado
+7107@ Torre Arcana Esquerda
+7108@ Produção de Moeda de Ouro
+7109@ Depósito de Moeda de Ouro
+711@ OK
+7110@ Derrote Monstro Neutro
+7111@ Despera de Guerra
+7112@ Recorde Pessoal
+7113@ Recompensa
+7114@ Despesa Pessoal
+7115@ Despesa Total
+7116@ Bônus de Vitória
+7117@ Ranking
+7118@ Recompensa de Ranking
+7119@ Alz
+712@ Retirar
+7120@ Alz
+7121@ Alz
+7122@ Alz
+7123@ Alz
+7124@ WExp
+7125@ P
+7126@ Pontuação de Danos
+7127@ Pontuação de Defesa
+7128@ Pontuação de Cura
+7129@ Pontuação de Construção
+713@ Cancelar
+7130@ AXP
+7131@ AXP
+7132@ Pontuação Pessoal
+7133@ Ganho
+7134@ Recompensa
+7135@ Recompensa Total de Alz
+7136@ Matar/Morrer
+7137@ Ponto de Depósito da Moeda Dourada
+7138@ Pontuação da Medalha
+7139@ Ponto
+714@ Confirmação
+7140@ Reportar
+7141@ OK
+7142@ OK
+7143@ Aumento WEXP
+715@ Notificação de Guilda
+716@ Introdução da Guilda
+7165@ Cancelar
+7166@ OK
+7167@ Medalha de Honra Concede Opção
+7168@ A opção será concedida no slot aberto
+7169@ WExp
+717@ Página da Guilda
+7170@ 100
+7171@ Opção aleatória será aplicada
+7173@ AP
+7174@ 100
+7175@ Cancelar
+7176@ OK
+7177@ Slot de Medalha de Honra Aberto
+7178@ Abra o slot escolhido
+7179@ item01
+718@ Informação da Guilda
+7180@ item02
+7181@ Cancelar
+7182@ Redefinir Atributos da Recompensa da Medalha de Honra
+7183@ Redefinir atributos de recompensa adquiridos pela Medalha
+7184@ Selecionar:
+7185@ Capitão
+7186@ Cancelar
+7187@ OK
+7188@ Selar Opção da Medalha de Honra
+7189@ Selar Segurança de Opção da Medalha
+719@ [Cancelar]
+7190@ Selecionar:
+7191@ Capitão
+72@ Convidar Membro
+720@ [Criar Guilda]
+721@ - Limite de Nome de Guilda: Menos de 20 caracteres
+722@ - Máx Membros de Guilda: 30 ~ 150
+7224@ 2,63:38
+7225@ Normal
+7226@ Gladiador de Grau 21 
+7227@ Grau de Honra
+7228@ WExp
+7229@ W.Rank
+723@ - Máx Grupos de Guilda: 16
+7230@ FOR
+7231@ INT
+7232@ DES
+7233@ FOR
+7234@ INT
+7235@ DES
+7236@ Ponto
+7237@ Pontos de Honra
+7238@ AP
+7239@ (
+724@ - Convite de Guilda somente através de Líder de Guilda ou Membros
+7240@ )
+7241@ PC
+7242@ Configuração Automática
+7243@ Detalhe de Atributos
+7244@ Personagem
+7245@ Login
+7246@ Salvar ID
+7248@ Login de Conta
+7249@ Sair do Jogo
+725@ com 'Permissão de Convite'
+7251@ Poderoso mestre de espadas, o melhor lutador melee
+7252@ Armas
+7253@ Montante/Daikatana
+7254@ Armadura
+7255@ Set de Armadura
+7256@ Dificuldade
+7258@ Guerreiro
+7259@ Tipo Mágico
+726@ pode recrutar novos membros de guilda
+7260@ Tipo Espada
+7263@ Mago
+7264@ Arqueiro Arcano
+7265@ Atirador Arcano
+7266@ Guerreiro
+7267@ Duelista
+7268@ Guardião Arcano
+7269@ Espadachim Arcano
+727@ Insira o Nome da Guilda
+7270@ Gladiador
+7271@ Nome de Personagem
+7273@ Rodar Campo de Visão
+7277@ Redefinir Configuração
+7278@ Gênero
+7279@ Rosto
+728@ Guia para criar uma guilda
+7280@ Estilo de Cabelo
+7281@ Cor de Cabelo
+7282@ Configurar Personagem
+7285@ 0,2:8
+7286@ Sub-senha
+7287@ Sub-senha
+7288@ Lista de Personagens
+729@ (Diferente de acordo com o Nível da Guilda)
+7290@ Criado em
+7291@ 2012.12.12
+7292@ Localização Atual
+7293@ Tundra Infame
+7294@ Canal 5
+7295@ Ocupado
+7296@ Servidor Prometheus
+73@ Convidar Membro
+730@ Criando uma Guilda
+7302@ Sair do Jogo
+7303@ Criar Personagem
+7306@ Cancelar
+7307@ OK
+7308@ Procedimento de Confirmação do Proprietário
+7309@ Insira sua senha novamente
+731@ Cancelar
+7310@ Não
+7311@ Sim
+7312@ Remover Personagem
+7313@ Dados do personagem, incluindo itens, serão deletados.
+7314@ Por favor confirme a exclusão do personagem.
+7315@ Deletar Personagem
+7316@ Não
+7317@ Sim
+7318@ Remover Personagem
+7319@ Por favor confirme a exclusão do personagem.
+732@ Confirmação
+7320@ Por favor saiba que não é possível restaurar
+7321@ Deletar Personagem
+7322@ OK
+7323
+7324@ O personagem foi removido com sucesso
+7325@ Personagem Deletado
+7326@ Cancelar
+7327@ Definir Senha
+7328@ Confirmação
+7329@ Digitar Sub-senha
+733@ Mudar Nome da Guilda
+7330@ Sub-senha
+7331@ Cancelar
+7332@ OK
+7334@ Digitar Sub-senha
+7335@ Sub-senha
+7336@ Cancelar
+7337@ OK
+7338@ Digitar (4~10 letras)
+7339@ Verifique Senha
+7340@ Sub-senha
+7341@ Definir Sub-senha
+7342@ Definir Sub-senha
+7343@ Trocar Sub-senha
+7344@ Trocar Sub-senha
+7345@ Deletar Sub-senha
+7346@ Deletar Sub-senha
+7347@ Mudar Pergunta/Resposta
+7348@ Mudar Pergunta/Resposta
+7349@ Definir Sub-senha
+735@ Nome da Guilda Atual
+7350@ Q.
+7352@ Por favor digite a resposta de acordo com a questão.
+7353@ Definir Pergunta e Resposta
+7354@ Definir Sub-senha
+7355@ Cancelar
+7356@ Confirmação
+7358@ Login Duplo
+736@ Novo Nome da Guilda
+7362@ Desconectado
+7368@ Teclado Virtual
+737@ Cancelar
+7376@ Criar Personagem
+7378@ Sair do Jogo
+738@ Mudar
+7389@ Tela Anterior
+739@ Mudar Nome da Guilda
+7390@ Configurar Aparência
+74@ Regra de Coleta
+740@ Nome da Guilda Atual:
+7401@ Criar Personagem
+7402@ Sair do Jogo
+7405@ Tela Anterior
+7406@ Criar Personagem
+741@ Novo Nome da Guilda:
+742@ Você gostaria de mudar o Nome da Guilda?
+7429@ Selecione Personagem
+743@ GPS
+7430@ Sair do Jogo
+7439@ Tela Anterior
+744@ 2,8:4
+7440@ Começar
+7451@ A.
+7452@ Criar Personagem Especial
+7454@ Cancelar
+7455@ Fechar
+7457@ Entrar 
+7458@ Não
+7459@ Confirmação
+7460@ Sim
+7462@ Alerta de Segurança
+747@ Área de Nível Apropriado
+748@ Membro do Grupo
+7481@ A conexão ao servidor falhou.
+7484@ Cancelar
+7485@ Confirmação
+7486@ Digitar (4~10 letras)
+7487@ Verifique Senha
+7488@ Sub-senha
+7489@ Cancelar
+749@ Disponível
+7490@ Definir Senha
+7491@ Confirmação
+7492@ Digitar Sub-senha
+7493@ Sub-senha
+7494@ Definir Sub-senha
+7495@ Definir Sub-senha
+7496@ Trocar Sub-senha
+7497@ Trocar Sub-senha
+7498@ Deletar Sub-senha
+7499@ Deletar Sub-senha
+75@ Procurar Grupo
+750@ Portal de Teleporte
+7500@ Mudar Pergunta/Resposta
+7501@ Mudar Pergunta/Resposta
+7502@ Definir Sub-senha
+7503@ Sub-senha
+7504@ Q.
+7505@ A.
+7506@ Por favor digite a resposta de acordo com a questão.
+7507@ Definir Pergunta e Resposta
+7508@ Cancelar
+7509@ OK
+751@ Oficial
+7510@ Ajustar Grau de BM 2
+7511@ Modo de Batalha 2
+7512@ Ajustar Grau de BM 2
+7513@ Definir Grau de Ataque Modo de Batalha
+7515@ BGM ON/OFF
+7516@ Cancelar
+7517@ Compre Item
+7518
+7519
+752@ Instrutor
+7520
+7521
+7522@ Preço de Compra
+7523@ OK
+753@ Dono de Mercearia
+754@ Alquimista
+755@ Armazém
+756@ Loja do Agente
+757@ Eventos
+7573@ Cancelar
+7574@ OK
+7575@ Protetor de AP
+7576@ Guarde AP no Protetor de AP
+7577@ AP guardada
+7578@ Guarde AP :
+7579@ AP restante depois de guardada
+758@ Agente de Runa
+7580@ Protetor de AP(0/100)
+7581@ Protetor de AP(0/500)
+7582@ Protetor de AP(0/700)
+7583@ Quantidade
+759@ Entrada de Calabouço
+76@ Deixe o grupo
+760@ Cancelar
+761@ Extração de itens
+7617@ Cancelar
+7618@ OK
+7619@ Quantia à Depositar
+762@ Extração de itens
+7620@ Taxa de Venda
+7621
+7622@ Quantia de Depósito
+7623@ Cancelar
+7624@ OK
+7625@ Quantia à Depositar
+7626@ Taxa de Venda
+7627
+7628@ Quantia de Depósito
+7634@ OK
+7635@ Aviso de Auto Desconexão
+7636@ Desconectar
+7637@ Entrar
+7638
+7668@ Rank de Conquistas
+7669@ Relatório
+7670@ Título
+7671@ 2,78:2
+7672@ 2,79:10
+7673@ Conquistas
+7674@ Category
+7675@ Detalhes
+7676@ Conquistas
+7677@ Relatório
+7678@ Título
+7679@ 2,78:2
+7680@ 2,82:1
+7681@ Rank de Conquistas
+7682@ Category
+7683@ Ranking
+7684@ Ranking
+7685@ Nível
+7686@ Personagem
+7687@ Guilda
+7688@ Pontos de Conquista
+7689@ Conquistas
+7690@ Rank de Conquistas
+7691@ Título
+7693@ 2,76:1
+7694@ 2,77:3
+7695@ Relatório
+7696@ Info Geral
+7697@ Minhas Conquistas
+7698@ Total de Pontos
+7699@ Total
+77@ Registrar Recruta
+7700@ Ranking
+7701@ Conquistas
+7702@ Rank de Conquistas
+7703@ Relatório
+7704@ 2,81:3
+7706@ Título
+7707@ Título Recebido
+7708@ Título Registrado
+7709@ Conquistas
+7710@ Fechar
+7721@ Cancelar
+7767@ * Tempo restante alterado irá resetar à meia-noite todo dia
+7768@ * Você não pode alterar após meia-noite do próximo dia.
+7769@ Alz
+7770@ Refil
+7771@ Cancelar
+7772@ Preço
+7773@ Tempo Refil
+7774@ Refil de tempo de jogo
+7775@ Informação de Grupo de Calabouço
+7776@ Selecione a Moeda
+7777@ Tempo Restante
+7778@ Tempo restante após Refil
+7779@ Informação de tempo de jogo
+7780@ Tempo Restante
+7781@ * Você não pode entrar no calabouço quando
+7782@ tempo restante é 0.
+7787@ * Tempo de jogo irá resetar à meia-noite todo dia
+7792@ Mude item de criação
+7793@ Registre item para outra classe de item
+7794@ Mudando item:
+7795@ Item atual:
+7796@ pode ser mudado
+7797@ Item registrado pode apenas ser mudado para a mesma parte
+7798@ use gemas arcanas quando trocar o item
+7799@ Cancelar
+78@ Recrutamento Desligado
+7800@ Mude item de criação
+7801@ * Tempo de calabouço não será deduzido
+7802@ quando uma Pérola Abençoada - EXP (100%) ou cima é usada
+7803@ Use pérolas EXP (sem dedução de tempo)
+7811@ Cancelar
+7812@ Confirmação
+7813@ Deletar o item que resultou
+7814@ Deletar o item selecionado que resultou
+7815@ Deseja deletar todos os itens selecionados?
+7816@ (Item deletado não pode ser recuperado)
+7817@ Cancelar
+7818@ OK
+7819@ Compre Item
+7820@ Compra do item selecionado
+7821@ Deseja comprar o item com este preço?
+7822@ (Item comprado será recebido automaticamente no inventário)
+7823@ Fechar
+7824@ Compra
+7826@ Vazio
+7827@ Abrir
+7828@ Aprimoramento
+786@ 2,18:10,19:5
+787@ 2,10:10
+7876@ Quantia Total
+788@ Loja de Item
+789@ Personagem
+79@ Líder do Grupo
+790@ Ajuda
+7909@ Preço Total
+791@ Inventário
+7910@ Resultado
+7915@ Cancelar
+7916@ Aprimoramento
+7917@ Caixa Misteriosa de Aprimoramento
+7918@ Use Gemas Arcanas para Aprimorar +1 a Caixa Misteriosa
+7919@ Deseja continuar?
+792@ Missões
+7920@ Item Recebível
+7921@ Abra Caixa Aleatória
+7922@ Notícia
+7925@ Evento
+7988@ Não
+7989@ Sim
+7991@ Cancelar
+7992@ Confirmação
+7993@ Mostre Asa Arcana
+7994@ Mostre Todos
+7995@ Somente mostre minha Asa Arcana
+7996@ Esconda Todos
+80@ Todos Membros
+8000@ Opção de Asa Arcana
+803@ Núcleo Arcano(Altíssimo)
+805@ Custo
+806@ Alz
+807@ *Núcleo Arcano será usado
+808@ baseado em cada aba para aprimoramento
+809@ * Taxa de sucesso de Treinamento de Pet é 100%
+81@ Procurar Grupo
+810@ * Custo para Treinar Pet depende de
+811@ Custo é diferente.
+813@ Nível de Pet
+814@ Nv
+815@ Slot para Treinamento
+816@ cd
+819@ Treinamento de Pet em Andamento...
+82@ Registrar Recruta
+820@ Treinamento de Pet
+823@ Slot de Pet Vazio
+825@ NPC
+826@ NPC
+827@ Taxa de Sucesso
+828@ Custo
+829@ Runa Suprema
+83@ Cancelar Recruta
+830@ Runa de Essência e Núcleo para criação serão descartados.
+831@ Material
+832@ 2,61:5
+8326@ Adicione Amigo
+8327@ Adicione Grupo
+8328@ Lista de Bloqueio
+8329@ Lista de Pedidos
+833@ Criação
+8330@ Organize por Nome de Grupo
+8331@ Mostre somente amigos online
+8332@ Amigo
+8333@ Ponto de Amizade
+8334@ Lista de Amizade
+8335@ 2,7:10
+8336@ Adicionar Bloqueio
+8337@ Lista de Amizade
+8338@ Lista de Pedidos
+8339@ Amigo
+834@ Tente novamente
+8340@ Lista de Bloqueio
+8341@ 2,7:10
+8342@ Adicione Amigo
+8343@ Aceite Todos
+8344@ Cancele tudo
+8345@ Negue Todos
+8346@ Lista de Amizade
+8347@ Lista de Bloqueio
+8348@ Amigo
+8349@ Pedido de Amigo Recebido
+835@ Aprimoramento em progresso
+8350@ Envie Pedido de Amizade
+8351@ 2,7:9
+8352@ 2,7:9
+8353@ Lista de Pedidos
+8354@ 1,130:0
+8355@ Pedido
+8356@ 1,131:0
+8357@ Vista
+8358@ Cancelar Pedido
+8359@ Convide Mebro de Guilda
+836@ Eu gostaria de entrar para Capella
+8360@ Editar Noticia
+8361@ Crie Grupo
+8362@ Selar Armazém
+8363@ Mudar Nome da Guilda
+8364@ Desfazer Guilda
+8365@ Deixar a Guilda
+8366@ Ranking da Guilda
+8367@ 1,7:0
+837@ Eu gostaria de entrar para Procyon
+838@ Deixe-me pensar sobre isso
+839@ Atualmente, muitos guerreiros de Nevareth
+840@ As duas confederações são parecidas
+841@ em números. Contudo, se você se juntar
+842@ $4#menos pontos de honra$ na $4#caçada$ e $4#guerra$
+843@ que outras pessoas na outra confederação.
+8434@ Fechar
+8435@ Procurar
+8436@ Condição de Procura
+8437@ Condição de Procura
+8438@ Interesse
+8439@ Tempo de Jogo
+844@ estão debatendo qual confederação
+8440@ Nível de Guilda
+8441@ Entre no nível limite
+8442@ Calabouço
+8443@ Guerra
+8444@ Item
+8445@ Encontro Social
+8446@ Novato
+8447@ Semanal
+8448@ Horas tardias
+8449@ Horas Antecipadas
+845@ Isso significa que você não pode se beneficiar
+8450@ Dia de semana
+8451@ Final de Semana
+8452@ Fechar
+8453@ Pedido
+8454@ Informação de Guilda
+8455@ Data de Criação de Guilda
+8456@ Membro de Guilda
+8457@ Mestre de Guilda
+8458@ Informação de Guilda
+8459@ Características
+846@ ao juntar-se a confederação com mais membros.
+8460@ Interesse
+8461@ Tempo de Jogo
+8462@ Entre no nível limite
+8463@ Introdução da Guilda
+8464@ Você quer se registrar para a guilda?
+8465@ Fechar
+8466@ Registrar
+8467@ Propaganda de Guilda
+8468@ Data de Criação de Guilda
+8469@ Membro de Guilda
+847@ você terá a chance de ganhar
+8470@ Mestre de Guilda
+8471@ Informação de Guilda
+8472@ Características
+8473@ Interesse
+8474@ Tempo de Jogo
+8475@ Entre no nível limite
+8476@ Introdução da Guilda
+8477@ Calabouço
+8478@ Guerra
+8479@ Itens
+848@ a confederação com mais membros,
+8480@ Encontro Social
+8481@ Novato
+8482@ Semanal
+8483@ Horas tardias
+8484@ Horas Antecipadas
+8485@ Dia de semana
+8486@ Final de Semana
+8487@ Fechar
+8488@ Pedido
+8489@ Calabouço
+849@ NPC
+8490@ Guerra
+8491@ Item
+8492@ Encontro Social
+8493@ Novato
+8494@ Semanal
+8495@ Horas tardias
+8496@ Horas Antecipadas
+8497@ Dia de semana
+8498@ Final de Semana
+8499@ Pedido de Informação
+850@ [Função Exclusiva NPC]
+8500@ Meu Pedido
+8501@ Interesse
+8502@ Tempo de Jogo
+8503@ Introdução
+8504@ Personagem
+8505@ Estilo de Batalha
+8506@ Poder de Ataque / Defesa
+8507@ Fechar
+8508@ Pedido de Informação
+8509@ Meu Pedido
+851@ [Missão]
+8510@ Interesse
+8511@ Tempo de Jogo
+8512@ Introdução
+8513@ Personagem
+8514@ Estilo de Batalha
+8515@ Poder de Ataque / Defesa
+8518@ Propaganda de Guilda
+852@ 2,10:10
+853@ NPC
+854@ Aceitar Recompensa Adicional
+855@ 2,22:1,23:1,22:1,24:1,22:1,25:2
+856@ Recompensa de Missão Adicional
+857@ NPC
+8572@ Não
+8573@ Sim
+8574@ 1,135:0
+8575@ Treinamento de Asa Arcana
+8576@ Treinamento
+8578@ Tempo de Treinamento:
+858@ NPC
+8581@ Custo de Treinamento:
+8582@ Material de Treinamento:
+8583@ Pts Treinamento
+8587@ Resultado do Treinamento
+8588@ Completar imediatamente
+8589@ Fechar
+859@ [Aceitar Recompensa de Calabouço]
+8590@ 1,134:0
+8591@ 1,134:0
+8592@ Treinamento
+8594@ Tempo Restante
+8595@ Golpe Mortal
+8597@ Resultado do Treinamento
+8598@ 2,133:3
+8599@ Não
+860@ Recompensa de Calabouço
+8600@ Sim
+8601@ Ativar Treinamento
+861@ Item
+8610@ Cancelar
+8611@ Resetar Treinamento
+8612@ Resetar Treinamento de Asa Arcana
+8613@ Pontos :
+8616@ Completar Treinamento Imediatamente
+8617@ Gemas Arcanas
+8618@ Completar Treinamento de Asa Arcana Imediatamente
+8619@ Gema(s) Arcana(s) necessária(s) para completar
+862@ Técnica
+8620@ Não
+8621@ Sim
+8622@ Receba Tudo
+8623@ Receber
+8624@ Receber
+8625@ Receber
+8626@ Receber
+8627@ Receber
+8628@ Fechar
+8629@ Receber
+863@ Normal
+8630@ Caixa de Presente (Especial)
+8631@ Lista de Item
+8632@ Lista de Caixa de Presente
+8633@ Caixa de Presente (Especial)
+8634@ Notícia
+8635@ Caixa (Normal)
+8636@ Caixa (Premium)
+8637@ Caixa (Extra)
+8638@ Caixa (Superior)
+8639@ Não em Uso
+864@ Por favor, escolha uma recompensa de missão
+8640@ *Ganhe Pontos quando receber Caixa de Presente.
+8641@ *Pode ser recebido quando medidor for 100%
+8642@ Tempo Bônus
+8647@ $4#[Tempo Bônus]$\ Caixa pode ser aberta quando o tempo restante for menos que o tempo bônus.\ Tempo Bônus aumenta de acordo com a Caixa de Presente ativada.
+8648@ Aberto
+8649@ Aberto
+865@ Não pergunte novamente
+8650@ Aberto
+8651@ Aberto
+8652@ Aberto
+8657@ Asa Arcana
+8658@ Asa Arcana
+8659@ Receber Auto
+866@ Não
+8660@ $4# [Receber Auto] Somente disponível quando usando $\$24#Pérola Abençoada - Superior$
+8662@ Recompensa disponível hoje
+8663@ 999,999 tokens
+8664@ Recompensa de Rank Diária
+8665@ Rank da Temp.
+8666@ Recorde Temp.
+8667@ Recompensas
+8668@ 2,119:10
+8669@ *Rank reseta diariam.
+867@ Sim
+8670@ Você não pode entrar na determinação do ranking.
+8671@ *Tempo renovação: 2hr
+8672@ Ranking
+8673@ Personagem
+8674@ Rank Diário
+8675@ Ponto mais Alto
+8676@ Rank Diário
+8677@ Rank Diário
+8678@ Rank Diário
+8679@ Efeito de Buff Aplicado
+868@ Compre Item
+869@ Compre Item
+870@ Você está certo de que deseja comprar esse item?
+871@ Não
+872@ Sim
+873@ Técnica Treinada
+874@ Você já treinou isso.
+875@ Comprar mesmo assim?
+876@ Você não pode utilizar esse livro para treinar de novo.
+877@ Todos os Ataques
+8775@ Fechar
+8776@ Calabouço Aberto
+8777@ 1,139:0
+8778@ Nome de Guilda:
+8779@ Nível de Guilda:
+878@ Suplementar
+8780@ Selec. Calab. de Guilda
+8781@ Introdução Calabouço de Guilda
+8782@ Dificuldade do Calabouço de Guilda & Recompensa
+8783@ Contagem Aberta:
+8784@ Abrir Calabouço de Guilda
+879@ Reforçar
+8790@ Expulsar Membro do Grupo
+8791@ 1,137:0
+8792@ Cancelar
+8793@ Alterar dificuladade do calabouço
+8794@ Deseja mudar a dificuldade do calabouço de Guilda?
+8795@ Dificuldade do Calabouço de Guilda muda aleatóriamente
+880@ NPC
+8801@ 1,136:0
+8803@ 1,139:0
+8804@ Mude Nível
+8806@ Cancelar
+8807@ OK
+8808@ Reentrada de Calabouço de Guilda
+8809@ Existe um calabouço de guilda acontecendo
+881@ Mostrar Apenas Técnicas Disponíveis
+882@ 2,10:10
+883@ NPC
+884@ 2,11:10
+885@ Sair
+886@ NPC
+887@ Recompensa
+888@ Info Meta
+889@ Participar
+890@ Receba Recompensa
+891@ Fechar
+892@ Ver meta alcançável
+893@ 2,58:20
+8930@ Criar
+8931@ Cancelar
+8932@ OK
+8933@ Crie Grupo
+8934@ Nome do Grupo
+8935@ Retirar Alz
+8936@ Encontrar Item
+8937@ Loja da Guilda
+8938@ Convite de Guilda
+8939@ Nome do Grupo
+894@ NPC
+8940@ Mudar Info do Grupo
+8941@ Retirar Alz
+8942@ Encontrar Item
+8943@ Loja da Guilda
+8944@ Convide Mebro de Guilda
+895@ 2,11:8,21:4
+896@ Preço de Venda
+897@ Sair
+8973@ 1,136:0
+8978@ Jogar o dado
+8979@ OK
+898@ Alo?
+8980@ Calabouço de Guilda Completo!
+8981@ Recompensa do Calabouço de Guilda
+8982@ Calabouço
+899@ $5#[Habilidade NPC]$ significa habilidades únicas
+90@ Mapa Estratégico
+900@ tais como lojas de itens ou treinamento de técnicas.
+901@ $5#[Missão]$ significa missões que você pode
+902@ receber. O progresso da missão irá
+903@ Deixe-me apresentar as habilidades dos NPCs.
+904@ mostrada como $5#(Início)$, $5#Em progresso)$
+905@ $5#(Completo)$. Como posso ajudar?
+906@ NPC
+9099@ Não
+91@ Lista de Membros
+9100@ Sim
+9101@ Aplicar Info de Medalha de Honra
+9102@ Aplicar Info Medalha Honra (grade e ponto)
+9103@ aplicar na conta atual
+9104@ (Item e a atual Info de Medalha de Honra serão deletadas).
+9105@ [Rank de Herói 1 46.532%]
+9106@ .
+9107@ Info Medalha Honra Selada
+9108@ Não
+9109@ Sim
+9110@ Selar Info de Medalha de Honra
+9111@ Selar Info de Medalha de Honra (grade e ponto)
+9112@ Selar
+9113@ (Info de Medalha de Honra conta compartilhada irá resetar.)
+9114@ [Rank de Herói 1 46.532%]
+9115@ Info Medalha de Honra
+9166@ Deletar Missão
+9167@ Recriar missão
+9168@ Tempo restante até renovação
+9169@ Ponto de recompensa da missão
+9170@ Cancelar
+9171@ Usar
+9172@ Use Item
+9173@ Quantidade
+9174@ 0
+9175@ Resultado
+9176@ /
+92@ Entre no Ranking
+93@ Informação
+9306@ Individual
+9307@ Guilda
+9308@ Ponto de Guilda
+9309@ Ranking da Guilda
+9310@ 2,143:1
+9311@ Ranking
+9312@ Nome da Guilda
+9313@ Ponto de Guilda
+9314@ Guilda
+9315@ [Info do Rank de Guilda]
+9316@ 1. Lista das $1#Top 30 Guildas$ com os maiores pontos de guilda
+9317@ * O ranking da guilda é atualizado a cada 1 hora.
+9318@ 4. Guildas que preenchem os requisitos minimos são marcados em $1#Amarelo$.
+9319@ Guilda
+9320@ Personagem
+9321@ Ponto de Guilda
+9322@ Rank Individual
+9323@ 2,147:1
+9324@ Ranking
+9325@ Nome da Guilda
+9326@ Pontuação
+9327@ Individual
+9328@ Contagem de Missão
+9329@ Nome de Personagem
+9330@ [Informação de Rank Individual]
+9332@ * Rank Individual reseta a cada hora
+9334@ Jogadores qualificados estão listados em $1# Amarelo$.
+9335@ Fechar
+9336@ Ranking
+9337@ Fechar
+9338@ 2,144:1
+9339@ Ranking
+9340@ Nome de Personagem
+9341@ Pontuação
+9342@ Rank de Contribuição
+9343@ Contagem de Missão
+9344@ [Informação de Rank de Contribuição]
+9345@ 1. Pontos da guilda que os membros da guilda ganharam e número de missões concluídas.
+9346@ 2. Apenas os membros da guilda participantes são exibidos.
+9347@ * O ranking de contribuição é atualizado a cada hora.
+9348@ 3. Os pontos da guilda necessários para a Recompensa de Pontos são a $1#soma dos pontos$ ganhos por todos os membros da guilda.
+9349@ Individual
+9350@ 2,142:1
+9351@ Ranking
+9352@ Recompensa
+9353@ Guilda
+9354@ [Informações sobre recompensas no rank da guilda]
+9355@ 3. Você pode receber $1#todos os 5 itens por recompensas no ranking da guilda.$
+9356@ * A recompensa da classificação são $1#enviadas para o inventário do evento$ após o evento.
+9357@ Guilda
+9358@ 2,146:1
+9359@ Ranking
+9360@ Recompensa
+9361@ Individual
+9362@ [Informação de Recompensa de Rank Individual]
+9363@ 2. Se a pontuação for a mesma, os jogadores podem receber várias recompensas na mesma classificação.
+9364@ 3. Você pode receber $1#todos os 5 itens$ em recompensa de classificação individual.
+9365@ * A recompensa da classificação são $1#enviadas para o inventário do evento$ após o evento.
+9366@ Fechar
+9367@ Recompensa (Rank)
+9368@ Fechar
+9369@ Receba Recompensa
+9370@ 2,141:1
+9371@ Pontos necessários
+9372@ Recompensas Opcionais
+9373@ Recompensa(pt) Info
+9374@ Recompensas Confirmadas
+9375@ [Recompensa(pt) Info]
+9376@ 1. Recompensas para cada grade podem ser recebidas quando a guilda atingir o ponto necessário.
+9377@ 2. Apenas um membro da guilda que tenha $1#completada mais de 1 missão$.
+9378@ 3. Você pode receber $1#1 de recompensa confirmada$ e $1#1 de recompensa de escolha$.
+9379@ 4. O prêmio(pt) pode ser ganho durante o $1#Período de Recompensa$ após o término do evento.
+94@ 1,29:0,36:0,37:0,29:0
+949@ Núcleo de Aprimoramento
+95@ 1,0:0
+950@ Quantidade
+951@ Cancelar
+952@ OK
+9524@ Não
+9525@ Sim
+9526@ Definir personagem principal da guilda
+9527@ Definir como personagem principal da guilda
+9528@ *Personagem Atual
+9529@ 1,148:0
+9530@ Receber
+954@ OK
+955@ Código do Desafio:
+956@ Senha Dinâmica
+9598@ 1,150:0
+9599@ 1,149:0
+96@ 1,0:0
+9600@ Fechar
+9601@ Rank Semanal de Guilda
+9602@ Ranking
+9603@ Nível
+9604@ Personagem
+9605@ Pont. do Tesouro
+9606@ Tesouro Criado
+9607@ Pont. do Tesouro
+9608@ Pontos de Tesouro Semanais
+9609@ Tipo de Tesouro Criado
+9610@ Rank Semanal de Guilda
+9630@ HQ ocupada
+9631@ Fortaleza Ocupada
+9632@ Derrote Inimigo
+9633@ Destruir Torre Arcana
+9634@ Destruir Guardião do Legado
+9635@ Torre Arcana Esquerda
+9636@ Despera de Guerra
+9637@ Recorde Pessoal
+9638@ Recompensa
+9639@ Despesa Pessoal
+9640@ Despesa Total
+9641@ Bônus de Vitória
+9642@ Ranking
+9643@ Recompensa de Ranking
+9644@ Alz
+9645@ Alz
+9646@ Alz
+9647@ Alz
+9648@ Alz
+9649@ WExp
+9650@ P
+9651@ Pontuação de Danos
+9652@ Pontuação de Defesa
+9653@ Pontuação de Cura
+9654@ Pontuação de Construção
+9655@ AXP
+9656@ AXP
+9657@ Pontuação Pessoal
+9658@ Ganho
+9659@ Recompensa
+9660@ Recompensa Total de Alz
+9661@ Matar/Morrer
+9662@ Ponto
+9663@ Pontuação da Medalha
+9664@ Reportar
+9665@ Confirmação
+9666@ Confirmação
+9667@ Aumento WEXP
+9672@ 1,150:0
+9673@ 1,149:0
+97@ 1,0:0
+9700@ Poder de Ataque
+9701@ Habilidades de defesa
+9702@ Nv.
+9703@ Fechar
+9704@ Informação do Festival de Missão
+9705@ [Condição para Participar]
+9706@ 1. Você tem que $1#pertencer à uma guilda e selecionar seu personagem principal$ antes do evento.
+9707@ 2. Se todos os personagens da conta não participarem da sessão do evento atual,
+9709@ precisa $1#estar em uma guilda antes do evento começar$
+9710@ [Começar o Evento]
+9711@ 1. Guilda $1#compartilha a lista de missões $.
+9712@ 2. Os membros da guilda escolhem missões da lista de missões para concluir.
+9713@ 3. Você pode $1#ganhar pontos de guilda$ limpando missões da guilda.
+9714@ 4. Quando o evento termina, as recompensas são dadas com base no total de pontos da guilda ganhos pelos membros da guilda.
+9715@ [Período do Evento]
+9716@ 1. O Festival da Missão é realizado por uma semana.
+9717@ [Recompensa]
+9718@ 1. A recompensa é baseada no total de pontos da guilda e aumentará conforme a guilda  $1#atingir cada pontuação necessária$.
+9719@ 2. Recompensa no Ranking da Guilda: A recompensa é dada às $1#Principais Guildas$ com pontos altos da guilda ganhos.
+9720@ 3. Recompensa de Rank Individual: Recompensa dada aos $1#Melhores Jogadores$ que obtiveram pontos altos na guilda.
+9721@ 4. Recompensas podem ser ganhas durante o $1#Período de Recompensa$ depois que o evento terminar
+9722@ [Regra]
+9723@ 1. As contagens de missões são usadas quando você inicia a missão.
+9724@ 2. Se você não tiver as tentativas restantes da missão, não poderá começar a missão.
+9725@ 3. A missão falhará se você não concluir dentro do prazo
+9726@ 4. $1#Mestre de Guilda$ e $1#Gerentes$ podem deletar missões
+9727@ 5. Se você iniciar ou excluir uma missão, ela será $1#recriada em outra missão$ após um determinado período de tempo.
+9728@ 6. O número de missões não será restaurado por missão fracassada ou abandonada
+9729@ 7. $1#Não é possível voltar a participar do evento$ mesmo depois de se juntar novamente à guilda
+98@ 1,29:0,31:0,32:0,33:0,29:0
+99@ 1,29:0,30:0,31:0,32:0,29:0,33:0,29:0
+9939@ Itens de Missão
+9940@ Item Registrado
+9941@ Nome do Item
+9942@ Quantidade
+9944@ 10000 / 10000
+9945@ Auto Refil
+9946@ Fechar
+9947@ Registrar
+9948@ Item Registrado
+9949@ Transformar
+9950@ Pode se transformar em monstro registrado.
+9951@ 0,156:6
+9952@ 1,0:0
+9953@ Lago do Crepúsculo
+9954@ 100%
+9955@ 1,0:0
+9956@ Precisa de Núcleos... Mais e Mais!
+9957@ (3333/3333)
+9958@ (0/1)
+9959@ (0/100)
+9960@ (0/100)
+9961@ (0/10)
+9962@ (3/10)
+9963@ 1,0:0
+9964@ Receba Recompensa
+9965@ X 200
+9988@ Você ainda pode participar mesmo se selecionar o $1#Personagem da Guilda$ atrasado.
+9990@ Gemas Arcanas
