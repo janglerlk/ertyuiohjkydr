@@ -3,7 +3,8 @@
   <file path="xdata.enc" hash="9A51C315A17017E0E37E1AB180282BE4" size="27566" />
   <file path="Bin/x64/CabalMain.exe" hash="1EABBFC9D26BEF739A56F7735E4F6443" size="13966848" />
   <file path="Bin/x64/dinput8.dll" hash="70FD77F1B9464BBEF0425B47B2100173" size="213504" />
-  <file path="Bin/x64/libogg.dll" hash="EEC3C74C522939F450BC7713047DB2C1" size="9415184" />
+  <file path="Bin/x64/GameJam.exe" hash="A6FA6678E02680E361E56EC0A6B439F5" size="10851328" />
+  <file path="Bin/x64/libogg.dll" hash="28789995CD31C0D0780385279BC8CD5B" size="27456" />
   <file path="Data/ability.enc" hash="7E790074B870893FA2F0D7D4B93773D3" size="8400" />
   <file path="Data/achievement.enc" hash="169524403DB64B5E155532231E5BD1E2" size="37263" />
   <file path="Data/assistant.enc" hash="3B22562DDD0BA44BE29B7A6931164381" size="5455" />
@@ -11,7 +12,7 @@
   <file path="Data/BattleStyleChange.enc" hash="97F83667B387FC8456C9A7C85D142D20" size="469" />
   <file path="Data/BossArena.enc" hash="03DEBBC1D31E8C65A3EF8E8E6069555A" size="625" />
   <file path="Data/boss_resistlist.enc" hash="95B75A64B51C77E30ADD59A7ED840844" size="1850" />
-  <file path="Data/cabal.enc" hash="3D092EBD5E0C53C21F210A37A1146519" size="235924" />
+  <file path="Data/cabal.enc" hash="439E8939C32CBB8C02C0C53A5DCD4F19" size="235885" />
   <file path="Data/caz.enc" hash="5A59A9FEFB70DC180469BE0AFCD7D6CA" size="1949" />
   <file path="Data/ChallengeDungeon.enc" hash="8851AF7718FF094D7EB112F91FD52271" size="932" />
   <file path="Data/ChallengeMissionData.enc" hash="B59B771CC04B1CA6B6D8BEC96BFE5416" size="1327" />
@@ -22,7 +23,7 @@
   <file path="Data/Collection.enc" hash="A39217E8DA9D88C07D6D0274E87F89EA" size="33988" />
   <file path="Data/cont.enc" hash="9B833C4D070E805E22DD1B2FE6BACC12" size="33178" />
   <file path="Data/cont2.enc" hash="55FAEF0FF8037C6069C6141081305FDC" size="8190" />
-  <file path="Data/cont3.enc" hash="892550E536E7DA01582AA5F762FED7E0" size="3103" />
+  <file path="Data/cont3.enc" hash="4A0DDB877ED3236164C64CA3238A094A" size="3091" />
   <file path="Data/craft.enc" hash="71E030C1C524EBC4616F74C0405CA958" size="59485" />
   <file path="Data/custom.enc" hash="0840FE2B3163C9D49B4BCAD1F0C562EF" size="2184" />
   <file path="Data/Data.enc" hash="3B015792D84BFD293780707B7746F059" size="9847" />
@@ -47,7 +48,7 @@
   <file path="Data/global.enc" hash="0BB1CCF071692D6B583B38D770E17CB5" size="43099" />
   <file path="Data/guide.enc" hash="1E473023E9B69E17139522DDA3DF6ADE" size="913" />
   <file path="Data/GuildDungeon.enc" hash="2E7CD58F7A8F8A8361CF7E412E17C56B" size="321" />
-  <file path="Data/GuildTreasure.enc" hash="A227EACCB81D4FD47B524037A57A77D1" size="810" />
+  <file path="Data/GuildTreasure.enc" hash="CA8AD39AA21BF09D40B956C2B85FE682" size="810" />
   <file path="Data/Heil_Exchange.enc" hash="BADE9BC662AE66712C816EF6E6E4A5CE" size="788" />
   <file path="Data/honor_medal.enc" hash="FA5325A9A64F56A1EE76305C321A30EA" size="2245" />
   <file path="Data/InventorySlot.enc" hash="4BCDAA61E4E75853E684188C27BDE049" size="5564" />
@@ -193,7 +194,7 @@
   <file path="Data/language/Portuguese/cabal_msg.enc" hash="979925FFE69A68C306EAA915BFE8C400" size="643761" />
   <file path="Data/language/Portuguese/caz_msg.enc" hash="EE6DC0D1551FC9D2AC2BC65ABBB7FCE9" size="2302" />
   <file path="Data/language/Portuguese/ChallengeMissionMsg.enc" hash="F8FA11DD4C2BA0BA2BF2CFA9D70BDAFD" size="240" />
-  <file path="Data/language/Portuguese/Collection_msg.enc" hash="C096C1E6F850ED8435D2A8CCB9E4E1E6" size="22332" />
+  <file path="Data/language/Portuguese/Collection_msg.enc" hash="A9D261A78794A4AFAF0F9FF8C402D5EE" size="22622" />
   <file path="Data/language/Portuguese/cont2_msg.enc" hash="7C324C32F897F34EA4FBD380F459179C" size="14024" />
   <file path="Data/language/Portuguese/cont3_msg.enc" hash="6DB2A9ECB09F96E0A4CDDB0DDBBB8AF2" size="3548" />
   <file path="Data/language/Portuguese/cont_msg.enc" hash="BFF7C8A5C02FA5B958B889EC797C04E5" size="16771" />
@@ -225,9 +226,10 @@
   <file path="Data/language/Portuguese/Skill_Enhanced_msg.enc" hash="E5EA10E205DFE308AD2A20F603EFE6FD" size="1448" />
   <file path="Data/language/Portuguese/stellar_msg.enc" hash="EB229E6D7B70D381AB2B53475FC06CDB" size="372" />
   <file path="Data/language/Portuguese/tab_msg.enc" hash="B198E89806511D80BAF86570CF0777FC" size="177" />
-  <file path="Data/language/Portuguese/tip.cbl" hash="59EDE366AB711B27D5682186C7555BE3" size="34716" />
+  <file path="Data/language/Portuguese/tip.cbl" hash="B890A7073BE35BE1328C0B63C45CD70D" size="35178" />
   <file path="Data/language/Portuguese/tip.enc" hash="A7BBA7087013A9B589D66E51C7A3478B" size="2496" />
-  <file path="Data/language/Portuguese/ui.dts" hash="DD193DCA7E8C4B978802D69C855CF076" size="151781" />
+  <file path="Data/language/Portuguese/ui.dts" hash="09FAB88A57B5C08A13F0423B8E819783" size="157704" />
+  <file path="Data/map/world_01.mcl" hash="AACBBACDEACCCF0CB8E2A53F359EDA89" size="8662562" />
   <file path="Data/map/world_24.mcl" hash="E14189B54AA47076C7DA2B53091DBDC2" size="6757714" />
   <file path="Data/Sound/B3combo_setting_N_on.ogg" hash="7F1DB968B856AD6E4B9E26B845D3217F" size="61332" />
   <file path="Data/Sound/B3combo_setting_spatk_on.ogg" hash="11411326997DD7D5AB3C6286D471300D" size="92838" />
