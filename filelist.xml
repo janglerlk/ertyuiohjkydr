@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
   <file path="xdata.enc" hash="9A51C315A17017E0E37E1AB180282BE4" size="27566" />
-  <file path="Bin/x64/CabalMain.exe" hash="1EABBFC9D26BEF739A56F7735E4F6443" size="13966848" />
+  <file path="Bin/x64/CabalMain.exe" hash="FED992661E62F32FC9E55143FD5C0402" size="13966848" />
   <file path="Bin/x64/dinput8.dll" hash="70FD77F1B9464BBEF0425B47B2100173" size="213504" />
-  <file path="Bin/x64/GameJam.exe" hash="A6FA6678E02680E361E56EC0A6B439F5" size="10851328" />
+  <file path="Bin/x64/GameJam.exe" hash="D6BC8175577627B911FD8AA7E3358946" size="11037696" />
   <file path="Bin/x64/libogg.dll" hash="28789995CD31C0D0780385279BC8CD5B" size="27456" />
   <file path="Data/ability.enc" hash="29C6DE96C69967350DE761BD1921D3A6" size="8608" />
   <file path="Data/achievement.enc" hash="169524403DB64B5E155532231E5BD1E2" size="37263" />
@@ -229,7 +229,8 @@
   <file path="Data/language/Portuguese/tip.cbl" hash="59EDE366AB711B27D5682186C7555BE3" size="34716" />
   <file path="Data/language/Portuguese/tip.enc" hash="A7BBA7087013A9B589D66E51C7A3478B" size="2496" />
   <file path="Data/language/Portuguese/ui.dts" hash="DD193DCA7E8C4B978802D69C855CF076" size="151781" />
-  <file path="Data/map/world_01.mcl" hash="AACBBACDEACCCF0CB8E2A53F359EDA89" size="8662562" />
+  <file path="Data/map/world_01.mcl" hash="C835015B27725EC8A0A2B2290AFF14C2" size="8662606" />
+  <file path="Data/map/world_02.mcl" hash="6C11D4D8C01D664D37315BF3BBCED795" size="8969488" />
   <file path="Data/map/world_24.mcl" hash="E14189B54AA47076C7DA2B53091DBDC2" size="6757714" />
   <file path="Data/Sound/B3combo_setting_N_on.ogg" hash="7F1DB968B856AD6E4B9E26B845D3217F" size="61332" />
   <file path="Data/Sound/B3combo_setting_spatk_on.ogg" hash="11411326997DD7D5AB3C6286D471300D" size="92838" />
