@@ -229,7 +229,8 @@
   <file path="Data/language/Portuguese/tip.cbl" hash="B890A7073BE35BE1328C0B63C45CD70D" size="35178" />
   <file path="Data/language/Portuguese/tip.enc" hash="A7BBA7087013A9B589D66E51C7A3478B" size="2496" />
   <file path="Data/language/Portuguese/ui.dts" hash="09FAB88A57B5C08A13F0423B8E819783" size="157704" />
-  <file path="Data/map/world_01.mcl" hash="AACBBACDEACCCF0CB8E2A53F359EDA89" size="8662562" />
+  <file path="Data/map/world_01.mcl" hash="C835015B27725EC8A0A2B2290AFF14C2" size="8662606" />
+  <file path="Data/map/world_02.mcl" hash="6C11D4D8C01D664D37315BF3BBCED795" size="8969488" />
   <file path="Data/map/world_24.mcl" hash="E14189B54AA47076C7DA2B53091DBDC2" size="6757714" />
   <file path="Data/Sound/B3combo_setting_N_on.ogg" hash="7F1DB968B856AD6E4B9E26B845D3217F" size="61332" />
   <file path="Data/Sound/B3combo_setting_spatk_on.ogg" hash="11411326997DD7D5AB3C6286D471300D" size="92838" />
