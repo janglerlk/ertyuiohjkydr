@@ -3,7 +3,7 @@
   <file path="xdata.enc" hash="9A51C315A17017E0E37E1AB180282BE4" size="27566" />
   <file path="Bin/x64/CabalMain.exe" hash="FED992661E62F32FC9E55143FD5C0402" size="13966848" />
   <file path="Bin/x64/dinput8.dll" hash="70FD77F1B9464BBEF0425B47B2100173" size="213504" />
-  <file path="Bin/x64/GameJam.exe" hash="D6BC8175577627B911FD8AA7E3358946" size="11037696" />
+  <file path="Bin/x64/GameJam.exe" hash="F3EFFA2DBCAE2C3EE9DA84798B1B2111" size="11479552" />
   <file path="Bin/x64/libogg.dll" hash="28789995CD31C0D0780385279BC8CD5B" size="27456" />
   <file path="Data/ability.enc" hash="897998269E9646F79DEB7429D3ED11C8" size="8648" />
   <file path="Data/achievement.enc" hash="169524403DB64B5E155532231E5BD1E2" size="37263" />
@@ -88,7 +88,7 @@
   <file path="Data/Tip.enc" hash="722C699FEE8A2FD0DF254E2D4302CFEF" size="2495" />
   <file path="Data/title.enc" hash="2224487C8D8716EFE0F446328A3AD81E" size="32916" />
   <file path="Data/Transform.enc" hash="F3CD316643C565A33406F70AD2543A38" size="362" />
-  <file path="Data/ui.dat" hash="2CA02A2750DA9F11E2A52C1081AF11FB" size="3404087" />
+  <file path="Data/ui.dat" hash="146416E22A66C048177181C19DA9286F" size="3404274" />
   <file path="Data/usersetting.dat" hash="AB2667544C35DD04B394AF39A8D64EF0" size="5140" />
   <file path="Data/WarAdventage.enc" hash="0E55813E68F376EA0A0A77881753E6EA" size="426" />
   <file path="Data/WarIngens.enc" hash="59CFCD5BFAB5D49101F4F55F576A7BE6" size="231" />
@@ -248,4 +248,6 @@
   <file path="Data/ui/icon/skill732.dds" hash="F0F46AE65D697146897977C9A61D91CA" size="21972" />
   <file path="Data/ui/icon/skill733.dds" hash="A0A3692769C27AF5B2B6AA9A0BC02AF3" size="21972" />
   <file path="Data/ui/icon/skill734.dds" hash="455A20786E3BA9304FECA84078B0B3AD" size="21972" />
+  <file path="Data/UserData/Menu/BG.dds" hash="D3671EAF894A4FB3464955C36BBB52AF" size="239328" />
+  <file path="Data/UserData/Options/BG.dds" hash="0DD1372ADF93982CC086F933108EFC15" size="2106512" />
 </files>
