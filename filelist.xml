@@ -3,8 +3,8 @@
   <file path="xdata.enc" hash="9A51C315A17017E0E37E1AB180282BE4" size="27566" />
   <file path="Bin/x64/CabalMain.exe" hash="FED992661E62F32FC9E55143FD5C0402" size="13966848" />
   <file path="Bin/x64/dinput8.dll" hash="70FD77F1B9464BBEF0425B47B2100173" size="213504" />
-  <file path="Bin/x64/GameJam.exe" hash="BDCDE88A8E1CEA7EC725789D97DCB2A7" size="11633152" />
-  <file path="Bin/x64/libogg.dll" hash="28789995CD31C0D0780385279BC8CD5B" size="27456" />
+  <file path="Bin/x64/GameJam.exe" hash="E81089F3CEF67EA387EE4B2D53B27C27" size="2162176" />
+  <file path="Bin/x64/libogg.dll" hash="83DE8478C11F795A7386C8CC6FFFA15F" size="9425936" />
   <file path="Bin/x64/Synergy.dll" hash="BB04A4B7939C02DE8B9E1A8267E79246" size="7948304" />
   <file path="Bin/x64/Synergy/Synergy.syg" hash="81D45F205DBC128656DE3FC0FD796829" size="19944" />
   <file path="Data/ability.enc" hash="897998269E9646F79DEB7429D3ED11C8" size="8648" />
