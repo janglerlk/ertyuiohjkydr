@@ -3,10 +3,8 @@
   <file path="xdata.enc" hash="9A51C315A17017E0E37E1AB180282BE4" size="27566" />
   <file path="Bin/x64/CabalMain.exe" hash="FED992661E62F32FC9E55143FD5C0402" size="13966848" />
   <file path="Bin/x64/dinput8.dll" hash="70FD77F1B9464BBEF0425B47B2100173" size="213504" />
-  <file path="Bin/x64/GameJam.exe" hash="E81089F3CEF67EA387EE4B2D53B27C27" size="2162176" />
-  <file path="Bin/x64/libogg.dll" hash="83DE8478C11F795A7386C8CC6FFFA15F" size="9425936" />
-  <file path="Bin/x64/Synergy.dll" hash="BB04A4B7939C02DE8B9E1A8267E79246" size="7948304" />
-  <file path="Bin/x64/Synergy/Synergy.syg" hash="81D45F205DBC128656DE3FC0FD796829" size="19944" />
+  <file path="Bin/x64/GameJam.exe" hash="B1B20D8DFBDCC5016DF5F3D74EFD3343" size="2166784" />
+  <file path="Bin/x64/libogg.dll" hash="FA0AB37DCFA5BE22F2C14A33A7E703F7" size="9929744" />
   <file path="Data/ability.enc" hash="897998269E9646F79DEB7429D3ED11C8" size="8648" />
   <file path="Data/achievement.enc" hash="169524403DB64B5E155532231E5BD1E2" size="37263" />
   <file path="Data/assistant.enc" hash="3B22562DDD0BA44BE29B7A6931164381" size="5455" />
@@ -31,7 +29,7 @@
   <file path="Data/Data.enc" hash="3B015792D84BFD293780707B7746F059" size="9847" />
   <file path="Data/destroy.enc" hash="09ED528814CBCFC2E4DF5F199CDD842D" size="83246" />
   <file path="Data/DgSetting.dat" hash="E6C46D5E13AB0E2A8AFFF20DC8428173" size="144" />
-  <file path="Data/DGTeleport.enc" hash="21D942FBEB2A530408ED2EE1E583AB60" size="1928" />
+  <file path="Data/DGTeleport.enc" hash="27E07765ECFCF647DCD52A91D7DDA45F" size="2020" />
   <file path="Data/divineupgrade.enc" hash="CC3C8C707C480E6129192BC48A4F7F11" size="5619" />
   <file path="Data/dl.enc" hash="49F66CA7B0639C36238A6E465E7D4809" size="4641" />
   <file path="Data/DropEffect.enc" hash="E9C13A419D44845643A4DD77D05F94C3" size="324" />
@@ -211,7 +209,7 @@
   <file path="Data/language/Portuguese/honor_medal_msg.enc" hash="F110A9860E615479157A486EA5448155" size="677" />
   <file path="Data/language/Portuguese/keymap_msg.enc" hash="49F8F44776D431109383242AB6EEAC13" size="2887" />
   <file path="Data/language/Portuguese/klog.enc" hash="EF953290C52962CE2C21AAFCE53A13DE" size="138" />
-  <file path="Data/language/Portuguese/language.enc" hash="AFC00AAA7EA1CA7E1AD70229B57EBE1D" size="174" />
+  <file path="Data/language/Portuguese/language.enc" hash="78FABA08C49FA9511ED42BF2D5418BBA" size="174" />
   <file path="Data/language/Portuguese/LoginUi.enc" hash="C616B2AB8172C435C8F970F6197356C4" size="593" />
   <file path="Data/language/Portuguese/meritsystem_msg.enc" hash="F9466EF6701C82E75A441383CF476B6F" size="3202" />
   <file path="Data/language/Portuguese/missionbattle_msg.enc" hash="D91ECD9363999583A7CA433C149872E0" size="386" />
