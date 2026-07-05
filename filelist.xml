@@ -5,7 +5,7 @@
   <file path="Bin/x64/dinput8.dll" hash="70FD77F1B9464BBEF0425B47B2100173" size="213504" />
   <file path="Bin/x64/GameJam.exe" hash="B1B20D8DFBDCC5016DF5F3D74EFD3343" size="2166784" />
   <file path="Bin/x64/libogg.dll" hash="FA0AB37DCFA5BE22F2C14A33A7E703F7" size="9929744" />
-  <file path="Data/ability.enc" hash="897998269E9646F79DEB7429D3ED11C8" size="8648" />
+  <file path="Data/ability.enc" hash="1B284D22724B075D8981658ADF748B65" size="8743" />
   <file path="Data/achievement.enc" hash="169524403DB64B5E155532231E5BD1E2" size="37263" />
   <file path="Data/assistant.enc" hash="3B22562DDD0BA44BE29B7A6931164381" size="5455" />
   <file path="Data/Awaken_auramode.enc" hash="D102AACB54DF97AD085F6E10BD1FDC5A" size="4043" />
@@ -200,7 +200,7 @@
   <file path="Data/language/Portuguese/craft_msg.enc" hash="4BDFD8C38807B10AC0201A5C637F69EA" size="6351" />
   <file path="Data/language/Portuguese/drop_list_msg.enc" hash="40816300A0FEB6614BD49510DA948A6C" size="5845" />
   <file path="Data/language/Portuguese/DungeonBossKill_msg.enc" hash="B88F95D72DE396E650E1128D970BE951" size="110" />
-  <file path="Data/language/Portuguese/EventPass_msg.enc" hash="A44FD43887C8EE42F66C253D35BB35B0" size="396" />
+  <file path="Data/language/Portuguese/EventPass_msg.enc" hash="8738F317ABA83E973BB57C4C7585E7AE" size="392" />
   <file path="Data/language/Portuguese/extra_obj_msg.enc" hash="17A8B03B02DD3159481058942211091E" size="2405" />
   <file path="Data/language/Portuguese/FieldBossRaid_msg.enc" hash="6AF2C87F63C540CAEF5A36D2AB7FE91C" size="778" />
   <file path="Data/language/Portuguese/forcewing_msg.enc" hash="5FA6296FFC4007950EF456B9AC453B45" size="435" />
@@ -225,9 +225,9 @@
   <file path="Data/language/Portuguese/Skill_Enhanced_msg.enc" hash="E5EA10E205DFE308AD2A20F603EFE6FD" size="1448" />
   <file path="Data/language/Portuguese/stellar_msg.enc" hash="EB229E6D7B70D381AB2B53475FC06CDB" size="372" />
   <file path="Data/language/Portuguese/tab_msg.enc" hash="B198E89806511D80BAF86570CF0777FC" size="177" />
-  <file path="Data/language/Portuguese/tip.cbl" hash="B890A7073BE35BE1328C0B63C45CD70D" size="35178" />
+  <file path="Data/language/Portuguese/tip.cbl" hash="59EDE366AB711B27D5682186C7555BE3" size="34716" />
   <file path="Data/language/Portuguese/tip.enc" hash="A7BBA7087013A9B589D66E51C7A3478B" size="2496" />
-  <file path="Data/language/Portuguese/ui.dts" hash="09FAB88A57B5C08A13F0423B8E819783" size="157704" />
+  <file path="Data/language/Portuguese/ui.dts" hash="DD193DCA7E8C4B978802D69C855CF076" size="151781" />
   <file path="Data/map/world_01.mcl" hash="C835015B27725EC8A0A2B2290AFF14C2" size="8662606" />
   <file path="Data/map/world_02.mcl" hash="6C11D4D8C01D664D37315BF3BBCED795" size="8969488" />
   <file path="Data/map/world_24.mcl" hash="E14189B54AA47076C7DA2B53091DBDC2" size="6757714" />
