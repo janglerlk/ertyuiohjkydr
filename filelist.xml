@@ -37,7 +37,7 @@
   <file path="Data/effecter.enc" hash="A9110E94B08FEE50F62C42D6CB1C0922" size="2676" />
   <file path="Data/Enchant.enc" hash="B9E1360D2F70BF1A6944C364FD8F431A" size="1722" />
   <file path="Data/EnvironmentSetting.enc" hash="470F78B364660A9FE603157B7D175D56" size="3686" />
-  <file path="Data/EventPass.enc" hash="C5B4EBBABFAAED3F035AA98DFB0D850C" size="840" />
+  <file path="Data/EventPass.enc" hash="21FD6BF31A283CBBF37127236CDA53C4" size="827" />
   <file path="Data/event_enchant.enc" hash="A0A06470CD0D10ABDFC37EB2F042633E" size="1432" />
   <file path="Data/extra_obj.enc" hash="1C58EE9490D72167D3D33F8CAC3D1FDE" size="16832" />
   <file path="Data/FieldBossRaid.enc" hash="5FBC59ECD118D06FE862C4B60363B5C5" size="388" />
@@ -201,7 +201,7 @@
   <file path="Data/language/Portuguese/drop_list_msg.enc" hash="40816300A0FEB6614BD49510DA948A6C" size="5845" />
   <file path="Data/language/Portuguese/DungeonBossKill_msg.enc" hash="B88F95D72DE396E650E1128D970BE951" size="110" />
   <file path="Data/language/Portuguese/EventPass_msg.enc" hash="8738F317ABA83E973BB57C4C7585E7AE" size="392" />
-  <file path="Data/language/Portuguese/extra_obj_msg.enc" hash="17A8B03B02DD3159481058942211091E" size="2405" />
+  <file path="Data/language/Portuguese/extra_obj_msg.enc" hash="ED32BA6B2EAA9A787233B066FF1ECB10" size="2403" />
   <file path="Data/language/Portuguese/FieldBossRaid_msg.enc" hash="6AF2C87F63C540CAEF5A36D2AB7FE91C" size="778" />
   <file path="Data/language/Portuguese/forcewing_msg.enc" hash="5FA6296FFC4007950EF456B9AC453B45" size="435" />
   <file path="Data/language/Portuguese/Heil_msg.enc" hash="593DF03124C0DD8113A628E8850DB2B5" size="216" />
