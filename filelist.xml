@@ -12,7 +12,7 @@
   <file path="Data/BattleStyleChange.enc" hash="97F83667B387FC8456C9A7C85D142D20" size="469" />
   <file path="Data/BossArena.enc" hash="03DEBBC1D31E8C65A3EF8E8E6069555A" size="625" />
   <file path="Data/boss_resistlist.enc" hash="95B75A64B51C77E30ADD59A7ED840844" size="1850" />
-  <file path="Data/cabal.enc" hash="439E8939C32CBB8C02C0C53A5DCD4F19" size="235885" />
+  <file path="Data/cabal.enc" hash="A12C9FE85625ACDD4FD968DD5FF1D2BD" size="235912" />
   <file path="Data/caz.enc" hash="5A59A9FEFB70DC180469BE0AFCD7D6CA" size="1949" />
   <file path="Data/ChallengeDungeon.enc" hash="8851AF7718FF094D7EB112F91FD52271" size="932" />
   <file path="Data/ChallengeMissionData.enc" hash="B59B771CC04B1CA6B6D8BEC96BFE5416" size="1327" />
@@ -69,7 +69,7 @@
   <file path="Data/mob.enc" hash="9456A190DAE4B0FDF609080A43C33949" size="73495" />
   <file path="Data/MobAniFXChange.enc" hash="B217CB5F9F6A912C07B8B05C3E2C6C2C" size="1248" />
   <file path="Data/Myth.enc" hash="A741F7DBCE2D00616EB1D9BE78C321C5" size="6322" />
-  <file path="Data/new_assistant.enc" hash="FA5028BE988F1078F61C81D8616E3146" size="5121" />
+  <file path="Data/new_assistant.enc" hash="B027D92C00158F7AF45E62B8C06E4032" size="5104" />
   <file path="Data/NPCShop.enc" hash="7B9B580F0B924FEE16A10DE7330CE155" size="197" />
   <file path="Data/overloadmastery.enc" hash="16FE97812988FCC2B32F09F29BCCFDA1" size="2770" />
   <file path="Data/pet.enc" hash="DBCDDC294E163B72F89E28326BBD49D5" size="1816" />
@@ -80,7 +80,7 @@
   <file path="Data/request.enc" hash="7B09FEC1262692A0925B6FA0EC2ED06E" size="11164" />
   <file path="Data/secretshop.enc" hash="53439B609A41C8B759F5F6B5151BA214" size="2740" />
   <file path="Data/seteffect.enc" hash="86F1999C98F010569AB327724B23D183" size="7589" />
-  <file path="Data/skill.enc" hash="4C85F92392DFD92DBF68D8CD8E36D65B" size="100474" />
+  <file path="Data/skill.enc" hash="0943EDB49CABB7D3120E492570C305ED" size="100683" />
   <file path="Data/Skill_Enhanced.enc" hash="17D80DFFC8C6516375B711AD2859B0C7" size="10343" />
   <file path="Data/smob.enc" hash="7D3E823F9AF13B4D8D0AC91AFB19D7AD" size="68368" />
   <file path="Data/SpecialBox.enc" hash="588C198CF988F7D8F5B1E0F505FAE03D" size="1307" />
