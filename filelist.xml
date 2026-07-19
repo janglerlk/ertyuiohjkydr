@@ -69,7 +69,7 @@
   <file path="Data/mob.enc" hash="9456A190DAE4B0FDF609080A43C33949" size="73495" />
   <file path="Data/MobAniFXChange.enc" hash="B217CB5F9F6A912C07B8B05C3E2C6C2C" size="1248" />
   <file path="Data/Myth.enc" hash="A741F7DBCE2D00616EB1D9BE78C321C5" size="6322" />
-  <file path="Data/new_assistant.enc" hash="B027D92C00158F7AF45E62B8C06E4032" size="5104" />
+  <file path="Data/new_assistant.enc" hash="4ADEF831FF6F8FC7DC465ACE8E7D0090" size="5124" />
   <file path="Data/NPCShop.enc" hash="7B9B580F0B924FEE16A10DE7330CE155" size="197" />
   <file path="Data/overloadmastery.enc" hash="16FE97812988FCC2B32F09F29BCCFDA1" size="2770" />
   <file path="Data/pet.enc" hash="DBCDDC294E163B72F89E28326BBD49D5" size="1816" />
@@ -225,9 +225,9 @@
   <file path="Data/language/Portuguese/Skill_Enhanced_msg.enc" hash="E5EA10E205DFE308AD2A20F603EFE6FD" size="1448" />
   <file path="Data/language/Portuguese/stellar_msg.enc" hash="EB229E6D7B70D381AB2B53475FC06CDB" size="372" />
   <file path="Data/language/Portuguese/tab_msg.enc" hash="B198E89806511D80BAF86570CF0777FC" size="177" />
-  <file path="Data/language/Portuguese/tip.cbl" hash="59EDE366AB711B27D5682186C7555BE3" size="34716" />
+  <file path="Data/language/Portuguese/tip.cbl" hash="B890A7073BE35BE1328C0B63C45CD70D" size="35178" />
   <file path="Data/language/Portuguese/tip.enc" hash="A7BBA7087013A9B589D66E51C7A3478B" size="2496" />
-  <file path="Data/language/Portuguese/ui.dts" hash="DD193DCA7E8C4B978802D69C855CF076" size="151781" />
+  <file path="Data/language/Portuguese/ui.dts" hash="09FAB88A57B5C08A13F0423B8E819783" size="157704" />
   <file path="Data/map/world_01.mcl" hash="C835015B27725EC8A0A2B2290AFF14C2" size="8662606" />
   <file path="Data/map/world_02.mcl" hash="6C11D4D8C01D664D37315BF3BBCED795" size="8969488" />
   <file path="Data/map/world_24.mcl" hash="E14189B54AA47076C7DA2B53091DBDC2" size="6757714" />
