@@ -70,7 +70,7 @@
   <file path="Data/MobAniFXChange.enc" hash="B217CB5F9F6A912C07B8B05C3E2C6C2C" size="1248" />
   <file path="Data/Myth.enc" hash="A741F7DBCE2D00616EB1D9BE78C321C5" size="6322" />
   <file path="Data/new_assistant.enc" hash="B027D92C00158F7AF45E62B8C06E4032" size="5104" />
-  <file path="Data/NPCShop.enc" hash="7B9B580F0B924FEE16A10DE7330CE155" size="197" />
+  <file path="Data/NPCShop.enc" hash="FBA80FB3A2658CAFB58AD82F24B0F586" size="212" />
   <file path="Data/overloadmastery.enc" hash="16FE97812988FCC2B32F09F29BCCFDA1" size="2770" />
   <file path="Data/pet.enc" hash="DBCDDC294E163B72F89E28326BBD49D5" size="1816" />
   <file path="Data/pvpbattle.enc" hash="E1EFED22A8183707F12941522F6C98AC" size="30111" />
@@ -216,7 +216,7 @@
   <file path="Data/language/Portuguese/MissionFestival_msg.enc" hash="AB796E3136539E8F08ADA158EFB267BC" size="1691" />
   <file path="Data/language/Portuguese/msg.enc" hash="42BA7E8F916216C0C00E2A1F2612C6C0" size="96611" />
   <file path="Data/language/Portuguese/Myth_msg.enc" hash="DE8167E577CF02129DA5CD15B882CB49" size="174" />
-  <file path="Data/language/Portuguese/npcshop_msg.enc" hash="03F12CCE583439EE87324839E3225925" size="857" />
+  <file path="Data/language/Portuguese/npcshop_msg.enc" hash="5A70C467BF1438CCCC71FDFAA3400519" size="835" />
   <file path="Data/language/Portuguese/overloadmastery_msg.enc" hash="12A6F22DB422D2EB6895BE552DFCAAD0" size="585" />
   <file path="Data/language/Portuguese/pvpbattle_msg.enc" hash="565B212FD2EDF062082E8050EBACE5BF" size="299" />
   <file path="Data/language/Portuguese/script.enc" hash="ADD0FCDF2F27DE68E1CCA473BC095FC1" size="239378" />
