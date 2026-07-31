@@ -12,7 +12,7 @@
   <file path="Data/BattleStyleChange.enc" hash="97F83667B387FC8456C9A7C85D142D20" size="469" />
   <file path="Data/BossArena.enc" hash="03DEBBC1D31E8C65A3EF8E8E6069555A" size="625" />
   <file path="Data/boss_resistlist.enc" hash="95B75A64B51C77E30ADD59A7ED840844" size="1850" />
-  <file path="Data/cabal.enc" hash="A12C9FE85625ACDD4FD968DD5FF1D2BD" size="235912" />
+  <file path="Data/cabal.enc" hash="6ABF708DDCF6440620EBD675AB7CBA5C" size="235989" />
   <file path="Data/caz.enc" hash="5A59A9FEFB70DC180469BE0AFCD7D6CA" size="1949" />
   <file path="Data/ChallengeDungeon.enc" hash="8851AF7718FF094D7EB112F91FD52271" size="932" />
   <file path="Data/ChallengeMissionData.enc" hash="B59B771CC04B1CA6B6D8BEC96BFE5416" size="1327" />
@@ -39,7 +39,7 @@
   <file path="Data/EnvironmentSetting.enc" hash="470F78B364660A9FE603157B7D175D56" size="3686" />
   <file path="Data/EventPass.enc" hash="56089F50FB571B0EF4D6591452FBE0A4" size="829" />
   <file path="Data/event_enchant.enc" hash="A0A06470CD0D10ABDFC37EB2F042633E" size="1432" />
-  <file path="Data/extra_obj.enc" hash="1C58EE9490D72167D3D33F8CAC3D1FDE" size="16832" />
+  <file path="Data/extra_obj.enc" hash="267B5DD7884FC94423138C28E8DDB38B" size="16898" />
   <file path="Data/FieldBossRaid.enc" hash="5FBC59ECD118D06FE862C4B60363B5C5" size="388" />
   <file path="Data/fieldwar.enc" hash="5C2442C0E6D80ADA9F35B035BBEC84A5" size="200" />
   <file path="Data/forcecore_option.enc" hash="34416BE77EB5180C66E1F084F80E9D97" size="35605" />
@@ -190,7 +190,7 @@
   <file path="Data/language/Portuguese/Awaken_auramode_msg.enc" hash="E48C71DCD0F23096EC7C7A9D01B5F598" size="675" />
   <file path="Data/language/Portuguese/balloon_msg.enc" hash="78552DEDA3C008732995A1B008C91317" size="5020" />
   <file path="Data/language/Portuguese/bossarena_msg.enc" hash="7421F15E5F5A099C0DA360E0EAF806E3" size="171" />
-  <file path="Data/language/Portuguese/cabal_msg.enc" hash="979925FFE69A68C306EAA915BFE8C400" size="643761" />
+  <file path="Data/language/Portuguese/cabal_msg.enc" hash="726E74169DD86CBDEE6C73962C276885" size="643820" />
   <file path="Data/language/Portuguese/caz_msg.enc" hash="EE6DC0D1551FC9D2AC2BC65ABBB7FCE9" size="2302" />
   <file path="Data/language/Portuguese/ChallengeMissionMsg.enc" hash="F8FA11DD4C2BA0BA2BF2CFA9D70BDAFD" size="240" />
   <file path="Data/language/Portuguese/Collection_msg.enc" hash="A9D261A78794A4AFAF0F9FF8C402D5EE" size="22622" />
@@ -219,15 +219,15 @@
   <file path="Data/language/Portuguese/npcshop_msg.enc" hash="5A70C467BF1438CCCC71FDFAA3400519" size="835" />
   <file path="Data/language/Portuguese/overloadmastery_msg.enc" hash="12A6F22DB422D2EB6895BE552DFCAAD0" size="585" />
   <file path="Data/language/Portuguese/pvpbattle_msg.enc" hash="565B212FD2EDF062082E8050EBACE5BF" size="299" />
-  <file path="Data/language/Portuguese/script.enc" hash="ADD0FCDF2F27DE68E1CCA473BC095FC1" size="239378" />
-  <file path="Data/language/Portuguese/script_msg.enc" hash="935154B193EDD8CA96E28F0DF68164C9" size="717238" />
+  <file path="Data/language/Portuguese/script.enc" hash="9C85CC8E980985991403EA99EAF2A6F0" size="239431" />
+  <file path="Data/language/Portuguese/script_msg.enc" hash="9E3100DD22411DF59893738D1316191C" size="717251" />
   <file path="Data/language/Portuguese/seteffect_msg.enc" hash="D7536CA36C3D0DF26FC16A0FB2191C10" size="885" />
   <file path="Data/language/Portuguese/Skill_Enhanced_msg.enc" hash="E5EA10E205DFE308AD2A20F603EFE6FD" size="1448" />
   <file path="Data/language/Portuguese/stellar_msg.enc" hash="EB229E6D7B70D381AB2B53475FC06CDB" size="372" />
   <file path="Data/language/Portuguese/tab_msg.enc" hash="B198E89806511D80BAF86570CF0777FC" size="177" />
-  <file path="Data/language/Portuguese/tip.cbl" hash="59EDE366AB711B27D5682186C7555BE3" size="34716" />
+  <file path="Data/language/Portuguese/tip.cbl" hash="B890A7073BE35BE1328C0B63C45CD70D" size="35178" />
   <file path="Data/language/Portuguese/tip.enc" hash="A7BBA7087013A9B589D66E51C7A3478B" size="2496" />
-  <file path="Data/language/Portuguese/ui.dts" hash="DD193DCA7E8C4B978802D69C855CF076" size="151781" />
+  <file path="Data/language/Portuguese/ui.dts" hash="09FAB88A57B5C08A13F0423B8E819783" size="157704" />
   <file path="Data/map/world_01.mcl" hash="C835015B27725EC8A0A2B2290AFF14C2" size="8662606" />
   <file path="Data/map/world_02.mcl" hash="6C11D4D8C01D664D37315BF3BBCED795" size="8969488" />
   <file path="Data/map/world_24.mcl" hash="E14189B54AA47076C7DA2B53091DBDC2" size="6757714" />
