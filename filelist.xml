@@ -209,7 +209,7 @@
   <file path="Data/language/Portuguese/honor_medal_msg.enc" hash="F110A9860E615479157A486EA5448155" size="677" />
   <file path="Data/language/Portuguese/keymap_msg.enc" hash="49F8F44776D431109383242AB6EEAC13" size="2887" />
   <file path="Data/language/Portuguese/klog.enc" hash="EF953290C52962CE2C21AAFCE53A13DE" size="138" />
-  <file path="Data/language/Portuguese/language.enc" hash="D6F93BB645F87CFEF6B64F3E70E52FE1" size="174" />
+  <file path="Data/language/Portuguese/language.enc" hash="543C3DE736A60EBE9074749A8B76C9B3" size="175" />
   <file path="Data/language/Portuguese/LoginUi.enc" hash="C616B2AB8172C435C8F970F6197356C4" size="593" />
   <file path="Data/language/Portuguese/meritsystem_msg.enc" hash="F9466EF6701C82E75A441383CF476B6F" size="3202" />
   <file path="Data/language/Portuguese/missionbattle_msg.enc" hash="D91ECD9363999583A7CA433C149872E0" size="386" />
@@ -225,9 +225,9 @@
   <file path="Data/language/Portuguese/Skill_Enhanced_msg.enc" hash="E5EA10E205DFE308AD2A20F603EFE6FD" size="1448" />
   <file path="Data/language/Portuguese/stellar_msg.enc" hash="EB229E6D7B70D381AB2B53475FC06CDB" size="372" />
   <file path="Data/language/Portuguese/tab_msg.enc" hash="B198E89806511D80BAF86570CF0777FC" size="177" />
-  <file path="Data/language/Portuguese/tip.cbl" hash="59EDE366AB711B27D5682186C7555BE3" size="34716" />
+  <file path="Data/language/Portuguese/tip.cbl" hash="B890A7073BE35BE1328C0B63C45CD70D" size="35178" />
   <file path="Data/language/Portuguese/tip.enc" hash="A7BBA7087013A9B589D66E51C7A3478B" size="2496" />
-  <file path="Data/language/Portuguese/ui.dts" hash="DD193DCA7E8C4B978802D69C855CF076" size="151781" />
+  <file path="Data/language/Portuguese/ui.dts" hash="09FAB88A57B5C08A13F0423B8E819783" size="157704" />
   <file path="Data/map/world_01.mcl" hash="C835015B27725EC8A0A2B2290AFF14C2" size="8662606" />
   <file path="Data/map/world_02.mcl" hash="6C11D4D8C01D664D37315BF3BBCED795" size="8969488" />
   <file path="Data/map/world_24.mcl" hash="E14189B54AA47076C7DA2B53091DBDC2" size="6757714" />
