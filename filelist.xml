@@ -20,7 +20,7 @@
   <file path="Data/chaos_upgrade.enc" hash="CDC9CCDD309761D74B1ECD98FA6F3064" size="6006" />
   <file path="Data/chat_balloon.enc" hash="8AB7AD1E5366BAA0CCA2D1DC12D3AEF1" size="4919" />
   <file path="Data/checkAB.enc" hash="68B24AAB04974E4101CE58DA116513AB" size="1019" />
-  <file path="Data/Collection.enc" hash="C8BF3B18CBD9EA6B9A66BD3785C15333" size="34061" />
+  <file path="Data/Collection.enc" hash="A572AEC35ED62A7B662E7C43D1F19E67" size="34114" />
   <file path="Data/cont.enc" hash="9B833C4D070E805E22DD1B2FE6BACC12" size="33178" />
   <file path="Data/cont2.enc" hash="55FAEF0FF8037C6069C6141081305FDC" size="8190" />
   <file path="Data/cont3.enc" hash="4A0DDB877ED3236164C64CA3238A094A" size="3091" />
@@ -80,7 +80,7 @@
   <file path="Data/request.enc" hash="75B2FD18B134B0930E984477794B5152" size="11170" />
   <file path="Data/secretshop.enc" hash="53439B609A41C8B759F5F6B5151BA214" size="2740" />
   <file path="Data/seteffect.enc" hash="86F1999C98F010569AB327724B23D183" size="7589" />
-  <file path="Data/skill.enc" hash="7D2E59F61F901277BFFCAFB866EC4815" size="100710" />
+  <file path="Data/skill.enc" hash="DD8B704C3F4DC436A241A93716A4FEAC" size="100712" />
   <file path="Data/Skill_Enhanced.enc" hash="17D80DFFC8C6516375B711AD2859B0C7" size="10343" />
   <file path="Data/smob.enc" hash="7D3E823F9AF13B4D8D0AC91AFB19D7AD" size="68368" />
   <file path="Data/SpecialBox.enc" hash="588C198CF988F7D8F5B1E0F505FAE03D" size="1307" />
@@ -193,7 +193,7 @@
   <file path="Data/language/Portuguese/cabal_msg.enc" hash="9B417234B74A6187CE1915457C95BB39" size="643859" />
   <file path="Data/language/Portuguese/caz_msg.enc" hash="EE6DC0D1551FC9D2AC2BC65ABBB7FCE9" size="2302" />
   <file path="Data/language/Portuguese/ChallengeMissionMsg.enc" hash="F8FA11DD4C2BA0BA2BF2CFA9D70BDAFD" size="240" />
-  <file path="Data/language/Portuguese/Collection_msg.enc" hash="6351094D57C606FAEFE8209840F3D383" size="22653" />
+  <file path="Data/language/Portuguese/Collection_msg.enc" hash="E937D8DEF106DD8893AB8E0F454E44EF" size="22641" />
   <file path="Data/language/Portuguese/cont2_msg.enc" hash="7C324C32F897F34EA4FBD380F459179C" size="14024" />
   <file path="Data/language/Portuguese/cont3_msg.enc" hash="6DB2A9ECB09F96E0A4CDDB0DDBBB8AF2" size="3548" />
   <file path="Data/language/Portuguese/cont_msg.enc" hash="BFF7C8A5C02FA5B958B889EC797C04E5" size="16771" />
