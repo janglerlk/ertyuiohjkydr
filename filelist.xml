@@ -12,7 +12,7 @@
   <file path="Data/BattleStyleChange.enc" hash="97F83667B387FC8456C9A7C85D142D20" size="469" />
   <file path="Data/BossArena.enc" hash="03DEBBC1D31E8C65A3EF8E8E6069555A" size="625" />
   <file path="Data/boss_resistlist.enc" hash="95B75A64B51C77E30ADD59A7ED840844" size="1850" />
-  <file path="Data/cabal.enc" hash="996220CC69A44A43FDFC0DF05A44A59D" size="236104" />
+  <file path="Data/cabal.enc" hash="B0F2437B92BE35280368174E7D1D1688" size="236171" />
   <file path="Data/caz.enc" hash="5A59A9FEFB70DC180469BE0AFCD7D6CA" size="1949" />
   <file path="Data/ChallengeDungeon.enc" hash="8851AF7718FF094D7EB112F91FD52271" size="932" />
   <file path="Data/ChallengeMissionData.enc" hash="B59B771CC04B1CA6B6D8BEC96BFE5416" size="1327" />
@@ -21,7 +21,7 @@
   <file path="Data/chat_balloon.enc" hash="8AB7AD1E5366BAA0CCA2D1DC12D3AEF1" size="4919" />
   <file path="Data/checkAB.enc" hash="68B24AAB04974E4101CE58DA116513AB" size="1019" />
   <file path="Data/Collection.enc" hash="E418C4094FA2B8431F44B9A6D860954E" size="34114" />
-  <file path="Data/cont.enc" hash="9B833C4D070E805E22DD1B2FE6BACC12" size="33178" />
+  <file path="Data/cont.enc" hash="6FB1BD67906AECCD0CE1F9ED51A1EDF8" size="33183" />
   <file path="Data/cont2.enc" hash="55FAEF0FF8037C6069C6141081305FDC" size="8190" />
   <file path="Data/cont3.enc" hash="4A0DDB877ED3236164C64CA3238A094A" size="3091" />
   <file path="Data/craft.enc" hash="71E030C1C524EBC4616F74C0405CA958" size="59485" />
@@ -29,7 +29,7 @@
   <file path="Data/Data.enc" hash="3B015792D84BFD293780707B7746F059" size="9847" />
   <file path="Data/destroy.enc" hash="09ED528814CBCFC2E4DF5F199CDD842D" size="83246" />
   <file path="Data/DgSetting.dat" hash="E6C46D5E13AB0E2A8AFFF20DC8428173" size="144" />
-  <file path="Data/DGTeleport.enc" hash="27E07765ECFCF647DCD52A91D7DDA45F" size="2020" />
+  <file path="Data/DGTeleport.enc" hash="6043A2C4B293D7FE0ECA6F14CF37E415" size="2027" />
   <file path="Data/divineupgrade.enc" hash="CC3C8C707C480E6129192BC48A4F7F11" size="5619" />
   <file path="Data/dl.enc" hash="49F66CA7B0639C36238A6E465E7D4809" size="4641" />
   <file path="Data/DropEffect.enc" hash="E9C13A419D44845643A4DD77D05F94C3" size="324" />
@@ -39,7 +39,7 @@
   <file path="Data/EnvironmentSetting.enc" hash="470F78B364660A9FE603157B7D175D56" size="3686" />
   <file path="Data/EventPass.enc" hash="CE46970B82FF71C027C7FF27BE646DA4" size="838" />
   <file path="Data/event_enchant.enc" hash="A0A06470CD0D10ABDFC37EB2F042633E" size="1432" />
-  <file path="Data/extra_obj.enc" hash="197A635FD30FD23DC7AA37BBEAD7C2EE" size="16977" />
+  <file path="Data/extra_obj.enc" hash="C79D7486F8F4C0C52731998289832E21" size="16668" />
   <file path="Data/FieldBossRaid.enc" hash="5FBC59ECD118D06FE862C4B60363B5C5" size="388" />
   <file path="Data/fieldwar.enc" hash="5C2442C0E6D80ADA9F35B035BBEC84A5" size="200" />
   <file path="Data/forcecore_option.enc" hash="34416BE77EB5180C66E1F084F80E9D97" size="35605" />
@@ -52,7 +52,7 @@
   <file path="Data/Heil_Exchange.enc" hash="BADE9BC662AE66712C816EF6E6E4A5CE" size="788" />
   <file path="Data/honor_medal.enc" hash="FA5325A9A64F56A1EE76305C321A30EA" size="2245" />
   <file path="Data/InventorySlot.enc" hash="4DB090C38F085BE1C32B5FDD6BFD1177" size="6022" />
-  <file path="Data/item.enc" hash="831EFE7933FE0DA35F965A10EB98023B" size="120330" />
+  <file path="Data/item.enc" hash="5C707BD4B47F162BC820CF38C3D6BCFD" size="120340" />
   <file path="Data/item2.enc" hash="791436C4B6A816135930528DFC86AB0A" size="121788" />
   <file path="Data/item3.enc" hash="B51AC75EBBF5F4C8F2C95ECF2DF57A67" size="98" />
   <file path="Data/item4.enc" hash="F869C0A662B38FC8D28E2580777FE131" size="98" />
@@ -66,7 +66,7 @@
   <file path="Data/meister.enc" hash="9D48F40341A4D324FF1A1E07B4711AA7" size="4643" />
   <file path="Data/meritsystem.enc" hash="A464B2593F33DA8BB5C4510E62CB8046" size="19392" />
   <file path="Data/missionbattle.enc" hash="826EE0CE576B7047DCB9500E0CABEB8C" size="30373" />
-  <file path="Data/mob.enc" hash="9456A190DAE4B0FDF609080A43C33949" size="73495" />
+  <file path="Data/mob.enc" hash="19E12621E494D3FD63C30424F0A2DDF5" size="73356" />
   <file path="Data/MobAniFXChange.enc" hash="B217CB5F9F6A912C07B8B05C3E2C6C2C" size="1248" />
   <file path="Data/Myth.enc" hash="A741F7DBCE2D00616EB1D9BE78C321C5" size="6322" />
   <file path="Data/new_assistant.enc" hash="4ADEF831FF6F8FC7DC465ACE8E7D0090" size="5124" />
@@ -190,18 +190,18 @@
   <file path="Data/language/Portuguese/Awaken_auramode_msg.enc" hash="E48C71DCD0F23096EC7C7A9D01B5F598" size="675" />
   <file path="Data/language/Portuguese/balloon_msg.enc" hash="78552DEDA3C008732995A1B008C91317" size="5020" />
   <file path="Data/language/Portuguese/bossarena_msg.enc" hash="7421F15E5F5A099C0DA360E0EAF806E3" size="171" />
-  <file path="Data/language/Portuguese/cabal_msg.enc" hash="9B417234B74A6187CE1915457C95BB39" size="643859" />
+  <file path="Data/language/Portuguese/cabal_msg.enc" hash="7DA15F36F47E92F205F3DFC6EBB66221" size="643957" />
   <file path="Data/language/Portuguese/caz_msg.enc" hash="EE6DC0D1551FC9D2AC2BC65ABBB7FCE9" size="2302" />
   <file path="Data/language/Portuguese/ChallengeMissionMsg.enc" hash="F8FA11DD4C2BA0BA2BF2CFA9D70BDAFD" size="240" />
   <file path="Data/language/Portuguese/Collection_msg.enc" hash="E937D8DEF106DD8893AB8E0F454E44EF" size="22641" />
   <file path="Data/language/Portuguese/cont2_msg.enc" hash="7C324C32F897F34EA4FBD380F459179C" size="14024" />
   <file path="Data/language/Portuguese/cont3_msg.enc" hash="6DB2A9ECB09F96E0A4CDDB0DDBBB8AF2" size="3548" />
-  <file path="Data/language/Portuguese/cont_msg.enc" hash="BFF7C8A5C02FA5B958B889EC797C04E5" size="16771" />
+  <file path="Data/language/Portuguese/cont_msg.enc" hash="0C27FB62C3E2499A04D1C74042B7B9AF" size="16781" />
   <file path="Data/language/Portuguese/craft_msg.enc" hash="4BDFD8C38807B10AC0201A5C637F69EA" size="6351" />
-  <file path="Data/language/Portuguese/drop_list_msg.enc" hash="40816300A0FEB6614BD49510DA948A6C" size="5845" />
+  <file path="Data/language/Portuguese/drop_list_msg.enc" hash="34FB38619A8DA89831E9AFA0627B4EB8" size="6197" />
   <file path="Data/language/Portuguese/DungeonBossKill_msg.enc" hash="B88F95D72DE396E650E1128D970BE951" size="110" />
   <file path="Data/language/Portuguese/EventPass_msg.enc" hash="8738F317ABA83E973BB57C4C7585E7AE" size="392" />
-  <file path="Data/language/Portuguese/extra_obj_msg.enc" hash="FBA752D10C8B82627E2BEFABC83C6E84" size="2407" />
+  <file path="Data/language/Portuguese/extra_obj_msg.enc" hash="8D07E9D2887AC6ED13565150C0FB98C0" size="2430" />
   <file path="Data/language/Portuguese/FieldBossRaid_msg.enc" hash="6AF2C87F63C540CAEF5A36D2AB7FE91C" size="778" />
   <file path="Data/language/Portuguese/forcewing_msg.enc" hash="5FA6296FFC4007950EF456B9AC453B45" size="435" />
   <file path="Data/language/Portuguese/Heil_msg.enc" hash="593DF03124C0DD8113A628E8850DB2B5" size="216" />
@@ -228,7 +228,7 @@
   <file path="Data/language/Portuguese/tip.cbl" hash="59EDE366AB711B27D5682186C7555BE3" size="34716" />
   <file path="Data/language/Portuguese/tip.enc" hash="A7BBA7087013A9B589D66E51C7A3478B" size="2496" />
   <file path="Data/language/Portuguese/ui.dts" hash="DD193DCA7E8C4B978802D69C855CF076" size="151781" />
-  <file path="Data/map/world_01.mcl" hash="C835015B27725EC8A0A2B2290AFF14C2" size="8662606" />
+  <file path="Data/map/world_01.mcl" hash="D028BA2D9E7C2AB108CE385C579127B0" size="9153742" />
   <file path="Data/map/world_02.mcl" hash="6C11D4D8C01D664D37315BF3BBCED795" size="8969488" />
   <file path="Data/map/world_24.mcl" hash="E14189B54AA47076C7DA2B53091DBDC2" size="6757714" />
   <file path="Data/Sound/B3combo_setting_N_on.ogg" hash="7F1DB968B856AD6E4B9E26B845D3217F" size="61332" />
