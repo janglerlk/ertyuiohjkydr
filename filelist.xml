@@ -12,7 +12,7 @@
   <file path="Data/BattleStyleChange.enc" hash="97F83667B387FC8456C9A7C85D142D20" size="469" />
   <file path="Data/BossArena.enc" hash="03DEBBC1D31E8C65A3EF8E8E6069555A" size="625" />
   <file path="Data/boss_resistlist.enc" hash="95B75A64B51C77E30ADD59A7ED840844" size="1850" />
-  <file path="Data/cabal.enc" hash="B0F2437B92BE35280368174E7D1D1688" size="236171" />
+  <file path="Data/cabal.enc" hash="A6584E9357AB1E78E289D7412036DB36" size="222696" />
   <file path="Data/caz.enc" hash="5A59A9FEFB70DC180469BE0AFCD7D6CA" size="1949" />
   <file path="Data/ChallengeDungeon.enc" hash="8851AF7718FF094D7EB112F91FD52271" size="932" />
   <file path="Data/ChallengeMissionData.enc" hash="B59B771CC04B1CA6B6D8BEC96BFE5416" size="1327" />
@@ -23,7 +23,7 @@
   <file path="Data/Collection.enc" hash="E418C4094FA2B8431F44B9A6D860954E" size="34114" />
   <file path="Data/cont.enc" hash="D8702D0C2AAB93B08FB42B41EFA18CFA" size="32747" />
   <file path="Data/cont2.enc" hash="55FAEF0FF8037C6069C6141081305FDC" size="8190" />
-  <file path="Data/cont3.enc" hash="4A0DDB877ED3236164C64CA3238A094A" size="3091" />
+  <file path="Data/cont3.enc" hash="114F43E130641BFEC41062025C380D64" size="3173" />
   <file path="Data/craft.enc" hash="71E030C1C524EBC4616F74C0405CA958" size="59485" />
   <file path="Data/custom.enc" hash="0840FE2B3163C9D49B4BCAD1F0C562EF" size="2184" />
   <file path="Data/Data.enc" hash="3B015792D84BFD293780707B7746F059" size="9847" />
@@ -33,7 +33,7 @@
   <file path="Data/divineupgrade.enc" hash="CC3C8C707C480E6129192BC48A4F7F11" size="5619" />
   <file path="Data/dl.enc" hash="49F66CA7B0639C36238A6E465E7D4809" size="4641" />
   <file path="Data/DropEffect.enc" hash="E9C13A419D44845643A4DD77D05F94C3" size="324" />
-  <file path="Data/dungeon_timelimit.enc" hash="3189033F962DCEDAFC932F7635570F3E" size="683" />
+  <file path="Data/dungeon_timelimit.enc" hash="CC687238FC6585718C3F15F74B0DEB6A" size="657" />
   <file path="Data/effecter.enc" hash="A9110E94B08FEE50F62C42D6CB1C0922" size="2676" />
   <file path="Data/Enchant.enc" hash="B9E1360D2F70BF1A6944C364FD8F431A" size="1722" />
   <file path="Data/EnvironmentSetting.enc" hash="470F78B364660A9FE603157B7D175D56" size="3686" />
@@ -43,7 +43,7 @@
   <file path="Data/FieldBossRaid.enc" hash="5FBC59ECD118D06FE862C4B60363B5C5" size="388" />
   <file path="Data/fieldwar.enc" hash="5C2442C0E6D80ADA9F35B035BBEC84A5" size="200" />
   <file path="Data/forcecore_option.enc" hash="34416BE77EB5180C66E1F084F80E9D97" size="35605" />
-  <file path="Data/ForceWing.enc" hash="5A4879B0447E6B96287DC5B948D605F2" size="10460" />
+  <file path="Data/ForceWing.enc" hash="5798E0FF9AA5439ED2F41B06F5C9C1C7" size="10468" />
   <file path="Data/fxdata.enc" hash="D93002B3E116A48D5608DF709077EADC" size="1523" />
   <file path="Data/global.enc" hash="0BB1CCF071692D6B583B38D770E17CB5" size="43099" />
   <file path="Data/guide.enc" hash="1E473023E9B69E17139522DDA3DF6ADE" size="913" />
@@ -60,13 +60,13 @@
   <file path="Data/keymap.enc" hash="6E5FF52D3F1D0B8056432FF27206D830" size="3131" />
   <file path="Data/limit_upgrade.enc" hash="2A1FD2685C17329BD2C90A85BAC07C50" size="2044" />
   <file path="Data/logo.enc" hash="FF1BF9BF11AEFDE93FF2416E90AE874E" size="155" />
-  <file path="Data/mapinfo.enc" hash="1A6272AC04C9D291D94880BC7F61EE71" size="4817" />
+  <file path="Data/mapinfo.enc" hash="E21CF09CA7EFE8DACA551F889118EB40" size="4760" />
   <file path="Data/market.enc" hash="2DE0D6F6F3F8B2A46432639AA36C89F3" size="46960" />
   <file path="Data/maze.enc" hash="796704D46707828073EEF0BB93C9C26E" size="216" />
   <file path="Data/meister.enc" hash="9D48F40341A4D324FF1A1E07B4711AA7" size="4643" />
   <file path="Data/meritsystem.enc" hash="A464B2593F33DA8BB5C4510E62CB8046" size="19392" />
   <file path="Data/missionbattle.enc" hash="826EE0CE576B7047DCB9500E0CABEB8C" size="30373" />
-  <file path="Data/mob.enc" hash="6D9C8B8A330E064CE3747801EF28F22F" size="73307" />
+  <file path="Data/mob.enc" hash="448B916B63D7608972DDE63233746F30" size="68660" />
   <file path="Data/MobAniFXChange.enc" hash="B217CB5F9F6A912C07B8B05C3E2C6C2C" size="1248" />
   <file path="Data/Myth.enc" hash="A741F7DBCE2D00616EB1D9BE78C321C5" size="6322" />
   <file path="Data/new_assistant.enc" hash="4ADEF831FF6F8FC7DC465ACE8E7D0090" size="5124" />
@@ -82,7 +82,7 @@
   <file path="Data/seteffect.enc" hash="86F1999C98F010569AB327724B23D183" size="7589" />
   <file path="Data/skill.enc" hash="DD8B704C3F4DC436A241A93716A4FEAC" size="100712" />
   <file path="Data/Skill_Enhanced.enc" hash="D635754B270727AB3BD50E0AD922E3AA" size="10346" />
-  <file path="Data/smob.enc" hash="7D3E823F9AF13B4D8D0AC91AFB19D7AD" size="68368" />
+  <file path="Data/smob.enc" hash="8E5E5FC72F3C8E9C9F8B5E3F65137930" size="62299" />
   <file path="Data/SpecialBox.enc" hash="588C198CF988F7D8F5B1E0F505FAE03D" size="1307" />
   <file path="Data/stellar.enc" hash="AD80B2869C67FC26498C96ED83C75624" size="845" />
   <file path="Data/Tip.enc" hash="722C699FEE8A2FD0DF254E2D4302CFEF" size="2495" />
@@ -190,12 +190,12 @@
   <file path="Data/language/Portuguese/Awaken_auramode_msg.enc" hash="E48C71DCD0F23096EC7C7A9D01B5F598" size="675" />
   <file path="Data/language/Portuguese/balloon_msg.enc" hash="78552DEDA3C008732995A1B008C91317" size="5020" />
   <file path="Data/language/Portuguese/bossarena_msg.enc" hash="7421F15E5F5A099C0DA360E0EAF806E3" size="171" />
-  <file path="Data/language/Portuguese/cabal_msg.enc" hash="0D1354AAF427350E41EA7441E643CCF9" size="644074" />
+  <file path="Data/language/Portuguese/cabal_msg.enc" hash="EFE9F232F633945FE08A00318279CB58" size="625940" />
   <file path="Data/language/Portuguese/caz_msg.enc" hash="EE6DC0D1551FC9D2AC2BC65ABBB7FCE9" size="2302" />
   <file path="Data/language/Portuguese/ChallengeMissionMsg.enc" hash="F8FA11DD4C2BA0BA2BF2CFA9D70BDAFD" size="240" />
   <file path="Data/language/Portuguese/Collection_msg.enc" hash="E937D8DEF106DD8893AB8E0F454E44EF" size="22641" />
   <file path="Data/language/Portuguese/cont2_msg.enc" hash="7C324C32F897F34EA4FBD380F459179C" size="14024" />
-  <file path="Data/language/Portuguese/cont3_msg.enc" hash="6DB2A9ECB09F96E0A4CDDB0DDBBB8AF2" size="3548" />
+  <file path="Data/language/Portuguese/cont3_msg.enc" hash="4FB3647D3656A7E34DF0CE477660DA14" size="3940" />
   <file path="Data/language/Portuguese/cont_msg.enc" hash="0C27FB62C3E2499A04D1C74042B7B9AF" size="16781" />
   <file path="Data/language/Portuguese/craft_msg.enc" hash="4BDFD8C38807B10AC0201A5C637F69EA" size="6351" />
   <file path="Data/language/Portuguese/drop_list_msg.enc" hash="34FB38619A8DA89831E9AFA0627B4EB8" size="6197" />
@@ -219,8 +219,8 @@
   <file path="Data/language/Portuguese/npcshop_msg.enc" hash="5A70C467BF1438CCCC71FDFAA3400519" size="835" />
   <file path="Data/language/Portuguese/overloadmastery_msg.enc" hash="12A6F22DB422D2EB6895BE552DFCAAD0" size="585" />
   <file path="Data/language/Portuguese/pvpbattle_msg.enc" hash="565B212FD2EDF062082E8050EBACE5BF" size="299" />
-  <file path="Data/language/Portuguese/script.enc" hash="FE9A58AA06D5C449648305E845787925" size="239530" />
-  <file path="Data/language/Portuguese/script_msg.enc" hash="A93FE03BCC19D2FFACFD89D45D6B1153" size="717281" />
+  <file path="Data/language/Portuguese/script.enc" hash="48FE07C32B8F9ECCA87FE36EB4218AA2" size="220995" />
+  <file path="Data/language/Portuguese/script_msg.enc" hash="7C9A7F96BBDDBCD2A0457C035CB1CBF1" size="701859" />
   <file path="Data/language/Portuguese/seteffect_msg.enc" hash="D7536CA36C3D0DF26FC16A0FB2191C10" size="885" />
   <file path="Data/language/Portuguese/Skill_Enhanced_msg.enc" hash="E5EA10E205DFE308AD2A20F603EFE6FD" size="1448" />
   <file path="Data/language/Portuguese/stellar_msg.enc" hash="EB229E6D7B70D381AB2B53475FC06CDB" size="372" />
