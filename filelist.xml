@@ -13,7 +13,6 @@
   <file path="Data/BossArena.enc" hash="03DEBBC1D31E8C65A3EF8E8E6069555A" size="625" />
   <file path="Data/boss_resistlist.enc" hash="95B75A64B51C77E30ADD59A7ED840844" size="1850" />
   <file path="Data/cabal.enc" hash="A6584E9357AB1E78E289D7412036DB36" size="222696" />
-  <file path="Data/cabal_msg.enc" hash="0328434798F2F79B8BA8B2D0AEB5CC49" size="647264" />
   <file path="Data/caz.enc" hash="5A59A9FEFB70DC180469BE0AFCD7D6CA" size="1949" />
   <file path="Data/ChallengeDungeon.enc" hash="8851AF7718FF094D7EB112F91FD52271" size="932" />
   <file path="Data/ChallengeMissionData.enc" hash="B59B771CC04B1CA6B6D8BEC96BFE5416" size="1327" />
@@ -191,7 +190,7 @@
   <file path="Data/language/Portuguese/Awaken_auramode_msg.enc" hash="E48C71DCD0F23096EC7C7A9D01B5F598" size="675" />
   <file path="Data/language/Portuguese/balloon_msg.enc" hash="78552DEDA3C008732995A1B008C91317" size="5020" />
   <file path="Data/language/Portuguese/bossarena_msg.enc" hash="7421F15E5F5A099C0DA360E0EAF806E3" size="171" />
-  <file path="Data/language/Portuguese/cabal_msg.enc" hash="EFE9F232F633945FE08A00318279CB58" size="625940" />
+  <file path="Data/language/Portuguese/cabal_msg.enc" hash="0328434798F2F79B8BA8B2D0AEB5CC49" size="647264" />
   <file path="Data/language/Portuguese/caz_msg.enc" hash="EE6DC0D1551FC9D2AC2BC65ABBB7FCE9" size="2302" />
   <file path="Data/language/Portuguese/ChallengeMissionMsg.enc" hash="F8FA11DD4C2BA0BA2BF2CFA9D70BDAFD" size="240" />
   <file path="Data/language/Portuguese/Collection_msg.enc" hash="E937D8DEF106DD8893AB8E0F454E44EF" size="22641" />
