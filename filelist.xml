@@ -13,6 +13,7 @@
   <file path="Data/BossArena.enc" hash="03DEBBC1D31E8C65A3EF8E8E6069555A" size="625" />
   <file path="Data/boss_resistlist.enc" hash="95B75A64B51C77E30ADD59A7ED840844" size="1850" />
   <file path="Data/cabal.enc" hash="A6584E9357AB1E78E289D7412036DB36" size="222696" />
+  <file path="Data/cabal_msg.enc" hash="0328434798F2F79B8BA8B2D0AEB5CC49" size="647264" />
   <file path="Data/caz.enc" hash="5A59A9FEFB70DC180469BE0AFCD7D6CA" size="1949" />
   <file path="Data/ChallengeDungeon.enc" hash="8851AF7718FF094D7EB112F91FD52271" size="932" />
   <file path="Data/ChallengeMissionData.enc" hash="B59B771CC04B1CA6B6D8BEC96BFE5416" size="1327" />
